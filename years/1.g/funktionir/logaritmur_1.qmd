@@ -1,0 +1,84 @@
+﻿---
+title: "Logaritmur 1"
+---
+
+## Innleiðing
+
+Henda undirvísing innleiðir evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Hvat er logaritmur?
+
+Logaritmur er tað umvenda av eksponentialfunktiónini.
+
+Um:
+$$
+a^x = b
+$$
+
+so er:
+$$
+x = \log_a(b)
+$$
+
+### Vanligastu grunnir
+
+**Grunddur 10 (vanligur logaritmur):**
+$$
+\log(x) = \log_{10}(x)
+$$
+
+**Grunddur $e$ (náttúrligur logaritmur):**
+$$
+\ln(x) = \log_e(x)
+$$
+
+har $e \approx 2.71828$
+
+### Einfaldar dømi
+
+$$
+\log(100) = 2 \quad \text{tí } 10^2 = 100
+$$
+
+$$
+\log(1000) = 3 \quad \text{tí } 10^3 = 1000
+$$
+
+$$
+\log(1) = 0 \quad \text{tí } 10^0 = 1
+$$
+
+$$
+\log(0.1) = -1 \quad \text{tí } 10^{-1} = 0.1
+$$
+
+### Samband millum eksponential og logaritmur
+
+**Eksponentialfunktión:**
+$$
+y = a^x
+$$
+
+**Logaritmfunktión:**
+$$
+x = \log_a(y)
+$$
+
+### Grafiskur sambandi
+
+Grafikurin av $y = \log(x)$ er grafikurin av $y = 10^x$ speglað um linjuna $y = x$.
+
+### Nýtsla
+
+Logaritmar verða nýttir til at:
+- Loysa eksponentlíkar líkningar
+- Linearisera eksponentlíkar dáta
+- Mátgerð í rásindaløgum (pH, Richter, decibel)
+
+
+## Filmur 
+{{< video https://youtu.be/NM5JTRFnK3g?si=xdafAbGGMIqG0rcj >}}

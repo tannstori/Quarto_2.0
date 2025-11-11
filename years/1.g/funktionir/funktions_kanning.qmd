@@ -1,0 +1,63 @@
+﻿---
+title: "Funktións kanning"
+sidebar: sidebar-1g
+toc: true
+toc-location: right
+---
+
+{{< include ../breadcrumb.html >}}
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Hvat er funktiónskanning?
+
+Funktiónskanning er, tá vit kanna eginleikar hjá eini funktiónini.
+
+### Høvuðsøki
+
+1. **Definisiónsøki:** Hvørji virði av $x$ eru lóvlig?
+2. **Virðisøki:** Hvørji virði av $f(x)$ eru møgulig?
+3. **Nullstøð:** Har er $f(x) = 0$?
+4. **Skurðpunkt við $y$-ásin:** $f(0) = ?$
+5. **Vaksandi/minkandi:** Har veksur ella minkir funktiónin?
+6. **Ekstremtøl:** Maksimum og minimum
+7. **Asymptótar:** Línjar sum funktiónin nálgast
+
+### Dømi: Linjurættur funktión
+
+$$
+f(x) = 2x - 3
+$$
+
+- **Definisiónsøki:** $\mathbb{R}$ (øll virði)
+- **Virðisøki:** $\mathbb{R}$
+- **Nullstøð:** $2x - 3 = 0 \Rightarrow x = 1.5$
+- **$y$-skurðpunktur:** $f(0) = -3$
+- **Vaksandi:** Øll $x$ (tí $a > 0$)
+- **Ekstremtøl:** Einki
+- **Asymptótar:** Eingi
+
+### Dømi: Kvadratisk funktión
+
+$$
+f(x) = x^2 - 4
+$$
+
+- **Definisiónsøki:** $\mathbb{R}$
+- **Virðisøki:** $[-4, \infty)$
+- **Nullstøð:** $x = \pm 2$
+- **$y$-skurðpunktur:** $f(0) = -4$
+- **Minkandi:** $x < 0$
+- **Vaksandi:** $x > 0$
+- **Minimum:** $(0, -4)$
+- **Asymptótar:** Eingi
+
+
+## Filmur 
+{{< video https://youtu.be/TEKFLjXEUug?si=syXh-XgFxxq4jSsq >}}

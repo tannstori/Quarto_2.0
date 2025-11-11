@@ -1,0 +1,21 @@
+﻿---
+title: "Brot 2"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Advanced Fractions
+
+$$
+\frac{a + b}{c + d}
+$$
+
+
+## Filmur 
+{{< video https://youtu.be/I_a-iiX7NEE?si=nOujrVw6XJXBGiOK >}}

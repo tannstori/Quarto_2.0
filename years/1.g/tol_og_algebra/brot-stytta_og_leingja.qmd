@@ -1,0 +1,21 @@
+﻿---
+title: "Brot - stytta og leingja"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+\frac{2}{4} = \frac{1}{2}
+$$
+
+
+## Filmur 
+{{< video https://youtu.be/DDYcWsH6Qhg?si=pIPUwveHNzTaYVZe >}}

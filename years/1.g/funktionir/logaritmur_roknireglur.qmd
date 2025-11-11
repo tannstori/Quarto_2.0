@@ -1,0 +1,71 @@
+﻿---
+title: "Logaritmur roknireglur"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Høvuðsreglur
+
+**1. Produktregla:**
+$$
+\log(a \cdot b) = \log(a) + \log(b)
+$$
+
+**2. Kvotientsregla:**
+$$
+\log\left(\frac{a}{b}\right) = \log(a) - \log(b)
+$$
+
+**3. Potensregla:**
+$$
+\log(a^n) = n \cdot \log(a)
+$$
+
+**4. Grunnbroytingarregla:**
+$$
+\log_a(b) = \frac{\log_c(b)}{\log_c(a)}
+$$
+
+### Serligi virði
+
+$$
+\log(1) = 0
+$$
+
+$$
+\log(10) = 1 \quad \text{(um grunnurin er 10)}
+$$
+
+$$
+\ln(e) = 1 \quad \text{(um grunnurin er } e \text{)}
+$$
+
+$$
+\log_a(a) = 1
+$$
+
+### Dømi
+
+**Produktregla:**
+$$
+\log(100) = \log(10 \cdot 10) = \log(10) + \log(10) = 1 + 1 = 2
+$$
+
+**Potensregla:**
+$$
+\log(1000) = \log(10^3) = 3 \log(10) = 3 \cdot 1 = 3
+$$
+
+**Kvotientsregla:**
+$$
+\log(0.1) = \log\left(\frac{1}{10}\right) = \log(1) - \log(10) = 0 - 1 = -1
+$$
+
+## Filmur 
+{{< video https://youtu.be/cr-PECPblVs?si=27AIKcMrvhxd-Ani >}}

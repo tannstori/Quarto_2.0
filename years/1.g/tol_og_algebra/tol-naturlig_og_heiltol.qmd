@@ -1,0 +1,12 @@
+﻿---
+title: "Tøl - náturlig og heiltøl"
+---
+
+<!-- TODO: Replace with real lesson video -->
+
+
+Eitt heilt tal er....
+
+
+## Filmur 
+{{< video https://youtu.be/Fxb_PSuxJtE?si=HhzNW_QbT0LFLWPk >}}

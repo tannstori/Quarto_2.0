@@ -1,0 +1,34 @@
+﻿---
+title: "Populatión og stakroynd"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Definisiónir
+
+**Populatión:** Heila mengið av einstaklingum ella lutum, sum vit vilja kanna.
+
+**Stakroynd:** Ein partur av populatiónini, sum verður vald til kanningar.
+
+### Dømi
+
+- **Populatión:** Allir næmingar í Føroyum
+- **Stakroynd:** 500 tilvildarliga valdir næmingar
+
+### Týdning
+
+Tað er ofta ov kostnaðarsamað ella tíðarkrevjandi at kanna heilu populatiónina, so vit nýta eina stakroynd og draga ályktanir um heilu populatiónina.
+
+### Góð stakroynd
+
+Ein góð stakroynd skal vera:
+- Representativ
+- Tilvildarlig vald
+- Nóg stór
+

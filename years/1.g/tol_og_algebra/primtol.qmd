@@ -1,0 +1,23 @@
+﻿---
+title: "Primtøl"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Definisión
+
+Eitt primtal er eitt tal, sum bert kann býtast við 1 og sjálvum sær.
+
+### Dømi
+
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29...
+
+
+## Filmur 
+{{< video https://youtu.be/iuDuLYSeoQw?si=94b4cGPwCSh7C3zL >}}

@@ -1,0 +1,20 @@
+﻿---
+title: "Prógv: 1.kvadratsetningur algebraiskt"
+---
+
+## Prógv
+
+Henda undirvísing prgvar evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Algebraiskt prógv
+
+$$
+(a + b)^2 = (a + b)(a + b) = a^2 + ab + ba + b^2 = a^2 + 2ab + b^2
+$$
+
+## Filmur 
+{{< video https://youtu.be/UolqY76Zo8w?si=6cOebz4jjvIFcGeS >}}

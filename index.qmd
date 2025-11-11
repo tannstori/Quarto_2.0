@@ -1,0 +1,261 @@
+---
+title: "Vælkomin til Minerva!"
+page-layout: custom
+title-block-banner: false
+---
+
+```{=HTML}
+<style>
+/* Hero Section */
+.hero-section {
+  text-align: center;
+  padding: 80px 20px 60px;
+  background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
+  color: white;
+  margin: -50px 0 60px 0;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.hero-section h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  margin-bottom: 16px;
+  background: linear-gradient(135deg, #60A5FA, #A78BFA, #ffffff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-section p {
+  font-size: 1.2em;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+/* Container */
+.course-cards-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.intro-text {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  padding: 30px;
+  background: rgba(59, 130, 246, 0.05);
+  border-radius: 12px;
+  border: 1px solid rgba(59, 130, 246, 0.1);
+}
+
+.intro-text h2 {
+  color: #0F172A;
+  font-size: 1.8em;
+  margin-bottom: 16px;
+  font-weight: 600;
+  border: none;
+  padding: 0;
+}
+
+.intro-text p {
+  color: #6B7280;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+/* Course Cards */
+.course-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin-top: 40px;
+}
+
+.course-card {
+  background: white;
+  border-radius: 12px;
+  padding: 32px 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  text-align: center;
+  border: 1px solid #E5E7EB;
+  position: relative;
+}
+
+.course-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #3B82F6, #8B5CF6);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 12px 12px 0 0;
+}
+
+.course-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  border-color: #3B82F6;
+}
+
+.course-card:hover::before {
+  opacity: 1;
+}
+
+.course-card h3 {
+  color: #0F172A;
+  font-size: 1.5em;
+  margin-bottom: 12px;
+  font-weight: 600;
+  border: none;
+  padding: 0;
+}
+
+.course-card p {
+  color: #6B7280;
+  font-size: 0.95em;
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+.course-card .btn {
+  background: linear-gradient(135deg, #3B82F6, #60A5FA);
+  color: white !important;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.95em;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.course-card .btn:hover {
+  background: linear-gradient(135deg, #2563EB, #3B82F6);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+  color: white !important;
+}
+
+/* Mobile Responsiveness */
+@media screen and (max-width: 768px) {
+  .hero-section {
+    padding: 60px 20px 40px;
+    margin: -20px -20px 40px;
+  }
+  
+  .hero-section h1 {
+    font-size: 2em;
+  }
+  
+  .hero-section p {
+    font-size: 1.1em;
+  }
+  
+  .intro-text {
+    padding: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .intro-text h2 {
+    font-size: 1.5em;
+  }
+  
+  .course-cards {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .course-card {
+    padding: 28px 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .hero-section {
+    padding: 50px 15px 35px;
+  }
+  
+  .hero-section h1 {
+    font-size: 1.75em;
+  }
+  
+  .hero-section p {
+    font-size: 1em;
+  }
+  
+  .intro-text {
+    padding: 20px;
+  }
+  
+  .intro-text h2 {
+    font-size: 1.3em;
+  }
+  
+  .intro-text p {
+    font-size: 0.95em;
+  }
+}
+</style>
+
+<div class="hero-section">
+  <h1>Vælkomin til Minerva!</h1>
+  <p>Eitt gullnám av støddfrøðisfilmum - læra støddfrøði á tínum egna máti</p>
+</div>
+```
+
+<div class="course-cards-container">
+
+<div class="intro-text">
+
+## Um Minerva
+
+Minerva er eitt ikki bara eitthvørt nám. Tað er eitt **gullnám** av støddfrøðisfilmum, sum hjálpa tær at læra støddfrøði á tínum egna máti.
+
+Her finnur tú í løtuni støddfrøðifilmar á C-stigi og B-stigi. Vel tín árgang niðanfyri og byrja at læra!
+
+</div>
+
+<div class="course-cards">
+
+<div class="course-card">
+
+### 📐 Støddfrøði C
+
+**Fyri 1.g nemingar**
+
+Læra grundleggjandi støddfrøði við filmalektiónum, sum eru gjørd serstakliga fyri 1.g. Við hvørjum tíma fært tú eitt betri innsæi í støddfrøði.
+
+[Vel Støddfrøði C →](years/1.g/index.qmd){.btn}
+
+</div>
+
+<div class="course-card">
+
+### 📊 Støddfrøði B
+
+**Fyri 2.g nemingar**
+
+Bygg víðari á tínum kunleika við støddfrøðifilmum til 2.g. Djúpari viðfangi og framkomnar teknikkir.
+
+[Vel Støddfrøði B →](years/2.g/index.qmd){.btn}
+
+</div>
+
+</div>
+
+</div>
+
+{{< include footer.html >}}

@@ -1,0 +1,65 @@
+﻿---
+title: "Bólkaðar observatiónir"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Hvat eru bólkaðar observatiónir?
+
+Bólkaðar observatiónir eru dáta, sum eru flokkað í bólkar ella intervøl.
+
+### Orsøk til at bólka
+
+- Nógvir dátapunkt
+- Yvirlitið verður betri
+- Einfaldari at gera grafar
+- Privatlívið verður varðveitt
+
+### Dømi
+
+**Óbólkað:** Aldur av 100 persónum: 23, 24, 25, 23, 27...
+
+**Bólkað:**
+| Aldursbólkur | Hyppigheit |
+|--------------|------------|
+| 20-24        | 15         |
+| 25-29        | 32         |
+| 30-34        | 28         |
+| 35-39        | 25         |
+
+### Miðpunkt av bólki
+
+Tá vit rokna við bólkaðum dátum, brúka vit miðpunktið av hvørjum bólki:
+
+$$
+\text{Miðpunkt} = \frac{\text{Neðri mørk} + \text{Ovari mørk}}{2}
+$$
+
+Fyri bólkin 20-24:
+$$
+\text{Miðpunkt} = \frac{20 + 24}{2} = 22
+$$
+
+### Miðalvirði fyri bólkaðar dáta
+
+$$
+\bar{x} = \frac{\sum f_i \cdot x_i}{\sum f_i}
+$$
+
+har $f_i$ er hyppigheitin og $x_i$ er miðpunktið í hvørjum bólki.
+
+### Avmarkingar
+
+- Vit missa náttúrligu dátini
+- Útrokningar eru einans umleið neyvar
+- Val av bólkum ávirkar úrslitið
+
+
+## Filmur 
+{{< video https://youtu.be/J9UuJkgCf8g?si=AzrGZStZdXDM-MdV >}}

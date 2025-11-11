@@ -1,0 +1,25 @@
+﻿---
+title: "Potensroknireglur 3"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Serstøk føri
+
+$$
+a^0 = 1
+$$
+
+$$
+a^{-n} = \frac{1}{a^n}
+$$
+
+## Filmur 
+{{< video https://youtu.be/H5QGClWeXPg?si=DOXe4QJ1ryouIKzW >}}
+

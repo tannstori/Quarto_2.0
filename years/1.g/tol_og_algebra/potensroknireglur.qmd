@@ -1,0 +1,29 @@
+﻿---
+title: "Potensroknireglur"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Reglur
+
+$$
+a^m \cdot a^n = a^{m+n}
+$$
+
+$$
+\frac{a^m}{a^n} = a^{m-n}
+$$
+
+$$
+(a^m)^n = a^{mn}
+$$
+
+
+## Filmur 
+{{< video https://youtu.be/3kv1ATHASiQ?si=O3ilqaxowWsHehFf >}}

@@ -1,0 +1,18 @@
+﻿---
+title: "Prógv: 3.kvadratsetningar geometriskt"
+---
+
+## Prógv
+
+Henda undirvísing prgvar evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Geometriskt prógv
+
+Vísir eitt rektangul við síðum $a$ og $b$ og minkað eitt kvadrat.
+
+## Filmur 
+{{< video https://youtu.be/0BzvhQ5-jJw?si=SlZAQJg0pdY9yQIt >}}

@@ -1,0 +1,25 @@
+﻿---
+title: "Potensroknireglur 2"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Fleiri reglur
+
+$$
+(ab)^n = a^n b^n
+$$
+
+$$
+\left(\frac{a}{b}\right)^n = \frac{a^n}{b^n}
+$$
+
+## Filmur 
+{{< video https://youtu.be/Mx7gINff2Wo?si=7DpMhME82kktHQH3 >}}
+

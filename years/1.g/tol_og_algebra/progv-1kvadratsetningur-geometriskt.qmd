@@ -1,0 +1,18 @@
+﻿---
+title: "Prógv: 1.kvadratsetningur geometriskt"
+---
+
+## Prógv
+
+Henda undirvísing prgvar evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Geometriskt prógv
+
+Vísir eitt kvadrat við síðum $(a + b)$ og skiftar tað í fýra partar.
+
+## Filmur 
+{{< video https://youtu.be/D65Gg48yALg?si=RN-3AUYqIRH9S12s >}}

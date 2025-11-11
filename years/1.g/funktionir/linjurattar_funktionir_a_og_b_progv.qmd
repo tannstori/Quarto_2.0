@@ -1,0 +1,77 @@
+﻿---
+title: "Linjurættar funktiónir a og b prógv"
+---
+
+## Prógv
+
+Henda undirvísing prgvar evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Almenn forma
+
+$$
+f(x) = ax + b
+$$
+
+har:
+- $a$ er hellurin (gradient)
+- $b$ er skurðpunktið við $y$-ásin
+
+### Prógv: Hellur frá tveimum punktum
+
+Givið tveir punkt $(x_1, y_1)$ og $(x_2, y_2)$.
+
+**Hellur:**
+$$
+a = \frac{y_2 - y_1}{x_2 - x_1} = \frac{\Delta y}{\Delta x}
+$$
+
+**Prógv:**
+Tí funktiónin er linjurættur, er broytingin í $y$ proportional við broytingini í $x$.
+
+Lutfallið er konstant og definerar hellurin.
+
+### Prógv: Finna b
+
+Tá vit vita hellurin $a$ og ein punkt $(x_0, y_0)$:
+
+$$
+y_0 = ax_0 + b
+$$
+
+$$
+b = y_0 - ax_0
+$$
+
+### Prógv: Parallellir linjur
+
+Tveir linjur eru parallellir, um teir hava sama hellur:
+
+$$
+f(x) = a_1 x + b_1
+$$
+$$
+g(x) = a_2 x + b_2
+$$
+
+Um $a_1 = a_2$ og $b_1 \neq b_2$, eru linjurnar parallellir.
+
+### Prógv: Vinkelrættir linjur
+
+Tveir linjur eru vinkelrættir, um:
+
+$$
+a_1 \cdot a_2 = -1
+$$
+
+Ella:
+$$
+a_2 = -\frac{1}{a_1}
+$$
+
+
+## Filmur 
+{{< video https://youtu.be/NM5JTRFnK3g?si=kJGle9ujWOsd13zK >}}

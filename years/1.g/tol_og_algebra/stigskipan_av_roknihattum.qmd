@@ -1,0 +1,21 @@
+﻿---
+title: "Stigskipan av rokniháttum"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Reglur
+
+1. Parentesar
+2. Potensar og røtur
+3. Faldingar og býtingar
+4. Leggingar og frádráttar
+
+## Filmur 
+{{< video https://youtu.be/NSBuRIYEQ9E?si=PFdGiHTeOp0XOP5d >}}

@@ -1,0 +1,42 @@
+﻿---
+title: "Einsvinklaðir trýkantar"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Definisión
+
+Tveir trýkantar eru einsvinklaðir, um:
+- Allir samsvarandi vinklar eru líka stórir
+- Lutfallið millum samsvarandi síður er konstant
+
+### Eginleikar
+
+Um trýkantar ABC og DEF eru einsvinklaðir, so:
+
+$$
+\frac{AB}{DE} = \frac{BC}{EF} = \frac{AC}{DF} = k
+$$
+
+har $k$ er skalafakturin.
+
+### Kriterier fyri einsvinkling
+
+Tveir trýkantar eru einsvinklaðir, um:
+1. **VVV:** Allir trý vinklar eru líkir
+2. **SSS:** Lutfallið millum allar síður er eins
+3. **SVS:** Tvey lutføll eru líka og vinkulin ímillum er líkur
+
+### Dømi
+
+Um ein trýkantur hevur síður 3, 4, 5 og ein annar hevur síður 6, 8, 10, so eru teir einsvinklaðir við skalafaktur $k = 2$.
+
+## Filmur 
+{{< video https://youtu.be/FFSOeIOqUNU?si=fd3pgK_08eblsUGc >}}
+

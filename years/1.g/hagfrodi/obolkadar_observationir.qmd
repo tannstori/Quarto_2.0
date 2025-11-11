@@ -1,0 +1,47 @@
+﻿---
+title: "Óbólkaðar observatiónir"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Hvat eru óbólkaðar observatiónir?
+
+Óbólkaðar observatiónir eru dáta, sum ikki eru flokkað í bólkar ella intervøl.
+
+### Dømi
+
+Ein klassi hevur hesir aldrar:
+16, 17, 16, 18, 17, 16, 17, 17, 18, 16
+
+Hettar eru óbólkaðar observatiónir, tí hvør aldur er skrásettur fyri seg.
+
+### Hyggist at
+
+Við óbólkaðum observatiónum kunnu vit:
+- Rokna neyva miðalvirði
+- Finna median
+- Finna typutal
+- Finna spjaðing
+
+### Samanberjan við bólkaðum
+
+**Óbólkaðar:** 16, 17, 16, 18, 17...
+
+**Bólkaðar:** 
+- 15-17 ár: 7 persónar
+- 18-20 ár: 3 persónar
+
+### Tá óbólkaðar observatiónir eru góðar
+
+- Fá dátapunkt
+- Neyv virði eru týdningarmikil
+- Einkel útrokning
+
+## Filmur 
+{{< video https://youtu.be/yyjUh5Cz6pw?si=OJqlfHbs4grTV1RV >}}

@@ -1,0 +1,49 @@
+﻿---
+title: "Funktiónir"
+sidebar: sidebar-1g
+---
+
+:::{.lesson-grid}
+
+:::{.lesson-card}
+### 📈 Potensfunktiónir
+- [Potensfunktiónir a og b](potensfunktionir_a_o_b.qmd)
+- [Potensfunktiónir 2](potensfunktionir_2.qmd)
+- [Potensfunktiónir 1](potensfunktionir_1.qmd)
+:::
+
+:::{.lesson-card}
+### 📊 Linjurættar Funktiónir
+- [Linjurættar funktiónir 1](linjurattar_funktionir_1.qmd)
+- [Linjurættar funktiónir 2](linjurattar_funktionir_2.qmd)
+- [Linjurættar funktiónir a og b](linjurattar_funktionir_a_og_b.qmd)
+- [Linjurættar funktiónir a og b prógv](linjurattar_funktionir_a_og_b_progv.qmd)
+- [Linjurættar funktiónir dømi](linjurattar_funktionir_domi.qmd)
+:::
+
+:::{.lesson-card}
+### 🔍 Funktiónskanning
+- [Funktións kanning](funktions_kanning.qmd)
+- [Funktións kanning 2](funktions_kanning_2.qmd)
+:::
+
+:::{.lesson-card}
+### 📉 Logaritmur
+- [Logaritmur 1](logaritmur_1.qmd)
+- [Logaritmur 2](logaritmur_2.qmd)
+- [Logaritmur roknireglur](logaritmur_roknireglur.qmd)
+:::
+
+:::{.lesson-card}
+### ⚡ Eksponentiellar Funktiónir
+- [Mangli at uploada - Eksponentiellar funktiónir](mangli_at_uploada_eksponentiellar_funktionir.qmd)
+- [Eksponentiellar funktión helvt](eksponentiellar_funktion_helvt.qmd)
+- [Eksponentiellar funktión tví helt](eksponentiellar_funktion_tvi_helt.qmd)
+- [Eksponentiellar funktión tví prógv](eksponentiellar_funktion_tvi_progv.qmd)
+- [Eksponentiellar funktión finn ab](eksponentiellar_funktion_finn_ab.qmd)
+- [Eksponentiellar funktión finn ab dømi](eksponentiellar_funktion_finn_ab_domi.qmd)
+:::
+
+:::
+
+

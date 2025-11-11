@@ -1,0 +1,92 @@
+﻿---
+title: "Eksponentiellar funktión finn ab"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Almennur formurin
+
+$$
+f(x) = a \cdot b^x
+$$
+
+### Finn a
+
+Parametrið $a$ er byrjanarvirðið, tá $x = 0$:
+
+$$
+f(0) = a \cdot b^0 = a \cdot 1 = a
+$$
+
+So $a = f(0)$.
+
+### Finna b
+
+Tá vit vita $a$ og eitt annað punkt $(x_1, y_1)$:
+
+$$
+y_1 = a \cdot b^{x_1}
+$$
+
+$$
+b^{x_1} = \frac{y_1}{a}
+$$
+
+$$
+b = \left(\frac{y_1}{a}\right)^{\frac{1}{x_1}}
+$$
+
+### Finna a og b frá tveimum punktum
+
+Givið $(x_1, y_1)$ og $(x_2, y_2)$:
+
+**Systema:**
+$$
+y_1 = a \cdot b^{x_1}
+$$
+$$
+y_2 = a \cdot b^{x_2}
+$$
+
+**Loysn:**
+Deil annaða við fyrstu:
+
+$$
+\frac{y_2}{y_1} = b^{x_2 - x_1}
+$$
+
+$$
+b = \left(\frac{y_2}{y_1}\right)^{\frac{1}{x_2 - x_1}}
+$$
+
+So finna $a$ frá einum av punktunum.
+
+### Alternativt: Linearisingur
+
+Tak logaritman av báðum síðum:
+
+$$
+\log(f(x)) = \log(a) + x \log(b)
+$$
+
+Hetta er linjurættur í $x$ og $\log(f(x))$.
+
+Plotta $x$ móti $\log(f(x))$ og finna linjuna.
+
+### Nýtsla
+
+Hetta verður nýtt til:
+- Modellera dáta
+- Finna vøksturssatsar
+- Spáa framtíðar virði
+- Analysera eksperimentlíkar dáta
+
+
+## Filmur 
+{{< video https://youtu.be/5Ce5MLSjSvA?si=7Qwgp9z8J9zkv768 >}}

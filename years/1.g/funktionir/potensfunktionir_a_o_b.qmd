@@ -1,0 +1,61 @@
+﻿---
+title: "Potensfunktiónir a og b"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Almenn forma
+
+Potensfunktiónir hava formuna:
+
+$$
+f(x) = a \cdot x^b
+$$
+
+har:
+- $a$ er ein konstant (amplituda)
+- $b$ er potenstalið
+
+### Eginleikar
+
+**Tá $a > 0$:**
+- Funktiónin er altíð positiv
+
+**Tá $a < 0$:**
+- Funktiónin er altíð negativ
+
+**Tá $b > 0$:**
+- Funktiónin veksur
+
+**Tá $b < 0$:**
+- Funktiónin minkir
+
+### Dømi
+
+$$
+f(x) = 2x^3
+$$
+
+Her er $a = 2$ og $b = 3$.
+
+$$
+f(x) = -\frac{1}{2}x^{-2} = -\frac{1}{2x^2}
+$$
+
+Her er $a = -\frac{1}{2}$ og $b = -2$.
+
+### Serligi føri
+
+- $b = 1$: Linjurættur
+- $b = 2$: Kvadratisk
+- $b = \frac{1}{2}$: Kvadratrót
+- $b = -1$: Reciprokur
+
+## Filmur 
+{{< video https://youtu.be/49jM_ROK4RE?si=Z9NnwpPjtG1lpbvO >}}

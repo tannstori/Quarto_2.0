@@ -1,0 +1,25 @@
+﻿---
+title: "Rótroknireglur"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Reglur
+
+$$
+\sqrt{ab} = \sqrt{a} \cdot \sqrt{b}
+$$
+
+$$
+\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}
+$$
+
+
+## Filmur 
+{{< video https://youtu.be/P1CgSEucCcU?si=Pc6Doa075w3vpfzx >}}

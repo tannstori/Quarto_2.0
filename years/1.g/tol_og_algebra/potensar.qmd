@@ -1,0 +1,20 @@
+﻿---
+title: "Potensar"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+a^n = \underbrace{a \cdot a \cdot ... \cdot a}_{n \text{ ferðir}}
+$$
+
+## Filmur 
+{{< video https://youtu.be/5PL6BmjnkLI?si=OafpnvymcG1qGv9R >}}

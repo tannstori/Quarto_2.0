@@ -1,0 +1,26 @@
+﻿---
+title: "Tøl - makað og støk tøl"
+sidebar: sidebar-1g
+toc: true
+---
+
+## Innleiðing
+
+Her læra vit um makað og støk tøl.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+2n \text{ er makað}
+$$
+
+$$
+2n+1 \text{ er stakt}
+$$
+
+{{< video https://youtu.be/cKzJuSgSyh0?si=anG6tLO4xq15NjIO >}}
+

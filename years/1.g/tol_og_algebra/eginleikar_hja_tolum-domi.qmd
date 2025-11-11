@@ -1,0 +1,26 @@
+﻿---
+title: "Eginleikar hjá tølum - dømi"
+---
+
+## Dømi
+
+Henda undirvísing gevur dmi um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Dømi 1
+
+$$
+a + b = b + a
+$$
+
+### Dømi 2
+
+$$
+(a + b) + c = a + (b + c)
+$$
+
+## Filmur 
+{{< video https://youtu.be/1B7EtS3PpzA?si=6Gt5d3j5zPrHiMmb >}}

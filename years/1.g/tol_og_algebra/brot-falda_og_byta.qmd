@@ -1,0 +1,24 @@
+﻿---
+title: "Brot - falda og býta"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+\frac{a}{b} \cdot \frac{c}{d} = \frac{ac}{bd}
+$$
+
+$$
+\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \cdot \frac{d}{c}
+$$
+
+## Filmur 
+{{< video https://youtu.be/jvw76RbLG0g?si=wNpeWraOcbXR96gl >}}

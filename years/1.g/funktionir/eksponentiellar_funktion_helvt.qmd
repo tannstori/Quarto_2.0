@@ -1,0 +1,73 @@
+﻿---
+title: "Eksponentiellar funktión helvt"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Helvingartíð
+
+Helvingartíð er tann tíðin, tað tekur fyri eitt virði at helvast.
+
+### Forma
+
+$$
+f(x) = a \cdot \left(\frac{1}{2}\right)^{\frac{x}{T_{1/2}}}
+$$
+
+har:
+- $a$ er byrjanarvirðið
+- $T_{1/2}$ er helvingartíðin
+
+### Alternativ skriving
+
+$$
+f(x) = a \cdot 0.5^{\frac{x}{T_{1/2}}}
+$$
+
+### Dømi: Radioaktivur minking
+
+Ein radioaktivur evnið hevur helvingartíð 5 ár. Byrjarupphædd er 100 g.
+
+$$
+f(x) = 100 \cdot \left(\frac{1}{2}\right)^{\frac{x}{5}}
+$$
+
+**Eftir 10 ár:**
+$$
+f(10) = 100 \cdot \left(\frac{1}{2}\right)^{\frac{10}{5}} = 100 \cdot \left(\frac{1}{2}\right)^2 = 100 \cdot \frac{1}{4} = 25 \text{ g}
+$$
+
+### Sambandi við vøkstursfaktur
+
+Um vøkstursfakturin er $b$:
+
+$$
+b = \left(\frac{1}{2}\right)^{\frac{1}{T_{1/2}}}
+$$
+
+### Dømi: Medicin
+
+Ein medicin hevur helvingartíð 6 tímar í kroppin. Um tú tekur 200 mg, hvussu nógv er eftir 12 tímar?
+
+$$
+f(12) = 200 \cdot \left(\frac{1}{2}\right)^{\frac{12}{6}} = 200 \cdot \left(\frac{1}{2}\right)^2 = 50 \text{ mg}
+$$
+
+### Grafikur
+
+Grafikurin av helvingsfunktiónini:
+- Byrjar við $a$
+- Minkir eksponentielt
+- Nálgast 0, men røkur aldri 0
+- Asymptota við $y = 0$
+
+
+## Filmur 
+{{< video https://youtu.be/j5VFCc4TOx8?si=Vk3GQOhmKna8JHQe >}}
+

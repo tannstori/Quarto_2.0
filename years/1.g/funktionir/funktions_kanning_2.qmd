@@ -1,0 +1,67 @@
+﻿---
+title: "Funktións kanning 2"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Asymptótar
+
+**Loddrætt asymptota:**
+Ein loddrætt linja, sum funktiónin nálgast, men aldri røkur.
+
+**Vatnrætt asymptota:**
+Ein vatnrætt linja, sum funktiónin nálgast fyri stór virði av $x$.
+
+### Dømi
+
+Funktiónin $f(x) = \frac{1}{x}$:
+- Loddrætt asymptota: $x = 0$
+- Vatnrætt asymptota: $y = 0$
+
+### Ekstremtøl
+
+**Lokalur maksimum:**
+Punkt, har funktiónin hevur størsta virði í einum øki.
+
+**Lokalur minimum:**
+Punkt, har funktiónin hevur minsta virði í einum øki.
+
+### Vaksandi og minkandi
+
+**Vaksandi:**
+Um $x_1 < x_2$ leiðir til $f(x_1) < f(x_2)$
+
+**Minkandi:**
+Um $x_1 < x_2$ leiðir til $f(x_1) > f(x_2)$
+
+### Symmetri
+
+**Jøvn funktión:**
+$$
+f(-x) = f(x)
+$$
+Symmetrisk um $y$-ásin.
+
+**Odda funktión:**
+$$
+f(-x) = -f(x)
+$$
+Rótasymmetrisk um upphavið.
+
+### Nullstøð og forteiknsskifti
+
+**Nullstøð:**
+Virði av $x$, har $f(x) = 0$
+
+**Forteiknsskifti:**
+Har funktiónin broytir frá positivum til negativum ella øvugt.
+
+
+## Filmur 
+{{< video https://youtu.be/hR0UROwcF9M?si=CBd7-9zDdTIdx0qX >}}

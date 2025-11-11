@@ -1,0 +1,69 @@
+﻿---
+title: "Linjurættar funktiónir 1"
+---
+
+## Innleiðing
+
+Henda undirvísing innleiðir evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Hvat er linjurættur funktión?
+
+Ein linjurættur funktión er ein funktión, har grafikurin er ein bein linja.
+
+### Almenn forma
+
+$$
+f(x) = ax + b
+$$
+
+### Eginleikar
+
+- Grafikurin er ein bein linja
+- Konstant hellur
+- Kann skrivast sum $y = ax + b$
+
+### Einfaldar dømi
+
+**$f(x) = x$:**
+- Hellur 1
+- Fer ígjøgnum upphavið
+- 45° vinkul
+
+**$f(x) = 2x$:**
+- Hellur 2
+- Bratari enn $f(x) = x$
+
+**$f(x) = x + 3$:**
+- Hellur 1
+- Flutt 3 eindir upp
+
+**$f(x) = 3$:**
+- Hellur 0
+- Horisontalur linja ígjøgnum $y = 3$
+
+### Teikna linjur
+
+Til at teikna ein linja:
+1. Finna tveir punkt
+2. Draga linja ígjøgnum teir
+
+**Lættasti hátt:**
+- Byrja við $b$ (skurðpunkt við $y$-ásin)
+- Nýt hellurin at finna annan punkt
+
+### Dømi
+
+Teikna $f(x) = 2x - 1$:
+
+1. Byrja í (0, -1) (tí $b = -1$)
+2. Frá hesum punkti: Far 1 til hægri, 2 upp (tí $a = 2$)
+3. Punkt: (1, 1)
+4. Draga linja ígjøgnum (0, -1) og (1, 1)
+
+
+## Filmur 
+{{< video https://youtu.be/S0_JBolArLw?si=DiN0jZ5MzFafT3dg >}}

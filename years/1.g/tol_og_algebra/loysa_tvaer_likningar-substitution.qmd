@@ -1,0 +1,21 @@
+﻿---
+title: "Loysa tvær líkningar við tveimum ókendum - substitutión"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Háttur
+
+1. Loysa eina av líkningunum fyri einum ókendum
+2. Set niðurstøðuna inn í hina líkningina
+3. Loysa fyri tí síðsta ókenda
+
+
+## Filmur 
+{{< video https://youtu.be/se_3v3SXc1w?si=ROMTviEZfLZ38Bmn >}}

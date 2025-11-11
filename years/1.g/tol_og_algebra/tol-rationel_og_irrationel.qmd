@@ -1,0 +1,23 @@
+﻿---
+title: "Tøl - rationel og irrationel tøl"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Rationel tøl
+
+Tøl sum kunnu skrivast sum brot: $\frac{a}{b}$
+
+### Irrationel tøl
+
+Tøl sum ikki kunnu skrivast sum brot, t.d. $\sqrt{2}$, $\pi$
+
+
+## Filmur 
+{{< video https://youtu.be/HWlGTJG3Wls?si=HLsd2LXqdUineohy >}}

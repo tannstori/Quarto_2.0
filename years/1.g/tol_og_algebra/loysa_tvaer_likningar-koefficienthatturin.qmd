@@ -1,0 +1,21 @@
+﻿---
+title: "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin"
+---
+
+## Innleiðing
+
+Henda undirvísing fevnir um evnið.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Háttur
+
+1. Fá líka koeffisientar fyri eitt ókent
+2. Legg saman ella dreg frá
+3. Loysa fyri tí síðsta ókenda
+
+
+## Filmur 
+{{< video https://youtu.be/claqesKCZQ0?si=ETaW9d4Ny-1nL4lu >}}
