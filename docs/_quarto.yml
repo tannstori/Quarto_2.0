@@ -15,7 +15,7 @@ format:
     math: true  # Enable LaTeX math rendering
     css: 
       - styles.css  # Main custom styles
-      - minerva_theme.scss  # Additional theme enhancements
+      - minerva_theme.css  # Additional theme enhancements
     include-after-body: navbar-handler.html  # Dynamic navbar behavior
     smooth-scroll: true  # Smooth scrolling to anchors
     
@@ -37,7 +37,7 @@ format:
 
 website:
   title: "Minerva"  # Site title in navbar
-  site-url: "https://yourdomain.com"  # Update with your actual URL
+  site-url: "https://tannstori.github.io/Quarto_2.0"  # GitHub Pages URL
   search: true  # Enable site search
   # Top Navigation Bar
   navbar:

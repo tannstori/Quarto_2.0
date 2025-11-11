@@ -1,1 +1,1 @@
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://tannstori.github.io/Quarto_2.0/sitemap.xml
