@@ -106,7 +106,7 @@
     "href": "years/1.g/tol_og_algebra/tol-naturlig_og_heiltol.html",
     "title": "Tøl - náturlig og heiltøl",
     "section": "",
-    "text": "Tey natúrligu tølini eru tey fyrstu tølini vit menniskju byrja at brúka. Tað eru tølini sum vit kunnu telja á fingrunum 1,2,3,4 og óendaliga langt upp. Hesa tølini frámerkja vit við bókstavinum:\n\\[\\mathbb{N}\\]\nVit kunnu skriva tey natúrligu tølini sum eina mongd á hendan hátt:\n\\[\\mathbb{N} = \\{1, 2, 3, 4, \\ldots\\}\\]\nHer merkja tey trý punktumini at mongdin av tølini heldur á fram í allar ævir.",
+    "text": "Tey natúrligu tølini eru tey fyrstu tølini vit menniskju byrja at brúka. Tað eru tølini sum vit kunnu telja á fingrunum 1,2,3,4 og óendaliga langt upp. Hesa tølini frámerkja vit við bókstavinum:\n\\[\\mathbb{N}\\]\nVit kunnu skriva tey natúrligu tølini sum eina mongd á hendan hátt:\n\\[\\mathbb{N} = \\{1, 2, 3, 4, \\ldots\\}\\]\nHer merkja tey trý punktumini at mongdin av tølum heldur á fram í allar ævir.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Grundleggjandi Tal-ástøði",
@@ -610,7 +610,7 @@
     "href": "years/1.g/tol_og_algebra/index.html",
     "title": "Tøl og Algebra",
     "section": "",
-    "text": "📚 Grundleggjandi Tal-ástøði\n\nTøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\n\n\n\n🔢 Brot\n\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\n\n\n\n📐 Kvadratsetningar\n\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\n\n\n\n⚡ Potensar\n\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\n\n\n\n🎯 Líkningar\n\nLoysa tvær líkningar - substitutión\nLoysa tvær líkningar - koefficienthátturin\nLoysa tvær líkningar - grafiskt\n\n\n\n√ Røtur og Talmongdir\n\nTøl - rationel og irrationel tøl\nRótroknireglur\nRótroknireglur 2\nRøtur og rótroknireglur",
+    "text": "📚 Grundleggjandi Tal-ástøði\n\nTøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nTøl - rationel og irrationel tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\n\n\n\n🔢 Brot\n\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\n\n\n\n📐 Kvadratsetningar\n\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\n\n\n\n⚡ Potensar\n\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\n\n\n\n🎯 Líkningar\n\nLoysa tvær líkningar - substitutión\nLoysa tvær líkningar - koefficienthátturin\nLoysa tvær líkningar - grafiskt\n\n\n\n√ Røtur og Talmongdir\n\nRótroknireglur\nRótroknireglur 2\nRøtur og rótroknireglur",
     "crumbs": [
       "📚 Tøl og Algebra"
     ]
@@ -4877,7 +4877,7 @@
     "href": "years/1.g/index.html#tøl-og-algebra",
     "title": "Støddfrøði C - Øll Evni",
     "section": "📚 Tøl og Algebra",
-    "text": "📚 Tøl og Algebra\n\n\n📚 Grundleggjandi Tal-ástøði\n\nTøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\n\n\n\n🔢 Brot\n\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\n\n\n\n📐 Kvadratsetningar\n\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\n\n\n\n⚡ Potensar\n\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\n\n\n\n🎯 Líkningar\n\nLoysa tvær líkningar - substitutión\nLoysa tvær líkningar - koefficienthatturin\nLoysa tvær líkningar - grafiskt\n\n\n\n🔲 Røtur\n\nTøl - rationel og irrationel\nRotroknireglur\nRotroknireglur 2\nRøtur og rotroknireglur",
+    "text": "📚 Tøl og Algebra\n\n\n📚 Grundleggjandi Tal-ástøði\n\nTøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nTøl - rationel og irrationel tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\n\n\n\n🔢 Brot\n\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\n\n\n\n📐 Kvadratsetningar\n\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\n\n\n\n⚡ Potensar\n\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\n\n\n\n🎯 Líkningar\n\nLoysa tvær líkningar - substitutión\nLoysa tvær líkningar - koefficienthatturin\nLoysa tvær líkningar - grafiskt\n\n\n\n🔲 Røtur\n\nTøl - rationel og irrationel\nRotroknireglur\nRotroknireglur 2\nRøtur og rotroknireglur",
     "crumbs": [
       "🏠 Tilbaka til Øll Evni"
     ]
@@ -6221,10 +6221,10 @@
     "href": "years/1.g/tol_og_algebra/tol-rationel_og_irrationel.html",
     "title": "Tøl - rationel og irrationel tøl",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Rationel tøl eru øll heil tøl og øll tey tøl ið kunnu skrivast sum eitt brot: \\[\\frac{a}{b}\\]\nRationel tøl verða frámerkt við bókstavinum: \\[\n\\mathbb{Q}\n\\]\nHendan mongdin av tølum rúmar næstan øll tøl, írokna tey tølini, ið liggj ímillum tey heilu tølini. Hetta eru tøl sum 2,5 og -5,9, tí \\[\n2,5=\\frac{5}{2}\n\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
-      "Røtur og Talmongdir",
+      "Grundleggjandi Tal-ástøði",
       "Tøl - rationel og irrationel tøl"
     ]
   },
@@ -6260,7 +6260,7 @@
     "text": "Filmur",
     "crumbs": [
       "📚 Tøl og Algebra",
-      "Røtur og Talmongdir",
+      "Grundleggjandi Tal-ástøði",
       "Tøl - rationel og irrationel tøl"
     ]
   },

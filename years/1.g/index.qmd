@@ -77,6 +77,7 @@ sidebar: sidebar-1g
 ### 📚 Grundleggjandi Tal-ástøði
 - [Tøl - nátúrlig og heiltøl](tol_og_algebra/tol-naturlig_og_heiltol.qmd)
 - [Tøl - makað og støk tøl](tol_og_algebra/tol-makad_og_stok.qmd)
+- [Tøl - rationel og irrationel tøl](tol_og_algebra/tol-rationel_og_irrationel.qmd)
 - [Eginleikar hjá tølum](tol_og_algebra/eginleikar_hja_tolum.qmd)
 - [Eginleikar hjá tølum - dømi](tol_og_algebra/eginleikar_hja_tolum-domi.qmd)
 - [Stigskipan av rokniháttum](tol_og_algebra/stigskipan_av_roknihattum.qmd)

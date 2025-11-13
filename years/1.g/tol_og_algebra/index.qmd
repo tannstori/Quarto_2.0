@@ -9,6 +9,7 @@ sidebar: sidebar-1g
 ### 📚 Grundleggjandi Tal-ástøði
 - [Tøl - nátúrlig og heiltøl](tol-naturlig_og_heiltol.qmd)
 - [Tøl - makað og støk tøl](tol-makad_og_stok.qmd)
+- [Tøl - rationel og irrationel tøl](tol-rationel_og_irrationel.qmd)
 - [Eginleikar hjá tølum](eginleikar_hja_tolum.qmd)
 - [Eginleikar hjá tølum - dømi](eginleikar_hja_tolum-domi.qmd)
 - [Stigskipan av rokniháttum](stigskipan_av_roknihattum.qmd)
@@ -52,11 +53,13 @@ sidebar: sidebar-1g
 - [Loysa tvær líkningar - grafiskt](loysa_tvaer_likningar-grafiskt.qmd)
 :::
 
+
+
 :::{.lesson-card}
 ### √ Røtur og Talmongdir
-- [Tøl - rationel og irrationel tøl](tol-rationel_og_irrationel.qmd)
 - [Rótroknireglur](rotroknireglur.qmd)
 - [Rótroknireglur 2](rotroknireglur-02.qmd)
 - [Røtur og rótroknireglur](rotur_og_rotroknireglur.qmd)
+:::
 
-
+:::
