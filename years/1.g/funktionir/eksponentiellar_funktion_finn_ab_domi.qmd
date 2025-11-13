@@ -1,9 +1,9 @@
 ﻿---
-title: "Eksponentiellar funktión finn ab dømi"
+title: "Finn a og b - dømi"
 ---
 # Yvirskrift
 
-### Formul
+### formil
 
 $$
 f(x) = a \cdot b^x

@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Rentufrymilin er brúkt til at rokna, hvussu nógv eitt innlegg veksur við rentu yvir tíð.
 
-### Formul
+### formil
 
 $$
 K_n = K_0 \cdot (1 + r)^n

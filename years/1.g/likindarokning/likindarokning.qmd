@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Sannlíkindi er eitt mát fyri hvussu sannlíkt tað er, at nakað hendir.
 
-### Formul
+### formil
 
 $$
 P(A) = \frac{\text{Tal av gunstligum úrslitum}}{\text{Tal av møguligum úrslitum}}

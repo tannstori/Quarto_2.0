@@ -10,7 +10,7 @@ Henda undirvísing gevur dmi um evnið.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-### Formul
+### formil
 
 $$
 c^2 = a^2 + b^2 - 2ab \cos(C)

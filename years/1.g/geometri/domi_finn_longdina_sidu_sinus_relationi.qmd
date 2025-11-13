@@ -10,7 +10,7 @@ Henda undirvísing gevur dmi um evnið.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-### Formul
+### formil
 
 $$
 \frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin(C)}
