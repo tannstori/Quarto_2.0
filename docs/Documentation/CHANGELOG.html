@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Vælkomin til Minerva! – Minerva</title>
+<title>changelog – Minerva</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-86e22cf876a6fa79f810daf4a3a2bff1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-86e22cf876a6fa79f810daf4a3a2bff1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -99,7 +134,8 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="minerva_theme.css">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../minerva_theme.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -109,9 +145,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Minerva</span>
     </a>
   </div>
@@ -122,12 +158,12 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house-fill" role="img">
+    <a class="nav-link" href="../index.html"> <i class="bi bi-house-fill" role="img">
 </i> 
 <span class="menu-text">Heim</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">Um Okkum</span></a>
   </li>  
 </ul>
@@ -138,295 +174,133 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Á hesi síðu</h2>
+   
+  <ul>
+  <li><a href="#changelog" id="toc-changelog" class="nav-link active" data-scroll-target="#changelog">Changelog</a>
+  <ul class="collapse">
+  <li><a href="#november-2025" id="toc-november-2025" class="nav-link" data-scroll-target="#november-2025">[2.0.0] - November 2025</a>
+  <ul class="collapse">
+  <li><a href="#major-refactor-cleanup" id="toc-major-refactor-cleanup" class="nav-link" data-scroll-target="#major-refactor-cleanup">Major Refactor &amp; Cleanup</a></li>
+  </ul></li>
+  <li><a href="#initial-release" id="toc-initial-release" class="nav-link" data-scroll-target="#initial-release">[1.0.0] - Initial Release</a>
+  <ul class="collapse">
+  <li><a href="#initial-features" id="toc-initial-features" class="nav-link" data-scroll-target="#initial-features">Initial Features</a></li>
+  </ul></li>
+  <li><a href="#how-to-update-this-changelog" id="toc-how-to-update-this-changelog" class="nav-link" data-scroll-target="#how-to-update-this-changelog">How to Update This Changelog</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Vælkomin til Minerva!</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<style>
-/* Hero Section */
-.hero-section {
-  text-align: center;
-  padding: 80px 20px 60px;
-  background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-  color: white;
-  margin: -50px 0 60px 0;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
-
-.hero-section h1 {
-  font-size: 2.5em;
-  font-weight: 700;
-  margin-bottom: 16px;
-  background: linear-gradient(135deg, #60A5FA, #A78BFA, #ffffff);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.hero-section p {
-  font-size: 1.2em;
-  opacity: 0.9;
-  max-width: 600px;
-  margin: 0 auto;
-  line-height: 1.5;
-}
-
-/* Container */
-.course-cards-container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.intro-text {
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto 40px;
-  padding: 30px;
-  background: rgba(59, 130, 246, 0.05);
-  border-radius: 12px;
-  border: 1px solid rgba(59, 130, 246, 0.1);
-}
-
-.intro-text h2 {
-  color: #0F172A;
-  font-size: 1.8em;
-  margin-bottom: 16px;
-  font-weight: 600;
-  border: none;
-  padding: 0;
-}
-
-.intro-text p {
-  color: #6B7280;
-  font-size: 1.05em;
-  line-height: 1.6;
-}
-
-/* Course Cards */
-.course-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 24px;
-  margin-top: 40px;
-}
-
-.course-card {
-  background: white;
-  border-radius: 12px;
-  padding: 32px 24px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  transition: all 0.3s ease;
-  text-align: center;
-  border: 1px solid #E5E7EB;
-  position: relative;
-}
-
-.course-card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, #3B82F6, #8B5CF6);
-  opacity: 0;
-  transition: opacity 0.3s ease;
-  border-radius: 12px 12px 0 0;
-}
-
-.course-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-  border-color: #3B82F6;
-}
-
-.course-card:hover::before {
-  opacity: 1;
-}
-
-.course-card h3 {
-  color: #0F172A;
-  font-size: 1.5em;
-  margin-bottom: 12px;
-  font-weight: 600;
-  border: none;
-  padding: 0;
-}
-
-.course-card p {
-  color: #6B7280;
-  font-size: 0.95em;
-  margin-bottom: 24px;
-  line-height: 1.5;
-}
-
-.course-card .btn {
-  background: linear-gradient(135deg, #3B82F6, #60A5FA);
-  color: white !important;
-  padding: 12px 28px;
-  border: none;
-  border-radius: 8px;
-  font-size: 0.95em;
-  font-weight: 600;
-  text-decoration: none;
-  display: inline-block;
-  transition: all 0.3s ease;
-}
-
-.course-card .btn:hover {
-  background: linear-gradient(135deg, #2563EB, #3B82F6);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
-  color: white !important;
-}
-
-/* Mobile Responsiveness */
-@media screen and (max-width: 768px) {
-  .hero-section {
-    padding: 60px 20px 40px;
-    margin: -20px -20px 40px;
-  }
-  
-  .hero-section h1 {
-    font-size: 2em;
-  }
-  
-  .hero-section p {
-    font-size: 1.1em;
-  }
-  
-  .intro-text {
-    padding: 24px;
-    margin-bottom: 30px;
-  }
-  
-  .intro-text h2 {
-    font-size: 1.5em;
-  }
-  
-  .course-cards {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-  
-  .course-card {
-    padding: 28px 20px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .hero-section {
-    padding: 50px 15px 35px;
-  }
-  
-  .hero-section h1 {
-    font-size: 1.75em;
-  }
-  
-  .hero-section p {
-    font-size: 1em;
-  }
-  
-  .intro-text {
-    padding: 20px;
-  }
-  
-  .intro-text h2 {
-    font-size: 1.3em;
-  }
-  
-  .intro-text p {
-    font-size: 0.95em;
-  }
-}
-</style>
-
-<div class="hero-section">
-  <h1>Vælkomin til Minerva!</h1>
-  <p>Eitt gullnám av støddfrøðisfilmum - læra støddfrøði á tínum egna máti</p>
-</div>
-<div class="course-cards-container">
-<section id="um-minerva" class="level2 intro-text">
-<h2 data-anchor-id="um-minerva">Um Minerva</h2>
-<p>Minerva er eitt ikki bara eitthvørt nám. Tað er eitt <strong>gullnám</strong> av støddfrøðisfilmum, sum hjálpa tær at læra støddfrøði á tínum egna máti.</p>
-<p>Her finnur tú í løtuni støddfrøðifilmar á C-stigi og B-stigi. Vel tín árgang niðanfyri og byrja at læra!</p>
+<section id="changelog" class="level1">
+<h1>Changelog</h1>
+<p>All notable changes to the Minerva website will be documented in this file.</p>
+<section id="november-2025" class="level2">
+<h2 class="anchored" data-anchor-id="november-2025">[2.0.0] - November 2025</h2>
+<section id="major-refactor-cleanup" class="level3">
+<h3 class="anchored" data-anchor-id="major-refactor-cleanup">Major Refactor &amp; Cleanup</h3>
+<section id="added" class="level4">
+<h4 class="anchored" data-anchor-id="added">✨ Added</h4>
+<ul>
+<li><strong>Comprehensive README.md</strong> - Complete guide for using and customizing the site</li>
+<li><strong>MAINTENANCE.md</strong> - Detailed maintenance guide with best practices</li>
+<li><strong>Right sidebar TOC</strong> - Table of contents now appears on the right side of lesson pages</li>
+<li><strong>Breadcrumb navigation</strong> - Easy way to navigate back to overview pages</li>
+<li><strong>Emoji icons</strong> - Visual navigation in sidebar (📚, 📈, 📐, 📊, 🎲, 💰)</li>
+<li><strong>Smooth hover effects</strong> - Elegant animations on TOC and cards</li>
+<li><strong>Three-column layout</strong> - Left sidebar + content + right TOC</li>
+</ul>
 </section>
-<div class="course-cards">
-<section id="støddfrøði-c" class="level3 course-card">
-<h3 data-anchor-id="støddfrøði-c">📐 Støddfrøði C</h3>
-<p><strong>Fyri 1.g nemingar</strong></p>
-<p>Læra grundleggjandi støddfrøði við filmalektiónum, sum eru gjørd serstakliga fyri 1.g. Við hvørjum tíma fært tú eitt betri innsæi í støddfrøði.</p>
-<p><a href="./years/1.g/index.html" class="btn">Vel Støddfrøði C →</a></p>
+<section id="changed" class="level4">
+<h4 class="anchored" data-anchor-id="changed">🎨 Changed</h4>
+<ul>
+<li><strong>Dual stylesheet system</strong> - styles.css (main styling) + minerva_theme.scss (theme enhancements)</li>
+<li><strong>Improved card design</strong> - Modern, responsive cards for lessons and topics</li>
+<li><strong>Enhanced mobile responsiveness</strong> - Better experience on tablets and phones</li>
+<li><strong>Updated color scheme</strong> - Professional blue and purple palette</li>
+<li><strong>Refined typography</strong> - Inter font family, improved readability</li>
+</ul>
 </section>
-<section id="støddfrøði-b" class="level3 course-card">
-<h3 data-anchor-id="støddfrøði-b">📊 Støddfrøði B</h3>
-<p><strong>Fyri 2.g nemingar</strong></p>
-<p>Bygg víðari á tínum kunleika við støddfrøðifilmum til 2.g. Djúpari viðfangi og framkomnar teknikkir.</p>
-<p><a href="./years/2.g/index.html" class="btn">Vel Støddfrøði B →</a></p>
+<section id="removed" class="level4">
+<h4 class="anchored" data-anchor-id="removed">🗑️ Removed</h4>
+<ul>
+<li><strong>Legacy code</strong> - Cleaned up old comments and unused styles</li>
+<li><strong>Duplicate CSS</strong> - Removed redundant styling between files</li>
+<li><strong>Navbar emoji animation</strong> - Removed distracting bounce effect</li>
+<li><strong>TODO comments</strong> - Fixed site-url placeholder</li>
+</ul>
 </section>
-</div>
-</div>
-<footer class="minerva-footer">
-  <div class="sponsor-section">
-    <h3>Stuðul Minerva</h3>
-    <p>Hjálp okkum at gera meira støddfrøðiinnihald og halda síðuna í gangi. Hvør stuðul hjálpir!</p>
-    <a href="https://github.com/sponsors/tannstori" class="sponsor-button" target="_blank">
-      💖 Stuðul Minerva
-    </a>
-  </div>
-  
-  <div class="footer-links">
-    <a href="https://github.com/tannstori/minerva_quarto" class="footer-link" target="_blank">
-      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
-        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-      </svg>
-      GitHub Repository
-    </a>
-    
-    <a href="https://github.com/tannstori/minerva_quarto/issues" class="footer-link" target="_blank">
-      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
-        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
-        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
-      </svg>
-      Meld frá einum feilum
-    </a>
-  </div>
-  
-  <div class="footer-copyright">
-    <p>© 2024 Minerva - Støddfrøðinámsgögn á føroyskum. Gjørt við ❤️ fyri føroyskir lesandi.</p>
-  </div>
-</footer>
+<section id="fixed" class="level4">
+<h4 class="anchored" data-anchor-id="fixed">🐛 Fixed</h4>
+<ul>
+<li><strong>Main page layout</strong> - Removed white horizontal lines in hero section</li>
+<li><strong>Sidebar navigation</strong> - Subject navigation now on left, page TOC on right</li>
+<li><strong>Mobile sidebar</strong> - Fixed overlay behavior on small screens</li>
+<li><strong>TOC visibility</strong> - Resolved CSS issues preventing TOC from appearing</li>
+</ul>
+</section>
+<section id="documentation" class="level4">
+<h4 class="anchored" data-anchor-id="documentation">📚 Documentation</h4>
+<ul>
+<li>Added comprehensive README with setup, customization, and troubleshooting</li>
+<li>Created maintenance guide with best practices and checklists</li>
+<li>Documented code structure and organization</li>
+<li>Added examples for common tasks (adding lessons, subjects, years)</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="initial-release" class="level2">
+<h2 class="anchored" data-anchor-id="initial-release">[1.0.0] - Initial Release</h2>
+<section id="initial-features" class="level3">
+<h3 class="anchored" data-anchor-id="initial-features">Initial Features</h3>
+<ul>
+<li>Basic Quarto website structure</li>
+<li>Year-based organization (1.g, 2.g)</li>
+<li>Subject-based lessons</li>
+<li>LaTeX math support</li>
+<li>Responsive design</li>
+<li>GitHub Pages deployment</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="how-to-update-this-changelog" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-update-this-changelog">How to Update This Changelog</h2>
+<p>When making significant changes, add them under a new version header:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## [X.Y.Z] - YYYY-MM-DD</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">### Added</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>New features you added</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">### Changed</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Changes to existing features</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">### Fixed</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Bug fixes</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">### Removed</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Removed features</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Use semantic versioning: - <strong>Major (X)</strong>: Breaking changes, complete redesigns - <strong>Minor (Y)</strong>: New features, no breaking changes - <strong>Patch (Z)</strong>: Bug fixes, small improvements</p>
 
 
 
+</section>
+</section>
 
-
+</main> <!-- /main -->
 <script>
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -903,5 +777,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

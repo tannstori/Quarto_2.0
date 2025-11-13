@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>docs_index – Minerva</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-86e22cf876a6fa79f810daf4a3a2bff1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../minerva_theme.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Minerva</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> <i class="bi bi-house-fill" role="img">
+</i> 
+<span class="menu-text">Heim</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">Um Okkum</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Á hesi síðu</h2>
+   
+  <ul>
+  <li><a href="#documentation-index" id="toc-documentation-index" class="nav-link active" data-scroll-target="#documentation-index">📚 Documentation Index</a>
+  <ul class="collapse">
+  <li><a href="#i-want-to" id="toc-i-want-to" class="nav-link" data-scroll-target="#i-want-to">🎯 I Want To…</a>
+  <ul class="collapse">
+  <li><a href="#get-started" id="toc-get-started" class="nav-link" data-scroll-target="#get-started">Get Started</a></li>
+  <li><a href="#customize-the-site" id="toc-customize-the-site" class="nav-link" data-scroll-target="#customize-the-site">Customize the Site</a></li>
+  <li><a href="#add-content" id="toc-add-content" class="nav-link" data-scroll-target="#add-content">Add Content</a></li>
+  <li><a href="#maintain-the-site" id="toc-maintain-the-site" class="nav-link" data-scroll-target="#maintain-the-site">Maintain the Site</a></li>
+  <li><a href="#fix-problems" id="toc-fix-problems" class="nav-link" data-scroll-target="#fix-problems">Fix Problems</a></li>
+  <li><a href="#understand-changes" id="toc-understand-changes" class="nav-link" data-scroll-target="#understand-changes">Understand Changes</a></li>
+  </ul></li>
+  <li><a href="#documentation-files" id="toc-documentation-files" class="nav-link" data-scroll-target="#documentation-files">📖 Documentation Files</a>
+  <ul class="collapse">
+  <li><a href="#readme.md---main-user-guide" id="toc-readme.md---main-user-guide" class="nav-link" data-scroll-target="#readme.md---main-user-guide">README.md - Main User Guide</a></li>
+  <li><a href="#quickstart.md---5-minute-guide" id="toc-quickstart.md---5-minute-guide" class="nav-link" data-scroll-target="#quickstart.md---5-minute-guide">QUICKSTART.md - 5-Minute Guide</a></li>
+  <li><a href="#maintenance.md---maintainer-guide" id="toc-maintenance.md---maintainer-guide" class="nav-link" data-scroll-target="#maintenance.md---maintainer-guide">MAINTENANCE.md - Maintainer Guide</a></li>
+  <li><a href="#changelog.md---version-history" id="toc-changelog.md---version-history" class="nav-link" data-scroll-target="#changelog.md---version-history">CHANGELOG.md - Version History</a></li>
+  <li><a href="#project_summary.md---overview" id="toc-project_summary.md---overview" class="nav-link" data-scroll-target="#project_summary.md---overview">PROJECT_SUMMARY.md - Overview</a></li>
+  </ul></li>
+  <li><a href="#learning-path" id="toc-learning-path" class="nav-link" data-scroll-target="#learning-path">🎓 Learning Path</a>
+  <ul class="collapse">
+  <li><a href="#for-complete-beginners" id="toc-for-complete-beginners" class="nav-link" data-scroll-target="#for-complete-beginners">For Complete Beginners</a></li>
+  <li><a href="#for-experienced-developers" id="toc-for-experienced-developers" class="nav-link" data-scroll-target="#for-experienced-developers">For Experienced Developers</a></li>
+  <li><a href="#for-content-creators" id="toc-for-content-creators" class="nav-link" data-scroll-target="#for-content-creators">For Content Creators</a></li>
+  <li><a href="#for-maintainers" id="toc-for-maintainers" class="nav-link" data-scroll-target="#for-maintainers">For Maintainers</a></li>
+  </ul></li>
+  <li><a href="#quick-reference-cards" id="toc-quick-reference-cards" class="nav-link" data-scroll-target="#quick-reference-cards">📋 Quick Reference Cards</a>
+  <ul class="collapse">
+  <li><a href="#adding-a-new-lesson" id="toc-adding-a-new-lesson" class="nav-link" data-scroll-target="#adding-a-new-lesson">Adding a New Lesson</a></li>
+  <li><a href="#changing-colors" id="toc-changing-colors" class="nav-link" data-scroll-target="#changing-colors">Changing Colors</a></li>
+  <li><a href="#common-git-commands" id="toc-common-git-commands" class="nav-link" data-scroll-target="#common-git-commands">Common Git Commands</a></li>
+  </ul></li>
+  <li><a href="#search-tips" id="toc-search-tips" class="nav-link" data-scroll-target="#search-tips">🔍 Search Tips</a></li>
+  <li><a href="#still-cant-find-what-you-need" id="toc-still-cant-find-what-you-need" class="nav-link" data-scroll-target="#still-cant-find-what-you-need">🆘 Still Can’t Find What You Need?</a></li>
+  <li><a href="#documentation-stats" id="toc-documentation-stats" class="nav-link" data-scroll-target="#documentation-stats">📊 Documentation Stats</a></li>
+  <li><a href="#documentation-philosophy" id="toc-documentation-philosophy" class="nav-link" data-scroll-target="#documentation-philosophy">💡 Documentation Philosophy</a></li>
+  <li><a href="#keeping-documentation-updated" id="toc-keeping-documentation-updated" class="nav-link" data-scroll-target="#keeping-documentation-updated">🔄 Keeping Documentation Updated</a></li>
+  <li><a href="#make-this-documentation-better" id="toc-make-this-documentation-better" class="nav-link" data-scroll-target="#make-this-documentation-better">✨ Make This Documentation Better</a></li>
+  <li><a href="#get-help" id="toc-get-help" class="nav-link" data-scroll-target="#get-help">📞 Get Help</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<section id="documentation-index" class="level1">
+<h1>📚 Documentation Index</h1>
+<p>Welcome to the Minerva project documentation! This index helps you find the right guide for your needs.</p>
+<hr>
+<section id="i-want-to" class="level2">
+<h2 class="anchored" data-anchor-id="i-want-to">🎯 I Want To…</h2>
+<section id="get-started" class="level3">
+<h3 class="anchored" data-anchor-id="get-started">Get Started</h3>
+<ul>
+<li><strong>Install and preview the site</strong> → <a href="../Documentation/QUICKSTART.html">QUICKSTART.md</a> (5 minutes)</li>
+<li><strong>Understand the project structure</strong> → <a href="./README.md">README.md</a> - Project Structure section</li>
+<li><strong>Deploy to GitHub Pages</strong> → <a href="./README.md">README.md</a> - Deployment section</li>
+</ul>
+</section>
+<section id="customize-the-site" class="level3">
+<h3 class="anchored" data-anchor-id="customize-the-site">Customize the Site</h3>
+<ul>
+<li><strong>Change colors and fonts</strong> → <a href="./README.md">README.md</a> - Customizing Your Site</li>
+<li><strong>Modify the navbar</strong> → <a href="./README.md">README.md</a> - Customizing the Navbar</li>
+<li><strong>Adjust layout spacing</strong> → <a href="./README.md">README.md</a> - Layout System</li>
+<li><strong>Add custom styles</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Styling Best Practices</li>
+</ul>
+</section>
+<section id="add-content" class="level3">
+<h3 class="anchored" data-anchor-id="add-content">Add Content</h3>
+<ul>
+<li><strong>Add a new lesson</strong> → <a href="./README.md">README.md</a> - Adding a New Lesson</li>
+<li><strong>Create a new subject</strong> → <a href="./README.md">README.md</a> - Adding a New Subject</li>
+<li><strong>Add a year level</strong> → <a href="./README.md">README.md</a> - Adding a New Year Level</li>
+<li><strong>Use math equations</strong> → <a href="./README.md">README.md</a> - Math Equations section</li>
+</ul>
+</section>
+<section id="maintain-the-site" class="level3">
+<h3 class="anchored" data-anchor-id="maintain-the-site">Maintain the Site</h3>
+<ul>
+<li><strong>Perform regular maintenance</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Regular Maintenance Tasks</li>
+<li><strong>Optimize performance</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Performance Optimization</li>
+<li><strong>Manage backups</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Backup &amp; Version Control</li>
+<li><strong>Follow best practices</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - File Organization</li>
+</ul>
+</section>
+<section id="fix-problems" class="level3">
+<h3 class="anchored" data-anchor-id="fix-problems">Fix Problems</h3>
+<ul>
+<li><strong>Troubleshoot common issues</strong> → <a href="./README.md">README.md</a> - Troubleshooting section</li>
+<li><strong>Fix styling issues</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Common Issues &amp; Solutions</li>
+<li><strong>Debug build errors</strong> → <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Troubleshooting section</li>
+</ul>
+</section>
+<section id="understand-changes" class="level3">
+<h3 class="anchored" data-anchor-id="understand-changes">Understand Changes</h3>
+<ul>
+<li><strong>See what’s new</strong> → <a href="../Documentation/CHANGELOG.html">CHANGELOG.md</a></li>
+<li><strong>Review project overview</strong> → <a href="../Documentation/PROJECT_SUMMARY.html">PROJECT_SUMMARY.md</a></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="documentation-files" class="level2">
+<h2 class="anchored" data-anchor-id="documentation-files">📖 Documentation Files</h2>
+<section id="readme.md---main-user-guide" class="level3">
+<h3 class="anchored" data-anchor-id="readme.md---main-user-guide"><a href="./README.md">README.md</a> - Main User Guide</h3>
+<p><strong>Who it’s for:</strong> All users (beginners to advanced)<br>
+<strong>Length:</strong> ~30 minutes to read<br>
+<strong>Content:</strong> - Installation and setup - Project structure overview - Complete customization guide - Step-by-step content addition - Layout and styling system - Navigation features - Mobile responsiveness - Troubleshooting - Useful resources</p>
+<p><strong>Start here if:</strong> You’re new to the project or need a comprehensive reference.</p>
+<hr>
+</section>
+<section id="quickstart.md---5-minute-guide" class="level3">
+<h3 class="anchored" data-anchor-id="quickstart.md---5-minute-guide"><a href="../Documentation/QUICKSTART.html">QUICKSTART.md</a> - 5-Minute Guide</h3>
+<p><strong>Who it’s for:</strong> New contributors who want to start fast<br>
+<strong>Length:</strong> 5-10 minutes<br>
+<strong>Content:</strong> - Rapid setup (3 steps) - Your first edit - Common tasks at a glance - Markdown cheat sheet - Quick troubleshooting - Git workflow basics</p>
+<p><strong>Start here if:</strong> You want to dive in quickly and learn by doing.</p>
+<hr>
+</section>
+<section id="maintenance.md---maintainer-guide" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance.md---maintainer-guide"><a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Maintainer Guide</h3>
+<p><strong>Who it’s for:</strong> Site maintainers and advanced users<br>
+<strong>Length:</strong> Reference guide (read as needed)<br>
+<strong>Content:</strong> - Code organization principles - Regular maintenance schedules - Detailed workflow checklists - Styling best practices - Performance optimization - Backup strategies - Common issues with solutions - Analytics setup</p>
+<p><strong>Start here if:</strong> You’re responsible for maintaining the site long-term.</p>
+<hr>
+</section>
+<section id="changelog.md---version-history" class="level3">
+<h3 class="anchored" data-anchor-id="changelog.md---version-history"><a href="../Documentation/CHANGELOG.html">CHANGELOG.md</a> - Version History</h3>
+<p><strong>Who it’s for:</strong> All users<br>
+<strong>Length:</strong> 2-5 minutes per version<br>
+<strong>Content:</strong> - Version 2.0 major refactor details - Template for documenting future changes - Semantic versioning guide</p>
+<p><strong>Start here if:</strong> You want to know what changed in recent updates.</p>
+<hr>
+</section>
+<section id="project_summary.md---overview" class="level3">
+<h3 class="anchored" data-anchor-id="project_summary.md---overview"><a href="../Documentation/PROJECT_SUMMARY.html">PROJECT_SUMMARY.md</a> - Overview</h3>
+<p><strong>Who it’s for:</strong> Project managers, new team members<br>
+<strong>Length:</strong> 10-15 minutes<br>
+<strong>Content:</strong> - High-level overview of changes - Before/after comparisons - Technical stack overview - Quality checks and verification - Achievement summary</p>
+<p><strong>Start here if:</strong> You need a bird’s-eye view of the project.</p>
+<hr>
+</section>
+</section>
+<section id="learning-path" class="level2">
+<h2 class="anchored" data-anchor-id="learning-path">🎓 Learning Path</h2>
+<section id="for-complete-beginners" class="level3">
+<h3 class="anchored" data-anchor-id="for-complete-beginners">For Complete Beginners</h3>
+<ol type="1">
+<li><strong>Start:</strong> <a href="../Documentation/QUICKSTART.html">QUICKSTART.md</a> - Get site running locally</li>
+<li><strong>Learn:</strong> <a href="./README.md">README.md</a> - Project Structure &amp; File Organization<br>
+</li>
+<li><strong>Practice:</strong> Make a test edit, preview changes</li>
+<li><strong>Expand:</strong> <a href="./README.md">README.md</a> - Adding Content section</li>
+<li><strong>Master:</strong> <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> as needed</li>
+</ol>
+<p><strong>Estimated time:</strong> 1-2 hours to feel comfortable</p>
+<hr>
+</section>
+<section id="for-experienced-developers" class="level3">
+<h3 class="anchored" data-anchor-id="for-experienced-developers">For Experienced Developers</h3>
+<ol type="1">
+<li><strong>Skim:</strong> <a href="../Documentation/PROJECT_SUMMARY.html">PROJECT_SUMMARY.md</a> - Understand project state</li>
+<li><strong>Reference:</strong> <a href="./README.md">README.md</a> - Note customization options</li>
+<li><strong>Deep dive:</strong> <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Technical details</li>
+<li><strong>Check:</strong> <a href="../Documentation/CHANGELOG.html">CHANGELOG.md</a> - Recent changes</li>
+</ol>
+<p><strong>Estimated time:</strong> 30 minutes to get up to speed</p>
+<hr>
+</section>
+<section id="for-content-creators" class="level3">
+<h3 class="anchored" data-anchor-id="for-content-creators">For Content Creators</h3>
+<ol type="1">
+<li><strong>Start:</strong> <a href="../Documentation/QUICKSTART.html">QUICKSTART.md</a> - Setup and first edit</li>
+<li><strong>Learn:</strong> <a href="./README.md">README.md</a> - Adding Content section</li>
+<li><strong>Reference:</strong> <a href="./README.md">README.md</a> - Math Equations, Callouts</li>
+<li><strong>Tips:</strong> <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Content Guidelines</li>
+</ol>
+<p><strong>Estimated time:</strong> 30 minutes to start creating</p>
+<hr>
+</section>
+<section id="for-maintainers" class="level3">
+<h3 class="anchored" data-anchor-id="for-maintainers">For Maintainers</h3>
+<ol type="1">
+<li><strong>Overview:</strong> <a href="../Documentation/PROJECT_SUMMARY.html">PROJECT_SUMMARY.md</a> - Current state</li>
+<li><strong>Setup:</strong> <a href="./README.md">README.md</a> - Deployment and configuration</li>
+<li><strong>Process:</strong> <a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a> - Full maintenance guide</li>
+<li><strong>Track:</strong> <a href="../Documentation/CHANGELOG.html">CHANGELOG.md</a> - Document your changes</li>
+</ol>
+<p><strong>Estimated time:</strong> 2-3 hours for comprehensive understanding</p>
+<hr>
+</section>
+</section>
+<section id="quick-reference-cards" class="level2">
+<h2 class="anchored" data-anchor-id="quick-reference-cards">📋 Quick Reference Cards</h2>
+<section id="adding-a-new-lesson" class="level3">
+<h3 class="anchored" data-anchor-id="adding-a-new-lesson">Adding a New Lesson</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># 1. Create file: years/1.g/subject/lesson-name.qmd</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># 2. Add frontmatter:</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Lesson Title"</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">sidebar</span><span class="kw">:</span><span class="at"> sidebar-1g</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">toc</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">toc-location</span><span class="kw">:</span><span class="at"> right</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># 3. Add to _quarto.yml sidebar</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co"># 4. Test with: quarto preview</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><em>Detailed guide:</em> <a href="./README.md#adding-a-new-lesson-page">README.md - Adding a New Lesson</a></p>
+<hr>
+</section>
+<section id="changing-colors" class="level3">
+<h3 class="anchored" data-anchor-id="changing-colors">Changing Colors</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode scss code-with-copy"><code class="sourceCode scss"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">/* Edit minerva_theme.scss */</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="in">:root</span> {</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="va">--minerva-primary</span>: #YourColor<span class="op">;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="va">--minerva-secondary</span>: #YourColor<span class="op">;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><em>Detailed guide:</em> <a href="./README.md#changing-colors--branding">README.md - Changing Colors</a></p>
+<hr>
+</section>
+<section id="common-git-commands" class="level3">
+<h3 class="anchored" data-anchor-id="common-git-commands">Common Git Commands</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> status                    <span class="co"># Check changes</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add .                     <span class="co"># Stage all changes</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Description"</span>   <span class="co"># Commit with message</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push                      <span class="co"># Push to remote</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><em>Detailed guide:</em> <a href="../Documentation/MAINTENANCE.html#backup--version-control">MAINTENANCE.md - Version Control</a></p>
+<hr>
+</section>
+</section>
+<section id="search-tips" class="level2">
+<h2 class="anchored" data-anchor-id="search-tips">🔍 Search Tips</h2>
+<p><strong>To find specific information:</strong></p>
+<ol type="1">
+<li><strong>Use your editor’s search</strong> (Ctrl+F / Cmd+F) across all <code>.md</code> files</li>
+<li><strong>Check the TOC</strong> at the top of README.md and MAINTENANCE.md</li>
+<li><strong>Scan section headers</strong> - they’re designed to be descriptive</li>
+</ol>
+<p><strong>Common search terms:</strong> - “add lesson” → Adding content guides - “color” or “theme” → Customization sections - “error” or “not working” → Troubleshooting sections - “mobile” or “responsive” → Mobile responsiveness sections - “sidebar” or “toc” → Navigation configuration</p>
+<hr>
+</section>
+<section id="still-cant-find-what-you-need" class="level2">
+<h2 class="anchored" data-anchor-id="still-cant-find-what-you-need">🆘 Still Can’t Find What You Need?</h2>
+<ol type="1">
+<li><strong>Check the index</strong> at the top of this file (“I Want To…”)</li>
+<li><strong>Read the appropriate guide</strong> based on your role (see Learning Path)</li>
+<li><strong>Search the documentation</strong> files for keywords</li>
+<li><strong>Check Quarto docs</strong> - https://quarto.org/docs/</li>
+<li><strong>Create an issue</strong> on GitHub with your question</li>
+</ol>
+<hr>
+</section>
+<section id="documentation-stats" class="level2">
+<h2 class="anchored" data-anchor-id="documentation-stats">📊 Documentation Stats</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>File</th>
+<th>Length</th>
+<th>Audience</th>
+<th>Time to Read</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="./README.md">README.md</a></td>
+<td>~600 lines</td>
+<td>All users</td>
+<td>30 min</td>
+</tr>
+<tr class="even">
+<td><a href="../Documentation/QUICKSTART.html">QUICKSTART.md</a></td>
+<td>~200 lines</td>
+<td>New users</td>
+<td>5 min</td>
+</tr>
+<tr class="odd">
+<td><a href="../Documentation/MAINTENANCE.html">MAINTENANCE.md</a></td>
+<td>~650 lines</td>
+<td>Maintainers</td>
+<td>Reference</td>
+</tr>
+<tr class="even">
+<td><a href="../Documentation/CHANGELOG.html">CHANGELOG.md</a></td>
+<td>~100 lines</td>
+<td>All users</td>
+<td>5 min</td>
+</tr>
+<tr class="odd">
+<td><a href="../Documentation/PROJECT_SUMMARY.html">PROJECT_SUMMARY.md</a></td>
+<td>~400 lines</td>
+<td>Managers</td>
+<td>15 min</td>
+</tr>
+<tr class="even">
+<td><strong>Total Documentation</strong></td>
+<td><strong>~2000 lines</strong></td>
+<td><strong>Various</strong></td>
+<td><strong>1-2 hours</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="documentation-philosophy" class="level2">
+<h2 class="anchored" data-anchor-id="documentation-philosophy">💡 Documentation Philosophy</h2>
+<p>Our documentation follows these principles:</p>
+<ol type="1">
+<li><strong>Beginner-friendly</strong> - Assume no prior knowledge</li>
+<li><strong>Task-oriented</strong> - Focus on “how to do X”</li>
+<li><strong>Well-organized</strong> - Easy to navigate and scan</li>
+<li><strong>Example-rich</strong> - Show, don’t just tell</li>
+<li><strong>Up-to-date</strong> - Maintained with code changes</li>
+</ol>
+<hr>
+</section>
+<section id="keeping-documentation-updated" class="level2">
+<h2 class="anchored" data-anchor-id="keeping-documentation-updated">🔄 Keeping Documentation Updated</h2>
+<p>When you make changes to the project:</p>
+<ol type="1">
+<li><strong>Update README.md</strong> if you change features or workflow</li>
+<li><strong>Update MAINTENANCE.md</strong> if you change maintenance procedures</li>
+<li><strong>Update CHANGELOG.md</strong> with version and changes</li>
+<li><strong>Keep examples accurate</strong> - test all code snippets</li>
+</ol>
+<hr>
+</section>
+<section id="make-this-documentation-better" class="level2">
+<h2 class="anchored" data-anchor-id="make-this-documentation-better">✨ Make This Documentation Better</h2>
+<p>Found an error? Have a suggestion? Ways to contribute:</p>
+<ol type="1">
+<li><strong>Fix typos</strong> - Create a PR with corrections</li>
+<li><strong>Add examples</strong> - Share useful patterns you’ve discovered</li>
+<li><strong>Improve clarity</strong> - Rewrite confusing sections</li>
+<li><strong>Add screenshots</strong> - Visual guides are helpful</li>
+<li><strong>Create tutorials</strong> - Write step-by-step walkthroughs</li>
+</ol>
+<hr>
+</section>
+<section id="get-help" class="level2">
+<h2 class="anchored" data-anchor-id="get-help">📞 Get Help</h2>
+<ul>
+<li>📖 <strong>Documentation Issues</strong>: Check this index and search guides</li>
+<li>🐛 <strong>Technical Issues</strong>: See <a href="../Documentation/MAINTENANCE.html#common-issues--solutions">MAINTENANCE.md - Troubleshooting</a></li>
+<li>💬 <strong>Questions</strong>: GitHub Discussions or Issues</li>
+<li>🆘 <strong>Urgent</strong>: Contact maintainers directly</li>
+</ul>
+<hr>
+<p><strong>Happy documenting! 📚✨</strong></p>
+<p><em>This index is your map through the Minerva documentation ecosystem.</em></p>
+<hr>
+<p>Last updated: November 2025</p>
+
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+
+  const path = window.location.pathname;
+
+  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
+
+  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
+
+  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
+
+  const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
+
+  const navbarBrand = document.querySelector('.navbar-brand');
+
+  
+
+  if (isMainHomepage) {
+
+    // Main homepage: hide back button
+
+    if (backButton && backButton.textContent.includes('Aftur')) {
+
+      backButton.style.display = 'none';
+
+    }
+
+  } else if (is1gHomepage) {
+
+    // 1.g homepage: show "Støddfrøði C", back goes to main
+
+    if (navbarBrand) navbarBrand.textContent = '';
+
+    if (backButton) backButton.href = '../../index.html';
+
+  } else if (is2gHomepage) {
+
+    // 2.g homepage: show "Støddfrøði B", back goes to main
+
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
+
+    if (backButton) backButton.href = '../../index.html';
+
+  } else if (path.includes('/1.g/')) {
+
+    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
+
+    if (navbarBrand) navbarBrand.textContent = '';
+
+    if (backButton) backButton.href = '../index.html';
+
+  } else if (path.includes('/2.g/')) {
+
+    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
+
+    if (navbarBrand) navbarBrand.textContent = '';
+
+    if (backButton) backButton.href = '../index.html';
+
+  }
+
+});
+
+</script>
+
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/tannstori\.github\.io\/Quarto_2\.0");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
