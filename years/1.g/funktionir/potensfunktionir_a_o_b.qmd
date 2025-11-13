@@ -1,18 +1,16 @@
 ﻿---
-title: "Potensfunktiónir a og b"
+title: "Innleiðing"
 ---
 
 ## Innleiðing
+**Potensfunktiónir** avmynda prosentvøkstur.
 
-Henda undirvísing fevnir um evnið.
+Hetta gera tær soleiðis, at ein fastur prosentvøkstur eftir x-ásanum  elvir til ein fastab prosentvøkstur eftir y-ásanum.
 
-## Dummy Content
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Formil
 
-### Almenn forma
-
-Potensfunktiónir hava formuna:
+Potensfunktiónir hava forskriftina:
 
 $$
 f(x) = a \cdot x^b
@@ -21,6 +19,21 @@ $$
 har:
 - $a$ er ein konstant (amplituda)
 - $b$ er potenstalið
+
+
+### Prosentvøkstur
+
+Um vit hava f(x) = a·x^b og x økist við ein faktor k (t.e. k = 1 + p, har p er prosentøkið í decimalform), so:
+$$
+f(kx) = a\,(kx)^b = k^b\,f(x).
+$$
+Tí er relativa broytingin í f: k^b − 1. Fyribils fyri lítlar broytingar (p lítinn) gevur Taylorsnýsingin:
+$$
+(1+p)^b \approx 1 + b\,p,
+$$
+so prosentbroytingin í f er tilnæriliga b ferðir prosentbroytingina í x.
+
+Dømi: um b = 3 og x økist 10% (p = 0.10), so vøkstur í f er (1.1)^3 − 1 ≈ 0.331 = 33.1% (tilnæriga 3·10% = 30%).
 
 ### Eginleikar
 

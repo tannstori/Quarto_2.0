@@ -2338,25 +2338,25 @@
   {
     "objectID": "years/1.g/funktionir/potensfunktionir_a_o_b.html",
     "href": "years/1.g/funktionir/potensfunktionir_a_o_b.html",
-    "title": "Potensfunktiónir a og b",
+    "title": "Innleiðing",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Potensfunktiónir avmynda prosentvøkstur.\nHetta gera tær soleiðis, at ein fastur prosentvøkstur eftir x-ásanum elvir til ein fastab prosentvøkstur eftir y-ásanum.\n\n\nPotensfunktiónir hava forskriftina:\n\\[\nf(x) = a \\cdot x^b\n\\]\nhar: - \\(a\\) er ein konstant (amplituda) - \\(b\\) er potenstalið\n\n\n\nUm vit hava f(x) = a·x^b og x økist við ein faktor k (t.e. k = 1 + p, har p er prosentøkið í decimalform), so: \\[\nf(kx) = a\\,(kx)^b = k^b\\,f(x).\n\\] Tí er relativa broytingin í f: k^b − 1. Fyribils fyri lítlar broytingar (p lítinn) gevur Taylorsnýsingin: \\[\n(1+p)^b \\approx 1 + b\\,p,\n\\] so prosentbroytingin í f er tilnæriliga b ferðir prosentbroytingina í x.\nDømi: um b = 3 og x økist 10% (p = 0.10), so vøkstur í f er (1.1)^3 − 1 ≈ 0.331 = 33.1% (tilnæriga 3·10% = 30%).\n\n\n\nTá \\(a &gt; 0\\): - Funktiónin er altíð positiv\nTá \\(a &lt; 0\\): - Funktiónin er altíð negativ\nTá \\(b &gt; 0\\): - Funktiónin veksur\nTá \\(b &lt; 0\\): - Funktiónin minkir\n\n\n\n\\[\nf(x) = 2x^3\n\\]\nHer er \\(a = 2\\) og \\(b = 3\\).\n\\[\nf(x) = -\\frac{1}{2}x^{-2} = -\\frac{1}{2x^2}\n\\]\nHer er \\(a = -\\frac{1}{2}\\) og \\(b = -2\\).\n\n\n\n\n\\(b = 1\\): Linjurættur\n\\(b = 2\\): Kvadratisk\n\\(b = \\frac{1}{2}\\): Kvadratrót\n\\(b = -1\\): Reciprokur",
     "crumbs": [
       "📈 Funktiónir",
       "📈 Potensfunktiónir",
-      "Potensfunktiónir a og b"
+      "Innleiðing"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/potensfunktionir_a_o_b.html#innleiðing",
     "href": "years/1.g/funktionir/potensfunktionir_a_o_b.html#innleiðing",
-    "title": "Potensfunktiónir a og b",
+    "title": "Innleiðing",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Potensfunktiónir avmynda prosentvøkstur.\nHetta gera tær soleiðis, at ein fastur prosentvøkstur eftir x-ásanum elvir til ein fastab prosentvøkstur eftir y-ásanum.\n\n\nPotensfunktiónir hava forskriftina:\n\\[\nf(x) = a \\cdot x^b\n\\]\nhar: - \\(a\\) er ein konstant (amplituda) - \\(b\\) er potenstalið\n\n\n\nUm vit hava f(x) = a·x^b og x økist við ein faktor k (t.e. k = 1 + p, har p er prosentøkið í decimalform), so: \\[\nf(kx) = a\\,(kx)^b = k^b\\,f(x).\n\\] Tí er relativa broytingin í f: k^b − 1. Fyribils fyri lítlar broytingar (p lítinn) gevur Taylorsnýsingin: \\[\n(1+p)^b \\approx 1 + b\\,p,\n\\] so prosentbroytingin í f er tilnæriliga b ferðir prosentbroytingina í x.\nDømi: um b = 3 og x økist 10% (p = 0.10), so vøkstur í f er (1.1)^3 − 1 ≈ 0.331 = 33.1% (tilnæriga 3·10% = 30%).\n\n\n\nTá \\(a &gt; 0\\): - Funktiónin er altíð positiv\nTá \\(a &lt; 0\\): - Funktiónin er altíð negativ\nTá \\(b &gt; 0\\): - Funktiónin veksur\nTá \\(b &lt; 0\\): - Funktiónin minkir\n\n\n\n\\[\nf(x) = 2x^3\n\\]\nHer er \\(a = 2\\) og \\(b = 3\\).\n\\[\nf(x) = -\\frac{1}{2}x^{-2} = -\\frac{1}{2x^2}\n\\]\nHer er \\(a = -\\frac{1}{2}\\) og \\(b = -2\\).\n\n\n\n\n\\(b = 1\\): Linjurættur\n\\(b = 2\\): Kvadratisk\n\\(b = \\frac{1}{2}\\): Kvadratrót\n\\(b = -1\\): Reciprokur",
     "crumbs": [
       "📈 Funktiónir",
       "📈 Potensfunktiónir",
-      "Potensfunktiónir a og b"
+      "Innleiðing"
     ]
   },
   {
@@ -2368,19 +2368,19 @@
     "crumbs": [
       "📈 Funktiónir",
       "📈 Potensfunktiónir",
-      "Potensfunktiónir a og b"
+      "Innleiðing"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/potensfunktionir_a_o_b.html#filmur",
     "href": "years/1.g/funktionir/potensfunktionir_a_o_b.html#filmur",
-    "title": "Potensfunktiónir a og b",
+    "title": "Innleiðing",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📈 Funktiónir",
       "📈 Potensfunktiónir",
-      "Potensfunktiónir a og b"
+      "Innleiðing"
     ]
   },
   {
