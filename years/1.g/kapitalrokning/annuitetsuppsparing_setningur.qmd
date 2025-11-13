@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Annuitetsuppsparing er, tá tú leggur sama upphædd inn hvønn termin, og rentan verður løgd afturat.
 
-### Formul
+### formil
 
 $$
 K_n = y \cdot \frac{(1 + r)^n - 1}{r}

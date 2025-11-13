@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Eitt annuitetslán er eitt lán, har tú betalar sama upphædd hvønn termin. Hvørt gjald inniheldur bæði rentu og avdrátt.
 
-### Formul
+### formil
 
 $$
 y = \frac{L \cdot r \cdot (1 + r)^n}{(1 + r)^n - 1}

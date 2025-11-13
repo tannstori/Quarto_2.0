@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Prosent merkir "av hundrað" og er ein máti at vísa eitt brot av einum heild.
 
-### Formul
+### formil
 
 $$
 \text{Prosent} = \frac{\text{Partur}}{\text{Heild}} \times 100\%

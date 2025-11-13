@@ -64,7 +64,7 @@ $$
 \theta = \arcsin(0.24) \approx 13.89°
 $$
 
-### Val av formul
+### Val av formil
 
 - Vita mótstøðu og hypotenusa? → Nýt **sinus**
 - Vita løggjandi og hypotenusa? → Nýt **cosinus**

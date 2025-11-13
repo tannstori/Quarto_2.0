@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Miðalvirðið er summað av øllum virðum deilt við talinum av virðum.
 
-### Formul
+### formil
 
 $$
 \bar{x} = \frac{x_1 + x_2 + ... + x_n}{n} = \frac{1}{n} \sum_{i=1}^{n} x_i
