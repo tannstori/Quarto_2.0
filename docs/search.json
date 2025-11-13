@@ -3470,19 +3470,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_finn_ab_domi.html",
     "title": "Eksponentiellar funktión finn ab dømi",
     "section": "",
-    "text": "\\[\nf(x) = a \\cdot b^x\n\\]",
-    "crumbs": [
-      "📈 Funktiónir",
-      "⚡ Eksponentiellar Funktiónir",
-      "Eksponentiellar funktión finn ab dømi"
-    ]
-  },
-  {
-    "objectID": "years/1.g/funktionir/eksponentiellar_funktion_finn_ab_domi.html#filmur",
-    "href": "years/1.g/funktionir/eksponentiellar_funktion_finn_ab_domi.html#filmur",
-    "title": "Eksponentiellar funktión finn ab dømi",
-    "section": "Filmur",
-    "text": "Filmur",
+    "text": "\\[\nf(x) = a \\cdot b^x\n\\]\n\n\n\nGivið: \\[\nf(0) = 5 \\text{   og   } f(2) = 20\n\\]\nFinn a: \\[\nf(0) = a \\cdot b^0 = a = 5\n\\]\nFinn b: \\[\nf(2) = 5 \\cdot b^2 = 20\n\\]\n\\[\nb^2 = 4\n\\]\n\\[\nb = 2\n\\]\nFunktión: \\[\nf(x) = 5 \\cdot 2^x\n\\]\n\n\n\nGivið: \\(f(1) = 6\\) og \\(f(3) = 24\\)\ntest\nsystem av líkningum: \\[\n6 = a \\cdot b^1\n\\] \\[\n24 = a \\cdot b^3\n\\]\nBýt annan við tann fyrra: \\[\n\\frac{24}{6} = \\frac{a \\cdot b^3}{a \\cdot b} = b^2\n\\]\n\\[\nb^2 = 4\n\\]\n\\[\nb = 2\n\\]\nFinn a: \\[\n6 = a \\cdot 2\n\\]\n\\[\na = 3\n\\]\nFunktión: \\[\nf(x) = 3 \\cdot 2^x\n\\]\n\n\n\ntest test\nTalið av bakterium veksur frá 100 til 400 uppá 6 tímum.\nVið \\(x\\) í tímum: \\[\n100 = a \\cdot b^0 \\Rightarrow a = 100\n\\]\n\\[\n400 = 100 \\cdot b^6\n\\]\n\\[\nb^6 = 4\n\\]\n\\[\nb = 4^{\\frac{1}{6}} = 2^{\\frac{2}{6}} = 2^{\\frac{1}{3}} \\approx 1.26\n\\]\nFunktión: \\[\nf(x) = 100 \\cdot 1.26^x\n\\]\nHetta merkir ein 26% vøkstur um tíman.\n\n\n\nEitt radioaktivt evnið minkar frá 80 g til 20 g ígjøgnum 10 ár.\n\\[\na = 80\n\\]\n\\[\n20 = 80 \\cdot b^{10}\n\\]\n\\[\nb^{10} = 0.25\n\\]\n\\[\nb = 0.25^{0.1} \\approx 0.87\n\\]\nFunktión: \\[\nf(x) = 80 \\cdot 0.87^x\n\\]\nHetta merkir ein 13% minking um árið.",
     "crumbs": [
       "📈 Funktiónir",
       "⚡ Eksponentiellar Funktiónir",

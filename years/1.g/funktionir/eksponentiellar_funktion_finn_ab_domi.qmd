@@ -1,6 +1,7 @@
 ﻿---
 title: "Eksponentiellar funktión finn ab dømi"
 ---
+# Yvirskrift
 
 ### Formul
 
@@ -42,6 +43,8 @@ $$
 
 Givið: $f(1) = 6$ og $f(3) = 24$
 
+*test*
+
 **system av líkningum:**
 $$
 6 = a \cdot b^1
@@ -78,6 +81,9 @@ f(x) = 3 \cdot 2^x
 $$
 
 ### Dømi 3: Praktiskt
+
+*test*
+**test**
 
 Talið av bakterium veksur frá 100 til 400 uppá 6 tímum.
 
