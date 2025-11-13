@@ -50,4 +50,4 @@ Parameturin $a$ breytir:
 - Fortekin (upp ella niður)
 
 ## Filmur 
-{{< video https://youtu.be/W3J6A6v2LPM?si=6iIqrCFNRkZ0IfsP >}}
+{{< video https://youtu.be/49jM_ROK4RE?si=Z9NnwpPjtG1lpbvO >}}

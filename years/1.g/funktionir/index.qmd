@@ -3,47 +3,76 @@ title: "Funktiónir"
 sidebar: sidebar-1g
 ---
 
-:::{.lesson-grid}
+```{r}
+#| echo: false
+#| output: asis
 
-:::{.lesson-card}
-### 📈 Potensfunktiónir
-- [Potensfunktiónir a og b](potensfunktionir_a_o_b.qmd)
-- [Potensfunktiónir 2](potensfunktionir_2.qmd)
-- [Potensfunktiónir 1](potensfunktionir_1.qmd)
-:::
+library(yaml)
 
-:::{.lesson-card}
-### 📊 Linjurættar Funktiónir
-- [Linjurættar funktiónir 1](linjurattar_funktionir_1.qmd)
-- [Linjurættar funktiónir 2](linjurattar_funktionir_2.qmd)
-- [Linjurættar funktiónir a og b](linjurattar_funktionir_a_og_b.qmd)
-- [Linjurættar funktiónir a og b prógv](linjurattar_funktionir_a_og_b_progv.qmd)
-- [Linjurættar funktiónir dømi](linjurattar_funktionir_domi.qmd)
-:::
+# Function to extract title from QMD file
+get_qmd_title <- function(file) {
+  lines <- readLines(file, warn = FALSE, encoding = "UTF-8")
+  yaml_start <- which(lines == "---")[1]
+  yaml_end <- which(lines == "---")[2]
+  
+  if (is.na(yaml_start) || is.na(yaml_end)) return(basename(file))
+  
+  yaml_content <- paste(lines[(yaml_start + 1):(yaml_end - 1)], collapse = "\n")
+  metadata <- tryCatch(yaml.load(yaml_content), error = function(e) list())
+  
+  return(metadata$title %||% tools::file_path_sans_ext(basename(file)))
+}
 
-:::{.lesson-card}
-### 🔍 Funktiónskanning
-- [Funktións kanning](funktions_kanning.qmd)
-- [Funktións kanning 2](funktions_kanning_2.qmd)
-:::
+# Get all QMD files in current directory (excluding index.qmd)
+qmd_files <- list.files(pattern = "\\.qmd$", full.names = FALSE)
+qmd_files <- qmd_files[qmd_files != "index.qmd"]
 
-:::{.lesson-card}
-### 📉 Logaritmur
-- [Logaritmur 1](logaritmur_1.qmd)
-- [Logaritmur 2](logaritmur_2.qmd)
-- [Logaritmur roknireglur](logaritmur_roknireglur.qmd)
-:::
+# Define categories with specific file patterns (in order you want them displayed)
+category_patterns <- list(
+  "📈 Potensfunktiónir" = "^potens",
+  "📊 Linjurættar Funktiónir" = "^linjurattar",
+  "⚡ Eksponentiellar Funktiónir" = "^(eksponentiellar|mangli)",
+  "📉 Logaritmur" = "^logaritmur",
+  "🔍 Funktiónskanning" = "^funktions_kanning"
+)
 
-:::{.lesson-card}
-### ⚡ Eksponentiellar Funktiónir
-- [Mangli at uploada - Eksponentiellar funktiónir](mangli_at_uploada_eksponentiellar_funktionir.qmd)
-- [Eksponentiellar funktión helvt](eksponentiellar_funktion_helvt.qmd)
-- [Eksponentiellar funktión tví helt](eksponentiellar_funktion_tvi_helt.qmd)
-- [Eksponentiellar funktión tví prógv](eksponentiellar_funktion_tvi_progv.qmd)
-- [Eksponentiellar funktión finn ab](eksponentiellar_funktion_finn_ab.qmd)
-- [Eksponentiellar funktión finn ab dømi](eksponentiellar_funktion_finn_ab_domi.qmd)
-:::
 
-:::
+# Group files by category
+categories <- list()
+categorized_files <- c()
+
+for (category_name in names(category_patterns)) {
+  pattern <- category_patterns[[category_name]]
+  files <- grep(pattern, qmd_files, value = TRUE, ignore.case = TRUE)
+  if (length(files) > 0) {
+    categories[[category_name]] <- files
+    categorized_files <- c(categorized_files, files)
+  }
+}
+
+# Add uncategorized files to "Other" category
+uncategorized <- setdiff(qmd_files, categorized_files)
+if (length(uncategorized) > 0) {
+  categories[["📚 Annað"]] <- uncategorized
+}
+
+# Generate lesson cards
+cat(":::{.lesson-grid}\n\n")
+
+for (category_name in names(categories)) {
+  files <- categories[[category_name]]
+  cat(":::{.lesson-card}\n")
+  cat("###", category_name, "\n")
+  
+  for (file in sort(files)) {
+    title <- get_qmd_title(file)
+    cat("- [", title, "](", file, ")\n", sep = "")
+  }
+  
+  cat(":::\n\n")
+}
+
+cat(":::")
+```
 
 
