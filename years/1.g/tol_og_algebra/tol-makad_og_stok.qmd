@@ -6,21 +6,27 @@ toc: true
 
 ## Innleiðing
 
-Her læra vit um makað og støk tøl.
+Vit kunnu býta tey heilu tølini upp í tveir bólkar makað tøl sum 2, 14 og 28, og støk tøl sum 1, -7 og 23.
 
-## Dummy Content
+### Makað tøl
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Eitt makað tal kann skrivast upp á hendan hátt:
 
-### Example
+$$2 \cdot n$$
 
-$$
-2n \text{ er makað}
-$$
+har $n$ er eitt makað tal. Eitt dømi kann vera 10, har $n = 5$:
 
-$$
-2n+1 \text{ er stakt}
-$$
+$$2 \cdot n = 2 \cdot 5 = 10$$
+
+### Støk tøl
+
+Støk tøl er eru tøl, ið kunnu skrivast upp á hendan hátt:
+
+$$2 \cdot n - 1$$
+
+har $n$ er eitt makað tal. Eitt dømi kann vera $-7$, har $n = -3$:
+
+$$2 \cdot n - 1 = 2 \cdot (-3) - 1 = -6 - 1 = -7$$
 
 {{< video https://youtu.be/cKzJuSgSyh0?si=anG6tLO4xq15NjIO >}}
 
