@@ -2,19 +2,9 @@
 title: "Brot 1"
 ---
 
-## Innleiðing
+## Brot
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Example
-
-$$
-\frac{a}{b}
-$$
+Her er ein innleiðsla til hvat eitt brot er.
 
 ## Filmur 
 {{< video https://youtu.be/y1oSllAi_jU?si=wqp0MSuaSNmRXMWP >}}
