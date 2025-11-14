@@ -4,24 +4,9 @@ title: "Kvadratsetningar dømi"
 
 ## Dømi
 
-Henda undirvísing gevur dmi um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Dømi 1
-
-$$
-(x + 3)^2 = x^2 + 6x + 9
-$$
-
-### Dømi 2
-
-$$
-(x - 5)^2 = x^2 - 10x + 25
-$$
+Her sæst eitt dømi uppá hvussu ein kan brúka kvadratsetningarnar.
 
 ## Filmur 
+https://www.youtube.com/watch?v=9VcYesYRQAg
 {{< video https://youtu.be/sZSpLuFQvlw?si=RNCc0Yjpm5N37OMz >}}
 

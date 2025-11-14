@@ -6901,5 +6901,41 @@
       "Brot",
       "Brot 1"
     ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/kvadratsetningar-domi.html#kvadratsetningar-dømi",
+    "href": "years/1.g/tol_og_algebra/kvadratsetningar-domi.html#kvadratsetningar-dømi",
+    "title": "Kvadratsetningar dømi",
+    "section": "",
+    "text": "Kvadratsetningarna brúka vit ofta tá vit skulu stytta eitt ella fleiri úttrykk. Vit brúka kvadratsetningarnar tá vit hava eitt roknistykki har ein parantes stendur í øðrum. Tá eitt úttrykk stendur í øðrum, kallast tað eitt kvadrat, tað er her kvadratsetningarnir koma frá.",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Kvadratsetningar",
+      "Kvadratsetningar dømi"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#tri-kvadratsetningar",
+    "href": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#tri-kvadratsetningar",
+    "title": "Kvadratsetningar introduktión",
+    "section": "Tri kvadratsetningar",
+    "text": "Tri kvadratsetningar\nHesi eru tær tri kvadratsetningarnir:\n\n\\((a + b)^2 = a^2 + 2ab + b^2\\)\n\\((a - b)^2 = a^2 - 2ab + b^2\\)\n\\((a + b)(a - b) = a^2 - b^2\\)",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Kvadratsetningar",
+      "Kvadratsetningar introduktión"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#kvadratsetningar",
+    "href": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#kvadratsetningar",
+    "title": "Kvadratsetningar introduktión",
+    "section": "Kvadratsetningar",
+    "text": "Kvadratsetningar\nSoleiðis síggja kvadratsetningarnir út:\n\n\\((a + b)^2 = a^2 + 2ab + b^2\\)\n\\((a - b)^2 = a^2 - 2ab + b^2\\)\n\\((a + b)(a - b) = a^2 - b^2\\)",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Kvadratsetningar",
+      "Kvadratsetningar introduktión"
+    ]
   }
 ]
