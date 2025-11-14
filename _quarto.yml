@@ -80,6 +80,7 @@ website:
               contents:
                 - years/1.g/tol_og_algebra/tol-naturlig_og_heiltol.qmd
                 - years/1.g/tol_og_algebra/tol-makad_og_stok.qmd
+                - years/1.g/tol_og_algebra/tol-rationel_og_irrationel.qmd
                 - years/1.g/tol_og_algebra/eginleikar_hja_tolum.qmd
                 - years/1.g/tol_og_algebra/eginleikar_hja_tolum-domi.qmd
                 - years/1.g/tol_og_algebra/stigskipan_av_roknihattum.qmd

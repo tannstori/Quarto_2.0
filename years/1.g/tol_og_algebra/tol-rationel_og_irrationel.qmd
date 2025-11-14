@@ -2,21 +2,32 @@
 title: "Tøl - rationel og irrationel tøl"
 ---
 
-## Innleiðing
-
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ### Rationel tøl
 
-Tøl sum kunnu skrivast sum brot: $\frac{a}{b}$
+Rationel tøl eru øll heil tøl og øll tey tøl ið kunnu skrivast sum eitt brot:
+$$\frac{a}{b}$$
+
+ Rationel tøl verða frámerkt við bókstavinum:
+ $$
+ \mathbb{Q}
+ $$
+
+ Hendan mongdin av tølum rúmar næstan øll tøl, írokna tey tølini, ið liggj ímillum tey heilu tølini. Hetta eru tøl sum 2,5 og -5,9, tí 
+ $$
+2,5=\frac{5}{2}
+ $$
 
 ### Irrationel tøl
 
-Tøl sum ikki kunnu skrivast sum brot, t.d. $\sqrt{2}$, $\pi$
+Irrationel tøl er, ið ikki kunnu skrivast sum eitt brot. Tað eru tøl sum hava óendaliga nógv
+decimaltøl, ella tøl eftir komma. Dømir á tílík tøl eru $\pi$ og $\sqrt{2}$.
+\\
+Um vit leggja allar hesar mongdirnar, heil-, rationel- og irationel tøl í eina mongd fáa
+vit øll tøl. Mongdin av øllum tølum kallast altøl ella reel tøl, og tann mongdin av tølum
+er frámerkt við bókstavinum:
+$$
+\mathbb{R}
+$$
 
 
 ## Filmur 
