@@ -4,17 +4,7 @@ title: "Brot 2"
 
 ## Innleiðing
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Advanced Fractions
-
-$$
-\frac{a + b}{c + d}
-$$
+Her vísa vit hvussu vit leggja tvey brot saman, og hvussu vit trekkja eitt brot frá einum øðrum.
 
 
 ## Filmur 
