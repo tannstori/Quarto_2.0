@@ -4,9 +4,8 @@ sidebar: sidebar-1g
 ---
 
 <div class="page-header">
-  <p>📐 Støddfrøði C </p>
-  </a>
-  <p>Her kanst tú finna øll evni.</p>
+  <h1>📐 Støddfrøði C - Øll Evni</h1>
+  <p>Vælkomin til Støddfrøði C! Her kanst tú finna øll evni og lektir.</p>
 </div>
 
 <div class="content-section">
