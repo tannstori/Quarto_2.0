@@ -4,17 +4,7 @@ title: "Brot - stytta og leingja"
 
 ## Innleiðing
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Example
-
-$$
-\frac{2}{4} = \frac{1}{2}
-$$
+Her rokna vit eitt dømi uppá hvussu ein styttur og leingir eitt brot.
 
 
 ## Filmur 
