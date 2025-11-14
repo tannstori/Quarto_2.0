@@ -4,15 +4,7 @@ title: "Prógv: 2.kvadratsetningur geometriskt"
 
 ## Prógv
 
-Henda undirvísing prgvar evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Geometriskt prógv
-
-Vísir eitt kvadrat við síðum $(a - b)$ og skiftar tað í partar.
+Her sæst hvussu 2. kvadratsetningur prógvast geometriskt.
 
 ## Filmur 
 {{< video https://youtu.be/aW59OmmpXto?si=fZm2dSc6T-bCV0Ne >}}

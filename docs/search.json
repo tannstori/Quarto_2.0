@@ -226,7 +226,7 @@
     "href": "years/1.g/tol_og_algebra/progv-3kvadratsetningur-algebraiskt.html",
     "title": "Prógv: 3.kvadratsetningur algebraiskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 3. kvadratsetningur prógvast algebraiskt.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -238,7 +238,7 @@
     "href": "years/1.g/tol_og_algebra/progv-3kvadratsetningur-algebraiskt.html#prógv",
     "title": "Prógv: 3.kvadratsetningur algebraiskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 3. kvadratsetningur prógvast algebraiskt.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -322,7 +322,7 @@
     "href": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-geometriskt.html",
     "title": "Prógv: 1.kvadratsetningur geometriskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 1. kvadratsetningur prógvast geometriskt.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -334,7 +334,7 @@
     "href": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-geometriskt.html#prógv",
     "title": "Prógv: 1.kvadratsetningur geometriskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 1. kvadratsetningur prógvast geometriskt.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -5945,7 +5945,7 @@
     "href": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.html",
     "title": "Prógv: 1.kvadratsetningur algebraiskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 1. kvadratsetningur prógvast algebraiskt. ## Filmur",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -5957,7 +5957,7 @@
     "href": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.html#prógv",
     "title": "Prógv: 1.kvadratsetningur algebraiskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 1. kvadratsetningur prógvast algebraiskt. ## Filmur",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -5993,7 +5993,7 @@
     "href": "years/1.g/tol_og_algebra/progv-2kvadratsetningur-algebraiskt.html",
     "title": "Prógv: 2.kvadratsetningur algebraiskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 2. kvadratsetningur prógvast algebraiskt.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -6005,7 +6005,7 @@
     "href": "years/1.g/tol_og_algebra/progv-2kvadratsetningur-algebraiskt.html#prógv",
     "title": "Prógv: 2.kvadratsetningur algebraiskt",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her sæst hvussu 2. kvadratsetningur prógvast algebraiskt.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
@@ -6936,6 +6936,18 @@
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
       "Kvadratsetningar introduktión"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.html#algebraiskt-prógv",
+    "href": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.html#algebraiskt-prógv",
+    "title": "Prógv: 1.kvadratsetningur algebraiskt",
+    "section": "Algebraiskt prógv",
+    "text": "Algebraiskt prógv\n\\[\n(a + b)^2 = (a + b)(a + b) = a^2 + ab + ba + b^2 = a^2 + 2ab + b^2\n\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Kvadratsetningar",
+      "Prógv: 1.kvadratsetningur algebraiskt"
     ]
   }
 ]
