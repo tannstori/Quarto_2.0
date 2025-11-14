@@ -5657,7 +5657,7 @@
     "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html",
     "title": "Eginleikar hjá tølum",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Til tey reelu tølini hoyra nakrar reglur, sum eisini kunnu kallast eginleikar.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Grundleggjandi Tal-ástøði",
@@ -6185,7 +6185,7 @@
     "href": "years/1.g/tol_og_algebra/tol-makad_og_stok.html",
     "title": "Tøl - makað og støk tøl",
     "section": "",
-    "text": "Her læra vit um makað og støk tøl.",
+    "text": "Vit kunnu býta tey heilu tølini upp í tveir bólkar makað tøl sum 2, 14 og 28, og støk tøl sum 1, -7 og 23.\n\n\nEitt makað tal kann skrivast upp á hendan hátt:\n\\[2 \\cdot n\\]\nhar \\(n\\) er eitt makað tal. Eitt dømi kann vera 10, har \\(n = 5\\):\n\\[2 \\cdot n = 2 \\cdot 5 = 10\\]\n\n\n\nStøk tøl er eru tøl, ið kunnu skrivast upp á hendan hátt:\n\\[2 \\cdot n - 1\\]\nhar \\(n\\) er eitt makað tal. Eitt dømi kann vera \\(-7\\), har \\(n = -3\\):\n\\[2 \\cdot n - 1 = 2 \\cdot (-3) - 1 = -6 - 1 = -7\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Grundleggjandi Tal-ástøði",
@@ -6197,7 +6197,7 @@
     "href": "years/1.g/tol_og_algebra/tol-makad_og_stok.html#innleiðing",
     "title": "Tøl - makað og støk tøl",
     "section": "",
-    "text": "Her læra vit um makað og støk tøl.",
+    "text": "Vit kunnu býta tey heilu tølini upp í tveir bólkar makað tøl sum 2, 14 og 28, og støk tøl sum 1, -7 og 23.\n\n\nEitt makað tal kann skrivast upp á hendan hátt:\n\\[2 \\cdot n\\]\nhar \\(n\\) er eitt makað tal. Eitt dømi kann vera 10, har \\(n = 5\\):\n\\[2 \\cdot n = 2 \\cdot 5 = 10\\]\n\n\n\nStøk tøl er eru tøl, ið kunnu skrivast upp á hendan hátt:\n\\[2 \\cdot n - 1\\]\nhar \\(n\\) er eitt makað tal. Eitt dømi kann vera \\(-7\\), har \\(n = -3\\):\n\\[2 \\cdot n - 1 = 2 \\cdot (-3) - 1 = -6 - 1 = -7\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Grundleggjandi Tal-ástøði",
@@ -6805,5 +6805,53 @@
     "title": "🚀 Quick Start Guide for Contributors",
     "section": "",
     "text": "✅ Read this guide\n✅ Preview the site locally\n✅ Make a test edit\n📖 Read README.md for more details\n🎨 Customize colors and design\n📝 Add your first lesson\n🚀 Deploy to GitHub Pages\n\n\nWelcome to the Minerva project! 🎓\nYou’re now ready to contribute. Happy coding!\nFor detailed guides, see README.md and MAINTENANCE.md"
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#eginleikar-hjá-tølum",
+    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#eginleikar-hjá-tølum",
+    "title": "Eginleikar hjá tølum",
+    "section": "",
+    "text": "Til tey reelu tølini hoyra nakrar reglur, sum eisini kunnu kallast eginleikar.",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Eginleikar hjá tølum"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#additión",
+    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#additión",
+    "title": "Eginleikar hjá tølum",
+    "section": "Additión",
+    "text": "Additión\nFyri additión eru hesir eginleikarnir galdandi:\n\nKommutativ lóg\n\\[a + b = b + a\\]\n\n\nAssociativ lóg\n\\[a + (b + c) = (a + b) + c\\]\n\n\nNeutralt element\n\\[a + 0 = a\\]\n\n\nØvugt tal (Invers)\n\\[a + (-a) = 0\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Eginleikar hjá tølum"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#multiplikation",
+    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#multiplikation",
+    "title": "Eginleikar hjá tølum",
+    "section": "Multiplikation",
+    "text": "Multiplikation\nFyri multiplikation (ganga) eru hesir eginleikar galdandi:\n\nKommutativ lóg\n\\[a \\cdot b = b \\cdot a\\]\n\n\nAssociativ lóg\n\\[a \\cdot (b \\cdot c) = (a \\cdot b) \\cdot c\\]\n\n\nDistributiv lóg\n\\[a \\cdot (b + c) = a \\cdot b + a \\cdot c\\]\n\n\nNeutralt element\n\\[a \\cdot 1 = a\\]\n\n\nØvugt tal (Invers)\n\\[a \\cdot \\frac{1}{a} = 1, \\quad a \\neq 0\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Eginleikar hjá tølum"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#dømir",
+    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#dømir",
+    "title": "Eginleikar hjá tølum",
+    "section": "Dømir",
+    "text": "Dømir\nNú koma vit við nøkrum dømum",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Eginleikar hjá tølum"
+    ]
   }
 ]
