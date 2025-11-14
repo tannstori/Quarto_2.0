@@ -12,13 +12,11 @@ title-block-banner: false
   padding: 80px 20px 60px;
   background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
   color: white;
-  margin: -50px 0 60px 0;
-  width: 100vw;
+  margin: 0 0 60px 0;
+  width: 100%;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.3);
+  border-radius: 12px;
 }
 
 .hero-section h1 {
@@ -154,7 +152,8 @@ title-block-banner: false
 @media screen and (max-width: 768px) {
   .hero-section {
     padding: 60px 20px 40px;
-    margin: -20px -20px 40px;
+    margin: 0 0 40px 0;
+    width: 100%;
   }
   
   .hero-section h1 {
