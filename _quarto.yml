@@ -18,10 +18,11 @@ format:
     theme: 
       light: spacelab  # Base Quarto theme
     math: true  # Enable LaTeX math rendering
-    css: 
-      - styles.css  # Main custom styles
-      - minerva_theme.css  # Additional theme enhancements
-    include-after-body: navbar-handler.html  # Dynamic navbar behavior
+    css: minerva_essentials.css  # Essential CSS with footer styling
+    include-after-body: 
+      - navbar-handler.html  # Navbar behavior
+      - footer.html  # Footer on all pages
+      - collapse-handler.html  # Collapsible sections
     smooth-scroll: true  # Smooth scrolling to anchors
     
     # Table of Contents Configuration
@@ -36,8 +37,8 @@ format:
     
     # Layout Grid (Desktop)
     grid:
-      sidebar-width: 300px  # Left sidebar width
-      body-width: 900px  # Main content width
+      sidebar-width: 350px  # Left sidebar width (slimmer)
+      body-width: 900px # Main content width
       margin-width: 250px  # Right TOC width
 
 website:
@@ -64,18 +65,16 @@ website:
     # ========================================
     - id: sidebar-1g  # Referenced in lesson frontmatter
       title: "📐 Støddfrøði C"
-      location: left  # Show on left side (TOC goes on right)
-      style: "docked"  # Always visible on desktop
-      collapse-level: 2  # Auto-collapse subsections
+      style: "floating"  # Always visible on desktop
+      collapse-level: 1  # Auto-collapse subsections
       contents:
-        - text: "🏠 Tilbaka til Øll Evni"  # Back to year overview
+        - text: "🏠 Aftur til øll evni"  # Back to year overview
           href: years/1.g/index.qmd
         - text: "---"  # Horizontal separator
         - section: "📚 Tøl og Algebra"
           href: years/1.g/tol_og_algebra/index.qmd
           collapsed: true
           contents:
-            - years/1.g/tol_og_algebra/index.qmd
             - section: "Grundleggjandi Tal-ástøði"
               collapsed: true
               contents:
@@ -129,7 +128,6 @@ website:
           href: years/1.g/funktionir/index.qmd
           collapsed: true
           contents:
-            - years/1.g/funktionir/index.qmd
             - section: "📈 Potensfunktiónir"
               collapsed: true
               contents:
@@ -168,7 +166,6 @@ website:
           href: years/1.g/geometri/index.qmd
           collapsed: true
           contents:
-            - years/1.g/geometri/index.qmd
             - section: "🔺 Trýkantar - Grundleggjandi"
               collapsed: true
               contents:
@@ -218,7 +215,6 @@ website:
           href: years/1.g/hagfrodi/index.qmd
           collapsed: true
           contents:
-            - years/1.g/hagfrodi/index.qmd
             - section: "📊 Grundleggjandi Hugtøk"
               collapsed: true
               contents:
@@ -250,7 +246,6 @@ website:
           href: years/1.g/likindarokning/index.qmd
           collapsed: true
           contents:
-            - years/1.g/likindarokning/index.qmd
             - section: "🎲 Grundleggjandi Hugtøk"
               collapsed: true
               contents:
@@ -271,7 +266,6 @@ website:
           href: years/1.g/kapitalrokning/index.qmd
           collapsed: true
           contents:
-            - years/1.g/kapitalrokning/index.qmd
             - section: "💯 Prosent"
               collapsed: true
               contents:

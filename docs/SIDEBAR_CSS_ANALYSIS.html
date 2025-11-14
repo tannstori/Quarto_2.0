@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>changelog – Minerva</title>
+<title>sidebar_css_analysis – Minerva</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,7 +74,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-86e22cf876a6fa79f810daf4a3a2bff1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-720bdcd7f389ba0b19d71f9257ef8c32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -134,8 +134,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="minerva_theme.css">
+<link rel="stylesheet" href="minerva_essentials.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -182,17 +181,17 @@ window.Quarto = {
     <h2 id="toc-title">Á hesi síðu</h2>
    
   <ul>
-  <li><a href="#changelog" id="toc-changelog" class="nav-link active" data-scroll-target="#changelog">Changelog</a>
+  <li><a href="#sidebar-css-analysis-comparison" id="toc-sidebar-css-analysis-comparison" class="nav-link active" data-scroll-target="#sidebar-css-analysis-comparison">Sidebar CSS Analysis &amp; Comparison</a>
   <ul class="collapse">
-  <li><a href="#november-2025" id="toc-november-2025" class="nav-link" data-scroll-target="#november-2025">[2.0.0] - November 2025</a>
+  <li><a href="#files-created" id="toc-files-created" class="nav-link" data-scroll-target="#files-created">Files Created:</a></li>
+  <li><a href="#what-can-be-safely-removed-from-sidebar-css" id="toc-what-can-be-safely-removed-from-sidebar-css" class="nav-link" data-scroll-target="#what-can-be-safely-removed-from-sidebar-css">What Can Be SAFELY REMOVED from Sidebar CSS:</a>
   <ul class="collapse">
-  <li><a href="#major-refactor-cleanup" id="toc-major-refactor-cleanup" class="nav-link" data-scroll-target="#major-refactor-cleanup">Major Refactor &amp; Cleanup</a></li>
+  <li><a href="#can-remove-quarto-handles-these" id="toc-can-remove-quarto-handles-these" class="nav-link" data-scroll-target="#can-remove-quarto-handles-these">✅ CAN REMOVE (Quarto handles these):</a></li>
+  <li><a href="#keep-essential-functionality" id="toc-keep-essential-functionality" class="nav-link" data-scroll-target="#keep-essential-functionality">⚠️ KEEP (Essential functionality):</a></li>
+  <li><a href="#optional-visual-polish" id="toc-optional-visual-polish" class="nav-link" data-scroll-target="#optional-visual-polish">🎨 OPTIONAL (Visual polish):</a></li>
   </ul></li>
-  <li><a href="#initial-release" id="toc-initial-release" class="nav-link" data-scroll-target="#initial-release">[1.0.0] - Initial Release</a>
-  <ul class="collapse">
-  <li><a href="#initial-features" id="toc-initial-features" class="nav-link" data-scroll-target="#initial-features">Initial Features</a></li>
-  </ul></li>
-  <li><a href="#how-to-update-this-changelog" id="toc-how-to-update-this-changelog" class="nav-link" data-scroll-target="#how-to-update-this-changelog">How to Update This Changelog</a></li>
+  <li><a href="#recommendation" id="toc-recommendation" class="nav-link" data-scroll-target="#recommendation">Recommendation:</a></li>
+  <li><a href="#to-test-each-version" id="toc-to-test-each-version" class="nav-link" data-scroll-target="#to-test-each-version">To Test Each Version:</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -203,97 +202,87 @@ window.Quarto = {
 
 
 
-<section id="changelog" class="level1">
-<h1>Changelog</h1>
-<p>All notable changes to the Minerva website will be documented in this file.</p>
-<section id="november-2025" class="level2">
-<h2 class="anchored" data-anchor-id="november-2025">[2.0.0] - November 2025</h2>
-<section id="major-refactor-cleanup" class="level3">
-<h3 class="anchored" data-anchor-id="major-refactor-cleanup">Major Refactor &amp; Cleanup</h3>
-<section id="added" class="level4">
-<h4 class="anchored" data-anchor-id="added">✨ Added</h4>
+<section id="sidebar-css-analysis-comparison" class="level1">
+<h1>Sidebar CSS Analysis &amp; Comparison</h1>
+<section id="files-created" class="level2">
+<h2 class="anchored" data-anchor-id="files-created">Files Created:</h2>
+<ol type="1">
+<li><strong>minimal_test.css</strong> (16 lines)
 <ul>
-<li><strong>Comprehensive README.md</strong> - Complete guide for using and customizing the site</li>
-<li><strong>MAINTENANCE.md</strong> - Detailed maintenance guide with best practices</li>
-<li><strong>Right sidebar TOC</strong> - Table of contents now appears on the right side of lesson pages</li>
-<li><strong>Breadcrumb navigation</strong> - Easy way to navigate back to overview pages</li>
-<li><strong>Emoji icons</strong> - Visual navigation in sidebar (📚, 📈, 📐, 📊, 🎲, 💰)</li>
-<li><strong>Smooth hover effects</strong> - Elegant animations on TOC and cards</li>
-<li><strong>Three-column layout</strong> - Left sidebar + content + right TOC</li>
-</ul>
+<li>ONLY the vertical collapse fix</li>
+<li>Pure Quarto defaults for everything else</li>
+</ul></li>
+<li><strong>minerva_essentials.css</strong> (115 lines)
+<ul>
+<li>Essential sidebar styling</li>
+<li>Critical fixes</li>
+<li>Clean, maintainable</li>
+</ul></li>
+<li><strong>minerva_theme.css</strong> (1200+ lines)
+<ul>
+<li>Full custom design</li>
+<li>All animations, gradients, effects</li>
+</ul></li>
+</ol>
+<hr>
 </section>
-<section id="changed" class="level4">
-<h4 class="anchored" data-anchor-id="changed">🎨 Changed</h4>
-<ul>
-<li><strong>Dual stylesheet system</strong> - styles.css (main styling) + minerva_theme.scss (theme enhancements)</li>
-<li><strong>Improved card design</strong> - Modern, responsive cards for lessons and topics</li>
-<li><strong>Enhanced mobile responsiveness</strong> - Better experience on tablets and phones</li>
-<li><strong>Updated color scheme</strong> - Professional blue and purple palette</li>
-<li><strong>Refined typography</strong> - Inter font family, improved readability</li>
-</ul>
+<section id="what-can-be-safely-removed-from-sidebar-css" class="level2">
+<h2 class="anchored" data-anchor-id="what-can-be-safely-removed-from-sidebar-css">What Can Be SAFELY REMOVED from Sidebar CSS:</h2>
+<section id="can-remove-quarto-handles-these" class="level3">
+<h3 class="anchored" data-anchor-id="can-remove-quarto-handles-these">✅ CAN REMOVE (Quarto handles these):</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">/* Width controls - Quarto handles via _quarto.yml */</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar</span> { <span class="kw">width</span><span class="ch">:</span> <span class="dv">260</span><span class="dt">px</span><span class="op">;</span> }</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">/* Basic display - Quarto default works */</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="pp">#quarto-sidebar</span> { <span class="kw">display</span><span class="ch">:</span> <span class="dv">block</span><span class="op">;</span> }</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">/* Standard padding - Quarto provides */</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar-item</span> { <span class="kw">padding</span><span class="ch">:</span> <span class="dv">0.5</span><span class="dt">rem</span><span class="op">;</span> }</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="removed" class="level4">
-<h4 class="anchored" data-anchor-id="removed">🗑️ Removed</h4>
-<ul>
-<li><strong>Legacy code</strong> - Cleaned up old comments and unused styles</li>
-<li><strong>Duplicate CSS</strong> - Removed redundant styling between files</li>
-<li><strong>Navbar emoji animation</strong> - Removed distracting bounce effect</li>
-<li><strong>TODO comments</strong> - Fixed site-url placeholder</li>
-</ul>
+<section id="keep-essential-functionality" class="level3">
+<h3 class="anchored" data-anchor-id="keep-essential-functionality">⚠️ KEEP (Essential functionality):</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">/* CRITICAL: Vertical collapse fix */</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="pp">#quarto-sidebar</span> <span class="fu">.sidebar-section.collapse</span> {</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="kw">height</span><span class="ch">:</span> <span class="bu">auto</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="kw">transition</span><span class="ch">:</span> <span class="dv">height 0.35</span><span class="dt">s</span> <span class="dv">ease</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="co">/* Active state (important for UX) */</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar-item.active</span> {</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">border-left</span><span class="ch">:</span> <span class="dv">3</span><span class="dt">px</span> <span class="dv">solid</span> <span class="fu">var(</span><span class="va">--minerva-secondary</span><span class="fu">)</span><span class="op">;</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">background</span><span class="ch">:</span> <span class="fu">rgba(</span><span class="dv">59</span><span class="op">,</span> <span class="dv">130</span><span class="op">,</span> <span class="dv">246</span><span class="op">,</span> <span class="dv">0.08</span><span class="fu">)</span><span class="op">;</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="co">/* Nested indentation (readability) */</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar-section</span> <span class="fu">.sidebar-item</span> { <span class="kw">padding-left</span><span class="ch">:</span> <span class="dv">0.6</span><span class="dt">rem</span> <span class="at">!important</span><span class="op">;</span> }</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar-section</span> <span class="fu">.sidebar-section</span> <span class="fu">.sidebar-item</span> { <span class="kw">padding-left</span><span class="ch">:</span> <span class="dv">1.2</span><span class="dt">rem</span> <span class="at">!important</span><span class="op">;</span> }</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="fixed" class="level4">
-<h4 class="anchored" data-anchor-id="fixed">🐛 Fixed</h4>
-<ul>
-<li><strong>Main page layout</strong> - Removed white horizontal lines in hero section</li>
-<li><strong>Sidebar navigation</strong> - Subject navigation now on left, page TOC on right</li>
-<li><strong>Mobile sidebar</strong> - Fixed overlay behavior on small screens</li>
-<li><strong>TOC visibility</strong> - Resolved CSS issues preventing TOC from appearing</li>
-</ul>
-</section>
-<section id="documentation" class="level4">
-<h4 class="anchored" data-anchor-id="documentation">📚 Documentation</h4>
-<ul>
-<li>Added comprehensive README with setup, customization, and troubleshooting</li>
-<li>Created maintenance guide with best practices and checklists</li>
-<li>Documented code structure and organization</li>
-<li>Added examples for common tasks (adding lessons, subjects, years)</li>
-</ul>
+<section id="optional-visual-polish" class="level3">
+<h3 class="anchored" data-anchor-id="optional-visual-polish">🎨 OPTIONAL (Visual polish):</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">/* These are nice-to-have but not required */</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar</span> { <span class="kw">box-shadow</span><span class="ch">:</span> <span class="dv">2</span><span class="dt">px</span> <span class="dv">0</span> <span class="dv">8</span><span class="dt">px</span> <span class="fu">rgba(</span><span class="dv">0</span><span class="op">,</span><span class="dv">0</span><span class="op">,</span><span class="dv">0</span><span class="op">,</span><span class="dv">0.05</span><span class="fu">)</span><span class="op">;</span> }</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar-item</span><span class="in">:hover</span> { <span class="kw">transform</span><span class="ch">:</span> <span class="fu">translateX(</span><span class="dv">4</span><span class="dt">px</span><span class="fu">)</span><span class="op">;</span> }</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">.sidebar-title</span> { <span class="kw">background</span><span class="ch">:</span> <span class="fu">linear-gradient(</span>...<span class="fu">)</span><span class="op">;</span> }</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <hr>
 </section>
 </section>
-</section>
-<section id="initial-release" class="level2">
-<h2 class="anchored" data-anchor-id="initial-release">[1.0.0] - Initial Release</h2>
-<section id="initial-features" class="level3">
-<h3 class="anchored" data-anchor-id="initial-features">Initial Features</h3>
-<ul>
-<li>Basic Quarto website structure</li>
-<li>Year-based organization (1.g, 2.g)</li>
-<li>Subject-based lessons</li>
-<li>LaTeX math support</li>
-<li>Responsive design</li>
-<li>GitHub Pages deployment</li>
-</ul>
+<section id="recommendation" class="level2">
+<h2 class="anchored" data-anchor-id="recommendation">Recommendation:</h2>
+<p><strong>Switch to <code>minerva_essentials.css</code></strong> (the simplified version): - 90% smaller file - Same core functionality - Easier to maintain - Still looks professional - Keeps the critical vertical collapse fix</p>
 <hr>
 </section>
-</section>
-<section id="how-to-update-this-changelog" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-update-this-changelog">How to Update This Changelog</h2>
-<p>When making significant changes, add them under a new version header:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## [X.Y.Z] - YYYY-MM-DD</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">### Added</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>New features you added</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">### Changed</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Changes to existing features</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">### Fixed</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Bug fixes</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">### Removed</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Removed features</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<p>Use semantic versioning: - <strong>Major (X)</strong>: Breaking changes, complete redesigns - <strong>Minor (Y)</strong>: New features, no breaking changes - <strong>Patch (Z)</strong>: Bug fixes, small improvements</p>
+<section id="to-test-each-version" class="level2">
+<h2 class="anchored" data-anchor-id="to-test-each-version">To Test Each Version:</h2>
+<p>Edit <code>_quarto.yml</code> line 21:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Option 1: Pure Quarto (will show horizontal collapse issue)</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">css</span><span class="kw">:</span><span class="at"> minimal_test.css</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Option 2: Essential only (RECOMMENDED)</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">css</span><span class="kw">:</span><span class="at"> minerva_essentials.css</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Option 3: Full custom (current)</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="fu">css</span><span class="kw">:</span><span class="at"> minerva_theme.css</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Then run: <code>quarto preview</code></p>
 
 
 
@@ -303,15 +292,11 @@ window.Quarto = {
 </main> <!-- /main -->
 <script>
 
+// Minimal navbar handler
+
 document.addEventListener('DOMContentLoaded', function() {
 
   const path = window.location.pathname;
-
-  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
-
-  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
-
-  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
 
   const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
 
@@ -319,49 +304,222 @@ document.addEventListener('DOMContentLoaded', function() {
 
   
 
-  if (isMainHomepage) {
+  if (path.endsWith('index.html') && !path.includes('/years/')) {
 
-    // Main homepage: hide back button
-
-    if (backButton && backButton.textContent.includes('Aftur')) {
-
-      backButton.style.display = 'none';
-
-    }
-
-  } else if (is1gHomepage) {
-
-    // 1.g homepage: show "Støddfrøði C", back goes to main
-
-    if (navbarBrand) navbarBrand.textContent = '';
-
-    if (backButton) backButton.href = '../../index.html';
-
-  } else if (is2gHomepage) {
-
-    // 2.g homepage: show "Støddfrøði B", back goes to main
-
-    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
-
-    if (backButton) backButton.href = '../../index.html';
+    if (backButton) backButton.style.display = 'none';
 
   } else if (path.includes('/1.g/')) {
 
-    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
-
     if (navbarBrand) navbarBrand.textContent = '';
 
-    if (backButton) backButton.href = '../index.html';
+    if (backButton) backButton.href = path.includes('index.html') && path.split('/').length <= 6 ? '../../index.html' : '../index.html';
 
   } else if (path.includes('/2.g/')) {
 
-    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
-
     if (navbarBrand) navbarBrand.textContent = '';
 
-    if (backButton) backButton.href = '../index.html';
+    if (backButton) backButton.href = path.includes('index.html') && path.split('/').length <= 6 ? '../../index.html' : '../index.html';
 
   }
+
+});
+
+</script>
+<footer class="minerva-footer">
+
+  <div class="sponsor-section">
+
+    <h3> Stuðlað hava</h3>
+
+    <h1> Nám </h1>
+
+    <h1> Betri </h1>
+
+    
+
+    <h3> Stuðla Minerva</h3>
+
+    <p>Hjálp okkum at gera meira støddfrøðiinnihald og halda síðuna koyra.</p>
+
+    <a href="https://github.com/sponsors/tannstori" class="sponsor-button" target="_blank">
+
+      💖 Stuðla Minerva
+
+    </a>
+
+  </div>
+
+  
+
+  <div class="footer-links">
+
+    <a href="https://github.com/tannstori/minerva_quarto" class="footer-link" target="_blank">
+
+      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
+
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+
+      </svg>
+
+      GitHub Repository
+
+    </a>
+
+    
+
+    <a href="https://github.com/tannstori/minerva_quarto/issues" class="footer-link" target="_blank">
+
+      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
+
+        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+
+        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+
+      </svg>
+
+      Boða frá feilum
+
+    </a>
+
+  </div>
+
+  
+
+  <div class="footer-copyright">
+
+    <p>© 2024 Minerva - Støddfrøði á føroyskum. Gjørt við ❤️ fyri Føroyum.</p>
+
+  </div>
+
+</footer>
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+
+  // Get all content sections
+
+  const sections = document.querySelectorAll('.content-section');
+
+  
+
+  sections.forEach(section => {
+
+    const heading = section.querySelector('h2');
+
+    const grid = section.querySelector('.lesson-grid');
+
+    
+
+    if (!heading || !grid) return;
+
+    
+
+    // Check if this section should be collapsed on load based on URL hash
+
+    const sectionId = heading.textContent.trim().toLowerCase()
+
+      .replace(/[^\w\s-]/g, '')
+
+      .replace(/\s+/g, '-');
+
+    
+
+    const urlHash = window.location.hash.substring(1).toLowerCase();
+
+    
+
+    // Collapse all sections by default
+
+    heading.classList.add('collapsed');
+
+    grid.classList.add('collapsed');
+
+    
+
+    // If URL matches this section, expand it
+
+    if (urlHash && sectionId.includes(urlHash)) {
+
+      heading.classList.remove('collapsed');
+
+      grid.classList.remove('collapsed');
+
+    }
+
+    
+
+    // Add click handler
+
+    heading.addEventListener('click', function() {
+
+      // Toggle collapsed state
+
+      heading.classList.toggle('collapsed');
+
+      grid.classList.toggle('collapsed');
+
+    });
+
+  });
+
+  
+
+  // Handle hash changes (when user clicks anchor links)
+
+  window.addEventListener('hashchange', function() {
+
+    const hash = window.location.hash.substring(1).toLowerCase();
+
+    
+
+    if (!hash) return;
+
+    
+
+    // Find and expand the matching section
+
+    sections.forEach(section => {
+
+      const heading = section.querySelector('h2');
+
+      const grid = section.querySelector('.lesson-grid');
+
+      
+
+      if (!heading || !grid) return;
+
+      
+
+      const sectionId = heading.textContent.trim().toLowerCase()
+
+        .replace(/[^\w\s-]/g, '')
+
+        .replace(/\s+/g, '-');
+
+      
+
+      if (sectionId.includes(hash)) {
+
+        heading.classList.remove('collapsed');
+
+        grid.classList.remove('collapsed');
+
+        
+
+        // Scroll to section smoothly
+
+        setTimeout(() => {
+
+          heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+        }, 100);
+
+      }
+
+    });
+
+  });
 
 });
 

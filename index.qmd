@@ -1,5 +1,5 @@
 ---
-title: "Vælkomin til Minerva!"
+title: "  "
 page-layout: custom
 title-block-banner: false
 ---
@@ -88,15 +88,16 @@ title-block-banner: false
   text-align: center;
   border: 1px solid #E5E7EB;
   position: relative;
+  overflow: hidden;
 }
 
 .course-card::before {
   content: '';
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  height: 5px;
   background: linear-gradient(90deg, #3B82F6, #8B5CF6);
   opacity: 0;
   transition: opacity 0.3s ease;
@@ -105,12 +106,12 @@ title-block-banner: false
 
 .course-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0);
   border-color: #3B82F6;
 }
 
 .course-card:hover::before {
-  opacity: 1;
+  opacity: 5;
 }
 
 .course-card h3 {
@@ -220,11 +221,8 @@ title-block-banner: false
 
 <div class="intro-text">
 
-## Um Minerva
-
-Minerva er eitt ikki bara eitthvørt nám. Tað er eitt **gullnám** av støddfrøðisfilmum, sum hjálpa tær at læra støddfrøði á tínum egna máti.
-
-Her finnur tú í løtuni støddfrøðifilmar á C-stigi og B-stigi. Vel tín árgang niðanfyri og byrja at læra!
+## Vel støðið
+Stígum fast og rembist, nú annað skinn verður tikið um bak.
 
 </div>
 
@@ -234,9 +232,7 @@ Her finnur tú í løtuni støddfrøðifilmar á C-stigi og B-stigi. Vel tín á
 
 ### 📐 Støddfrøði C
 
-**Fyri 1.g nemingar**
 
-Læra grundleggjandi støddfrøði við filmalektiónum, sum eru gjørd serstakliga fyri 1.g. Við hvørjum tíma fært tú eitt betri innsæi í støddfrøði.
 
 [Vel Støddfrøði C →](years/1.g/index.qmd){.btn}
 
@@ -246,16 +242,9 @@ Læra grundleggjandi støddfrøði við filmalektiónum, sum eru gjørd serstakl
 
 ### 📊 Støddfrøði B
 
-**Fyri 2.g nemingar**
 
-Bygg víðari á tínum kunleika við støddfrøðifilmum til 2.g. Djúpari viðfangi og framkomnar teknikkir.
 
 [Vel Støddfrøði B →](years/2.g/index.qmd){.btn}
 
 </div>
 
-</div>
-
-</div>
-
-{{< include footer.html >}}

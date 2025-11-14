@@ -1,71 +1,13 @@
 ﻿---
-title: "Støddfrøði C - Øll Evni"
+title: ""
 sidebar: sidebar-1g
 ---
 
-```{=HTML}
-<style>
-.page-header {
-  background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-  color: white;
-  padding: 40px 30px;
-  margin: -30px -30px 40px -30px;
-  border-radius: 0 0 16px 16px;
-  text-align: center;
-}
-
-.page-header h1 {
-  color: white !important;
-  font-size: 2em;
-  margin-bottom: 12px;
-  font-weight: 700;
-}
-
-.page-header p {
-  opacity: 0.9;
-  font-size: 1.1em;
-  margin: 0;
-}
-
-.content-section {
-  margin-bottom: 50px;
-}
-
-.content-section h2 {
-  color: #0F172A;
-  font-size: 1.8em;
-  font-weight: 700;
-  margin-bottom: 24px;
-  padding-bottom: 12px;
-  border-bottom: 3px solid #3B82F6;
-  display: inline-block;
-}
-
-@media screen and (max-width: 768px) {
-  .page-header {
-    padding: 30px 20px;
-    margin: -20px -20px 30px -20px;
-  }
-  
-  .page-header h1 {
-    font-size: 1.6em;
-  }
-  
-  .page-header p {
-    font-size: 1em;
-  }
-  
-  .content-section h2 {
-    font-size: 1.5em;
-  }
-}
-</style>
-
 <div class="page-header">
-  <h1>📐 Støddfrøði C - Øll Evni</h1>
-  <p>Vælkomin til Støddfrøði C! Her kanst tú finna øll evni og lektir.</p>
+  <p>📐 Støddfrøði C </p>
+  </a>
+  <p>Her kanst tú finna øll evni.</p>
 </div>
-```
 
 <div class="content-section">
 
@@ -350,6 +292,4 @@ sidebar: sidebar-1g
 :::
 
 </div>
-
-{{< include ../../footer.html >}}
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Vælkomin til Minerva! – Minerva</title>
+<title>quarto-inputf37e5180fb5c16ce – Minerva</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-86e22cf876a6fa79f810daf4a3a2bff1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-720bdcd7f389ba0b19d71f9257ef8c32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -99,7 +99,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="minerva_theme.css">
+<link rel="stylesheet" href="minerva_essentials.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -143,23 +143,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
 <!-- main -->
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Vælkomin til Minerva!</h1>
-</div>
 
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <style>
@@ -245,15 +229,16 @@ window.Quarto = {
   text-align: center;
   border: 1px solid #E5E7EB;
   position: relative;
+  overflow: hidden;
 }
 
 .course-card::before {
   content: '';
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  height: 5px;
   background: linear-gradient(90deg, #3B82F6, #8B5CF6);
   opacity: 0;
   transition: opacity 0.3s ease;
@@ -262,12 +247,12 @@ window.Quarto = {
 
 .course-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0);
   border-color: #3B82F6;
 }
 
 .course-card:hover::before {
-  opacity: 1;
+  opacity: 5;
 }
 
 .course-card h3 {
@@ -372,72 +357,33 @@ window.Quarto = {
   <p>Eitt gullnám av støddfrøðisfilmum - læra støddfrøði á tínum egna máti</p>
 </div>
 <div class="course-cards-container">
-<section id="um-minerva" class="level2 intro-text">
-<h2 data-anchor-id="um-minerva">Um Minerva</h2>
-<p>Minerva er eitt ikki bara eitthvørt nám. Tað er eitt <strong>gullnám</strong> av støddfrøðisfilmum, sum hjálpa tær at læra støddfrøði á tínum egna máti.</p>
-<p>Her finnur tú í løtuni støddfrøðifilmar á C-stigi og B-stigi. Vel tín árgang niðanfyri og byrja at læra!</p>
+<section id="vel-støðið" class="level2 intro-text">
+<h2 data-anchor-id="vel-støðið">Vel støðið</h2>
+<p>Stígum fast og rembist, nú annað skinn verður tikið um bak.</p>
 </section>
 <div class="course-cards">
 <section id="støddfrøði-c" class="level3 course-card">
 <h3 data-anchor-id="støddfrøði-c">📐 Støddfrøði C</h3>
-<p><strong>Fyri 1.g nemingar</strong></p>
-<p>Læra grundleggjandi støddfrøði við filmalektiónum, sum eru gjørd serstakliga fyri 1.g. Við hvørjum tíma fært tú eitt betri innsæi í støddfrøði.</p>
 <p><a href="./years/1.g/index.html" class="btn">Vel Støddfrøði C →</a></p>
 </section>
 <section id="støddfrøði-b" class="level3 course-card">
 <h3 data-anchor-id="støddfrøði-b">📊 Støddfrøði B</h3>
-<p><strong>Fyri 2.g nemingar</strong></p>
-<p>Bygg víðari á tínum kunleika við støddfrøðifilmum til 2.g. Djúpari viðfangi og framkomnar teknikkir.</p>
 <p><a href="./years/2.g/index.html" class="btn">Vel Støddfrøði B →</a></p>
 </section>
+
+
+
 </div>
 </div>
-<footer class="minerva-footer">
-  <div class="sponsor-section">
-    <h3>Stuðul Minerva</h3>
-    <p>Hjálp okkum at gera meira støddfrøðiinnihald og halda síðuna í gangi. Hvør stuðul hjálpir!</p>
-    <a href="https://github.com/sponsors/tannstori" class="sponsor-button" target="_blank">
-      💖 Stuðul Minerva
-    </a>
-  </div>
-  
-  <div class="footer-links">
-    <a href="https://github.com/tannstori/minerva_quarto" class="footer-link" target="_blank">
-      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
-        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-      </svg>
-      GitHub Repository
-    </a>
-    
-    <a href="https://github.com/tannstori/minerva_quarto/issues" class="footer-link" target="_blank">
-      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
-        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
-        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
-      </svg>
-      Meld frá einum feilum
-    </a>
-  </div>
-  
-  <div class="footer-copyright">
-    <p>© 2024 Minerva - Støddfrøðinámsgögn á føroyskum. Gjørt við ❤️ fyri føroyskir lesandi.</p>
-  </div>
-</footer>
-
-
-
 
 
 <script>
 
+// Minimal navbar handler
+
 document.addEventListener('DOMContentLoaded', function() {
 
   const path = window.location.pathname;
-
-  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
-
-  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
-
-  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
 
   const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
 
@@ -445,49 +391,222 @@ document.addEventListener('DOMContentLoaded', function() {
 
   
 
-  if (isMainHomepage) {
+  if (path.endsWith('index.html') && !path.includes('/years/')) {
 
-    // Main homepage: hide back button
-
-    if (backButton && backButton.textContent.includes('Aftur')) {
-
-      backButton.style.display = 'none';
-
-    }
-
-  } else if (is1gHomepage) {
-
-    // 1.g homepage: show "Støddfrøði C", back goes to main
-
-    if (navbarBrand) navbarBrand.textContent = '';
-
-    if (backButton) backButton.href = '../../index.html';
-
-  } else if (is2gHomepage) {
-
-    // 2.g homepage: show "Støddfrøði B", back goes to main
-
-    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
-
-    if (backButton) backButton.href = '../../index.html';
+    if (backButton) backButton.style.display = 'none';
 
   } else if (path.includes('/1.g/')) {
 
-    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
-
     if (navbarBrand) navbarBrand.textContent = '';
 
-    if (backButton) backButton.href = '../index.html';
+    if (backButton) backButton.href = path.includes('index.html') && path.split('/').length <= 6 ? '../../index.html' : '../index.html';
 
   } else if (path.includes('/2.g/')) {
 
-    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
-
     if (navbarBrand) navbarBrand.textContent = '';
 
-    if (backButton) backButton.href = '../index.html';
+    if (backButton) backButton.href = path.includes('index.html') && path.split('/').length <= 6 ? '../../index.html' : '../index.html';
 
   }
+
+});
+
+</script>
+<footer class="minerva-footer">
+
+  <div class="sponsor-section">
+
+    <h3> Stuðlað hava</h3>
+
+    <h1> Nám </h1>
+
+    <h1> Betri </h1>
+
+    
+
+    <h3> Stuðla Minerva</h3>
+
+    <p>Hjálp okkum at gera meira støddfrøðiinnihald og halda síðuna koyra.</p>
+
+    <a href="https://github.com/sponsors/tannstori" class="sponsor-button" target="_blank">
+
+      💖 Stuðla Minerva
+
+    </a>
+
+  </div>
+
+  
+
+  <div class="footer-links">
+
+    <a href="https://github.com/tannstori/minerva_quarto" class="footer-link" target="_blank">
+
+      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
+
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+
+      </svg>
+
+      GitHub Repository
+
+    </a>
+
+    
+
+    <a href="https://github.com/tannstori/minerva_quarto/issues" class="footer-link" target="_blank">
+
+      <svg viewbox="0 0 16 16" fill="currentColor" aria-hidden="true">
+
+        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+
+        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+
+      </svg>
+
+      Boða frá feilum
+
+    </a>
+
+  </div>
+
+  
+
+  <div class="footer-copyright">
+
+    <p>© 2024 Minerva - Støddfrøði á føroyskum. Gjørt við ❤️ fyri Føroyum.</p>
+
+  </div>
+
+</footer>
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+
+  // Get all content sections
+
+  const sections = document.querySelectorAll('.content-section');
+
+  
+
+  sections.forEach(section => {
+
+    const heading = section.querySelector('h2');
+
+    const grid = section.querySelector('.lesson-grid');
+
+    
+
+    if (!heading || !grid) return;
+
+    
+
+    // Check if this section should be collapsed on load based on URL hash
+
+    const sectionId = heading.textContent.trim().toLowerCase()
+
+      .replace(/[^\w\s-]/g, '')
+
+      .replace(/\s+/g, '-');
+
+    
+
+    const urlHash = window.location.hash.substring(1).toLowerCase();
+
+    
+
+    // Collapse all sections by default
+
+    heading.classList.add('collapsed');
+
+    grid.classList.add('collapsed');
+
+    
+
+    // If URL matches this section, expand it
+
+    if (urlHash && sectionId.includes(urlHash)) {
+
+      heading.classList.remove('collapsed');
+
+      grid.classList.remove('collapsed');
+
+    }
+
+    
+
+    // Add click handler
+
+    heading.addEventListener('click', function() {
+
+      // Toggle collapsed state
+
+      heading.classList.toggle('collapsed');
+
+      grid.classList.toggle('collapsed');
+
+    });
+
+  });
+
+  
+
+  // Handle hash changes (when user clicks anchor links)
+
+  window.addEventListener('hashchange', function() {
+
+    const hash = window.location.hash.substring(1).toLowerCase();
+
+    
+
+    if (!hash) return;
+
+    
+
+    // Find and expand the matching section
+
+    sections.forEach(section => {
+
+      const heading = section.querySelector('h2');
+
+      const grid = section.querySelector('.lesson-grid');
+
+      
+
+      if (!heading || !grid) return;
+
+      
+
+      const sectionId = heading.textContent.trim().toLowerCase()
+
+        .replace(/[^\w\s-]/g, '')
+
+        .replace(/\s+/g, '-');
+
+      
+
+      if (sectionId.includes(hash)) {
+
+        heading.classList.remove('collapsed');
+
+        grid.classList.remove('collapsed');
+
+        
+
+        // Scroll to section smoothly
+
+        setTimeout(() => {
+
+          heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+        }, 100);
+
+      }
+
+    });
+
+  });
 
 });
 
