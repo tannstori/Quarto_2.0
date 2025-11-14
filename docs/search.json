@@ -130,7 +130,7 @@
     "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html",
     "title": "Stigskipan av rokniháttum",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Tá vit rokna brúka vit ofta fleiri ymiskar roknihættir í einum roknistykkið, tað kann til dømis vera leggja til, trekkja frá, falda osv. Men raðfylgjan av útrokningunum er ikki líkamikið.\n\n\nSum dømi kunnu vit rokna:\n\\[5 + 2 \\cdot 7 = 7 \\cdot 7 = 49\\]\n\\[5 + 2 \\cdot 7 = 5 + 14 = 19\\]\nHer síggja vit at vit fáa tvey ymisk úrslit alt eftir um vit leggja til fyrst ella um vit falda fyrst.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Grundleggjandi Tal-ástøði",
@@ -6852,6 +6852,42 @@
       "📚 Tøl og Algebra",
       "Grundleggjandi Tal-ástøði",
       "Eginleikar hjá tølum"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipan-av-rokniháttum",
+    "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipan-av-rokniháttum",
+    "title": "Stigskipan av rokniháttum",
+    "section": "",
+    "text": "Tá vit rokna brúka vit ofta fleiri ymiskar roknihættir í einum roknistykkið, tað kann til dømis vera leggja til, trekkja frá, falda osv. Men raðfylgjan av útrokningunum er ikki líkamikið.\n\n\nSum dømi kunnu vit rokna:\n\\[5 + 2 \\cdot 7 = 7 \\cdot 7 = 49\\]\n\\[5 + 2 \\cdot 7 = 5 + 14 = 19\\]\nHer síggja vit at vit fáa tvey ymisk úrslit alt eftir um vit leggja til fyrst ella um vit falda fyrst.",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Stigskipan av rokniháttum"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipanin",
+    "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipanin",
+    "title": "Stigskipan av rokniháttum",
+    "section": "Stigskipanin",
+    "text": "Stigskipanin\nFyri at hetta ikki skal skapa trupuleikar tá fleiri skulu rokna tey somu roknustykkini, hava vit eina stigskipan av roknihættunum:\n\nFerðrót og potensar\nFalda og býta\nLeggja til og trekkja frá",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Stigskipan av rokniháttum"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#klombur",
+    "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#klombur",
+    "title": "Stigskipan av rokniháttum",
+    "section": "Klombur",
+    "text": "Klombur\nUm vit vilja víkja frá stigskipanini brúka við klombur.\nUm vit taka tað fyrsta dømi aftur, so er tað rætta at falda fyrst:\n\\[5 + 2 \\cdot 7 = 5 + 14 = 19\\]\nMen um vit vilja hava at ein leggur til fyrst brúka vit klombur á hendan hátt:\n\\[(5 + 2) \\cdot 7 = 7 \\cdot 7 = 49\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Grundleggjandi Tal-ástøði",
+      "Stigskipan av rokniháttum"
     ]
   }
 ]
