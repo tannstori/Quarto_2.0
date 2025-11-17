@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-720bdcd7f389ba0b19d71f9257ef8c32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -109,8 +109,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Minerva</span>
     </a>
@@ -122,7 +120,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../../../index.html" aria-current="page"> <i class="bi bi-house-fill" role="img">
+    <a class="nav-link" href="../../../index.html"> <i class="bi bi-house-fill" role="img">
 </i> 
 <span class="menu-text">Heim</span></a>
   </li>  
@@ -151,10 +149,6 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="../../../index.html" class="sidebar-logo-link">
-      </a>
-      </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -344,7 +338,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../years/1.g/tol_og_algebra/potensroknireglur.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Potensroknireglur</span></a>
+ <span class="menu-text">Potensroknireglur - falda potensar við sama grundtalið</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -1238,11 +1232,10 @@ window.Quarto = {
     <h2 id="toc-title">Á hesi síðu</h2>
    
   <ul>
-  <li><a href="#innleiðing" id="toc-innleiðing" class="nav-link active" data-scroll-target="#innleiðing">Innleiðing</a></li>
-  <li><a href="#dummy-content" id="toc-dummy-content" class="nav-link" data-scroll-target="#dummy-content">Dummy Content</a>
-  <ul class="collapse">
-  <li><a href="#fleiri-reglur" id="toc-fleiri-reglur" class="nav-link" data-scroll-target="#fleiri-reglur">Fleiri reglur</a></li>
-  </ul></li>
+  <li><a href="#potensar-av-potensum" id="toc-potensar-av-potensum" class="nav-link active" data-scroll-target="#potensar-av-potensum">Potensar av potensum</a></li>
+  <li><a href="#roknireglan-fyri-potensar-av-einum-potensi" id="toc-roknireglan-fyri-potensar-av-einum-potensi" class="nav-link" data-scroll-target="#roknireglan-fyri-potensar-av-einum-potensi">Roknireglan fyri potensar av einum potensi</a></li>
+  <li><a href="#potensurin-av-einum-produkti" id="toc-potensurin-av-einum-produkti" class="nav-link" data-scroll-target="#potensurin-av-einum-produkti">Potensurin av einum produkti</a></li>
+  <li><a href="#roknireglan-fyri-potensin-av-einum-produkti" id="toc-roknireglan-fyri-potensin-av-einum-produkti" class="nav-link" data-scroll-target="#roknireglan-fyri-potensin-av-einum-produkti">Roknireglan fyri potensin av einum produkti</a></li>
   <li><a href="#filmur" id="toc-filmur" class="nav-link" data-scroll-target="#filmur">Filmur</a></li>
   </ul>
 </nav>
@@ -1269,22 +1262,35 @@ window.Quarto = {
 </header>
 
 
-<section id="innleiðing" class="level2">
-<h2 class="anchored" data-anchor-id="innleiðing">Innleiðing</h2>
-<p>Henda undirvísing fevnir um evnið.</p>
+<section id="potensar-av-potensum" class="level2">
+<h2 class="anchored" data-anchor-id="potensar-av-potensum">Potensar av potensum</h2>
+<p>Um vit hava ein potens av einum potensi:</p>
+<p><span class="math display">\[(11^3)^4 = 11^3 \cdot 11^3 \cdot 11^3 \cdot 11^3\]</span></p>
+<p>So brúka vit bara rokniregluna fyri at falda potensar við sama grundtalið:</p>
+<p><span class="math display">\[11^3 \cdot 11^3 \cdot 11^3 \cdot 11^3 = 11^{3+3+3+3} = 11^{12}\]</span></p>
 </section>
-<section id="dummy-content" class="level2">
-<h2 class="anchored" data-anchor-id="dummy-content">Dummy Content</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<section id="fleiri-reglur" class="level3">
-<h3 class="anchored" data-anchor-id="fleiri-reglur">Fleiri reglur</h3>
+<section id="roknireglan-fyri-potensar-av-einum-potensi" class="level2">
+<h2 class="anchored" data-anchor-id="roknireglan-fyri-potensar-av-einum-potensi">Roknireglan fyri potensar av einum potensi</h2>
+<p>Sum gevur okkum at roknireglan fyri potensar av einum potensi verður:</p>
+<p><span class="math display">\[(a^m)^n = a^{m \cdot n}\]</span></p>
+</section>
+<section id="potensurin-av-einum-produkti" class="level2">
+<h2 class="anchored" data-anchor-id="potensurin-av-einum-produkti">Potensurin av einum produkti</h2>
+<p>Um vit hava eitt produkt í einum potensi:</p>
+<p><span class="math display">\[(3x)^3 = 3x \cdot 3x \cdot 3x = 3 \cdot 3 \cdot 3 \cdot x \cdot x \cdot x = 3^3 x^3\]</span></p>
+<p>Tað vil siga at vit flyta bara eksponentin inn á báðar liðirnar í produktinum:</p>
+<p><span class="math display">\[(3x)^3 = 3^3 \cdot x^3\]</span></p>
+</section>
+<section id="roknireglan-fyri-potensin-av-einum-produkti" class="level2">
+<h2 class="anchored" data-anchor-id="roknireglan-fyri-potensin-av-einum-produkti">Roknireglan fyri potensin av einum produkti</h2>
+<p>Hetta gevur okkum potensrokniregluna:</p>
+<p><span class="math display">\[(a \cdot b)^n = a^n \cdot b^n\]</span></p>
 <p><span class="math display">\[
 (ab)^n = a^n b^n
 \]</span></p>
 <p><span class="math display">\[
 \left(\frac{a}{b}\right)^n = \frac{a^n}{b^n}
 \]</span></p>
-</section>
 </section>
 <section id="filmur" class="level2">
 <h2 class="anchored" data-anchor-id="filmur">Filmur</h2>
