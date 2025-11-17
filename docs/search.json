@@ -716,7 +716,7 @@
     "href": "years/1.g/tol_og_algebra/brot-falda_og_byta.html",
     "title": "Brot - falda og býta",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Her vísa vit hvussu vit falda og býta við einum broti.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Brot",
@@ -728,7 +728,7 @@
     "href": "years/1.g/tol_og_algebra/brot-falda_og_byta.html#innleiðing",
     "title": "Brot - falda og býta",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Her vísa vit hvussu vit falda og býta við einum broti.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Brot",
@@ -6948,6 +6948,30 @@
       "📚 Tøl og Algebra",
       "Kvadratsetningar",
       "Prógv: 1.kvadratsetningur algebraiskt"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensar.html#hvat-eru-potensar",
+    "href": "years/1.g/tol_og_algebra/potensar.html#hvat-eru-potensar",
+    "title": "Potensar",
+    "section": "Hvat eru potensar?",
+    "text": "Hvat eru potensar?\nPotensar nevna vit tað tá vit lyfta eitt tal upp í einum øðrum talið. Um vit taka dømi við \\(5^4\\) so siga vit “fimm í fjórða”, og hetta brúka vit bara tá tað sama talið verður falda við sær sjálvum fleiri ferðir.\nEitt tal ið er skriva upp sum \\(5^4\\) kallast ein potensur, har 5 er grundtalið og 4 er eksponenturin, tvs.:\n\\[\\text{grundtal}^{\\text{eksponent}} = \\text{potensur}\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensar"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensar.html#potensroknireglur",
+    "href": "years/1.g/tol_og_algebra/potensar.html#potensroknireglur",
+    "title": "Potensar",
+    "section": "Potensroknireglur",
+    "text": "Potensroknireglur\nTað eru nógvar potensroknireglur, sum gera tað lættari at rokna við potensum. Vit fara at gjøgnumganga allar og koma við dømum.",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensar"
     ]
   }
 ]
