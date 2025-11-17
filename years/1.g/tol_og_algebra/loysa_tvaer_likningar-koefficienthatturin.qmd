@@ -2,19 +2,9 @@
 title: "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin"
 ---
 
-## Innleiðing
+## Koefficienthátturin
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Háttur
-
-1. Fá líka koeffisientar fyri eitt ókent
-2. Legg saman ella dreg frá
-3. Loysa fyri tí síðsta ókenda
+Hesin háttur gongur út uppá at burturbeina ein ókendan, so at vit enda við einari líkning við einum ókendum. Fyri at kunna burturbeina ein ókendan, vilja vit fyrst fáa tølini frammanfyri ein av teimum ókendu at vera tað sama talið í báðum líkningunum. Síðani kunnu vit plussa ella minussa eina líkning frá hinari, alt eftir hvat forteknið er.
 
 
 ## Filmur 

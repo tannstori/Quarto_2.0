@@ -2,19 +2,16 @@
 title: "Loysa tvær líkningar við tveimum ókendum - grafiskt"
 ---
 
-## Innleiðing
+## Grafisk loysnin
 
-Henda undirvísing fevnir um evnið.
+Í summum førum kunnu vit loysa tvær líkningar við tveimum ókendum við at brúka grafar. Vit byrja við at isolera ein av teimum ókendu í báðum líkningunum. Síðani tekna við báðar grafarnar í eina krossskipan. Krosstalið hjá skurðpunktinum er loysnin til líkningarnar.
 
-## Dummy Content
+## Hátturin
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Háttur
-
-1. Teikna báðar líkningarnar í eitt koordinatsystem
-2. Finna skurðpunktið
-3. Skurðpunktið er loysnin
+1. Isolera ein ókenda í báðum líkningunum
+2. Teikna báðar línurnar í eitt koordinatsystem
+3. Finna skurðpunktið
+4. Krosstølini hjá skurðpunktinum er loysnin
 
 
 ## Filmur 
