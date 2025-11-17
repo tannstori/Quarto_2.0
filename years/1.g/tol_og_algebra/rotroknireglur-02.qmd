@@ -4,21 +4,7 @@ title: "Rótroknireglur 2"
 
 ## Innleiðing
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Fleiri reglur
-
-$$
-\sqrt[n]{a^m} = a^{\frac{m}{n}}
-$$
-
-$$
-(\sqrt{a})^2 = a
-$$
+Alt við røtur skal vera ein síða.
 
 ## Filmur 
 {{< video https://youtu.be/pPlXuL_5K4M?si=kY748_GgJkeVeS6Q >}}

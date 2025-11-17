@@ -4,25 +4,7 @@ title: "Røtur og rótroknireglur"
 
 ## Innleiðing
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Røtur
-
-Eitt rót er tað umvenda av einum potens:
-
-$$
-\sqrt[n]{a} = b \text{ tá } b^n = a
-$$
-
-### Dømi
-
-$$
-\sqrt{16} = 4 \text{ tí at } 4^2 = 16
-$$
+Her er ein samanumtøka.
 
 
 ## Filmur 
