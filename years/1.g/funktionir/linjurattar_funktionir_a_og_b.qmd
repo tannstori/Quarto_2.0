@@ -1,50 +1,10 @@
 ﻿---
-title: "Linjurættar funktiónir a og b"
+title: "Hvussu finna vit a og b"
 ---
 
-## Innleiðing
+## Finna forskriftina út frá grafinum
 
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Almenn forma
-
-$$
-f(x) = ax + b
-$$
-
-### Parametrar
-
-**$a$ - Hellur (gradient):**
-- Vísir hvussu brattur linjin er
-- Positivur: linjin heldur uppeftir
-- Negativur: linjin heldur niðureftir
-- Null: horisontalur linja
-
-**$b$ - Skurðpunktur við $y$-ásin:**
-- Virðið av $f(0)$
-- Har linjin fer ígjøgnum $y$-ásin
-
-### Dømi
-
-**$f(x) = 2x + 3$:**
-- Hellur: $a = 2$
-- Skurðpunktur: $b = 3$
-- Fer ígjøgnum (0, 3)
-
-**$f(x) = -\frac{1}{2}x + 1$:**
-- Hellur: $a = -\frac{1}{2}$
-- Skurðpunktur: $b = 1$
-- Minkandi linja
-
-### Finna a og b
-
-**Frá tveimum punktum:**
-Givið $(x_1, y_1)$ og $(x_2, y_2)$:
-
+Tá vit síggja ein graf av einari linjurættari funktión, er tað áhugavert um vit kunnu rokna forskriftina hjá funktiónini út frá grafinum. Hetta ber væl til um vit kenna tvey punkt á grafinum. Vit kunnu brúka hesar formlarnar til at finna $a$ og $b$, um vit kenna tvey punkt $(x_1,y_2)$ og $(x_2,y_2)$
 $$
 a = \frac{y_2 - y_1}{x_2 - x_1}
 $$
@@ -52,10 +12,14 @@ $$
 $$
 b = y_1 - ax_1
 $$
+$$
+b = y_2 - ax_2
+$$
 
-### Dømi: Finna funktiónina
 
-Givið punktini (1, 5) og (3, 11):
+### Dømi: Finna forskrift
+
+Um vit fáa givið tvey punkt (1, 5) og (3, 11), kunnu vit brúka formlarnar soleiðis:
 
 $$
 a = \frac{11 - 5}{3 - 1} = \frac{6}{2} = 3
@@ -65,7 +29,7 @@ $$
 b = 5 - 3 \cdot 1 = 5 - 3 = 2
 $$
 
-Funktiónin er: $f(x) = 3x + 2$
+Forskriftin er: $f(x) = 3x + 2$
 
 ## Filmur 
 {{< video https://youtu.be/mfKJoeW1OhM?si=i9GITyWgEK969udI >}}

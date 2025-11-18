@@ -1,79 +1,16 @@
 ﻿---
-title: "Linjurættar funktiónir 2"
+title: "Hvat eru a og b"
 ---
 
-## Innleiðing
+## Hvat eru a og b?
+Líkningin hjá einari linjurættari funktión er
+$$y = ax + b$$
 
-Henda undirvísing fevnir um evnið.
+Talið $b$ kalla vit fyri byrjunarvirði, sum fortelur okkum skeringspunktið við $y$-ásina. Talið $a$ kalla vit fyri halltalið. 
 
-## Dummy Content
+Halltalið $a$ er eitt tal ið sigur okkum hvussu nógv $y$-virði veksur, hvørjaferð $x$-virði veksur við 1.
+Í filminum forklára vit hvat a og b eru, og hvussu virðið á teimum ávirkar hvussu grafurin hjá einari linjurættari funktión sær út.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Skurðpunkt millum linjur
-
-Tveir linjur:
-$$
-f(x) = a_1 x + b_1
-$$
-$$
-g(x) = a_2 x + b_2
-$$
-
-**Finna skurðpunkt:**
-Set $f(x) = g(x)$:
-
-$$
-a_1 x + b_1 = a_2 x + b_2
-$$
-
-$$
-x = \frac{b_2 - b_1}{a_1 - a_2}
-$$
-
-### Dømi
-
-$f(x) = 2x + 1$ og $g(x) = -x + 7$
-
-$$
-2x + 1 = -x + 7
-$$
-
-$$
-3x = 6
-$$
-
-$$
-x = 2
-$$
-
-$$
-y = 2(2) + 1 = 5
-$$
-
-Skurðpunkt: (2, 5)
-
-### Avstandsformul frá punkt til linja
-
-Avstondin frá punkt $(x_0, y_0)$ til linja $ax + by + c = 0$:
-
-$$
-d = \frac{|ax_0 + by_0 + c|}{\sqrt{a^2 + b^2}}
-$$
-
-### Miðpunkt av línustriki
-
-Miðpunktur millum $(x_1, y_1)$ og $(x_2, y_2)$:
-
-$$
-M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)
-$$
-
-### Longd av línustriki
-
-$$
-L = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-$$
 
 
 ## Filmur 
