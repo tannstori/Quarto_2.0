@@ -7,57 +7,28 @@ toc-location: right
 
 {{< include ../breadcrumb.html >}}
 
-## Innleiðing
+## Funktións kanning
 
-Henda undirvísing fevnir um evnið.
+Tá vit arbeiða við funktiónum, vilja vit ofta avmynda funktiónir grafisk. Hetta gera vit við at tekna hvussu $x$ og $y$ hanga saman, út frá einari líkning. Um vit hava ein graf, kunnu vit útfrá honum kunnu vit gera eina tulking av samanhangin, hetta kalla vit **funktiónskanning**.
 
-## Dummy Content
+Her skulu vit við eygunum gera nakrar eygleiðingar av einum geometriskum skapið, sum vit kunnu eftirrokna algebraiskt. Tað vil siga at vit kanna tað geometriska sum er grafurin, og finna eina forskrift, sum er tað algebraiska.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Frummongd og virðismongd
 
-### Hvat er funktiónskanning?
+Tá vit kanna funktiónir, hava vit brúk fyri at vita hvat **frummongd** og **virðismongd** er.
 
-Funktiónskanning er, tá vit kanna eginleikar hjá eini funktiónini.
+### Frummongdin
 
-### Høvuðsøki
+Frummongdin hjá einari funktión er intervallið eftir $x$-ásini, har funktiónin er til. Frummongdin hjá $f$ skrivast sum $\text{Fm}(f)$.
 
-1. **Definisiónsøki:** Hvørji virði av $x$ eru lóvlig?
-2. **Virðisøki:** Hvørji virði av $f(x)$ eru møgulig?
-3. **Nullstøð:** Har er $f(x) = 0$?
-4. **Skurðpunkt við $y$-ásin:** $f(0) = ?$
-5. **Vaksandi/minkandi:** Har veksur ella minkir funktiónin?
-6. **Ekstremtøl:** Maksimum og minimum
-7. **Asymptótar:** Línjar sum funktiónin nálgast
+### Virðismongdin
 
-### Dømi: Linjurættur funktión
+Virðismongdin hjá einari funktión er intervallið eftir $y$-ásanum, har $f$ er til. Virðismongdin hjá $f$ skriva vit sum $\text{Vm}(f)$.
 
-$$
-f(x) = 2x - 3
-$$
+## Økið av funktiónini
 
-- **Definisiónsøki:** $\mathbb{R}$ (øll virði)
-- **Virðisøki:** $\mathbb{R}$
-- **Nullstøð:** $2x - 3 = 0 \Rightarrow x = 1.5$
-- **$y$-skurðpunktur:** $f(0) = -3$
-- **Vaksandi:** Øll $x$ (tí $a > 0$)
-- **Ekstremtøl:** Einki
-- **Asymptótar:** Eingi
-
-### Dømi: Kvadratisk funktión
-
-$$
-f(x) = x^2 - 4
-$$
-
-- **Definisiónsøki:** $\mathbb{R}$
-- **Virðisøki:** $[-4, \infty)$
-- **Nullstøð:** $x = \pm 2$
-- **$y$-skurðpunktur:** $f(0) = -4$
-- **Minkandi:** $x < 0$
-- **Vaksandi:** $x > 0$
-- **Minimum:** $(0, -4)$
-- **Asymptótar:** Eingi
+Frummongdin og virðismongdin sigur okkum um økið ið funktiónin er til. Hetta økið er ein fýrakantur, sum er innibyrgdur av minstu og størstuvirðunum hjá $\text{Fm}(f)$ og $\text{Vm}(f)$ - hetta er bara um funktiónin er avmarkað.
 
 
 ## Filmur 
-{{< video https://youtu.be/TEKFLjXEUug?si=syXh-XgFxxq4jSsq >}}
+{{< video https://youtu.be/hR0UROwcF9M >}}

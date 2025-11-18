@@ -2,66 +2,34 @@
 title: "Funktións kanning 2"
 ---
 
-## Innleiðing
+## Monotoniviðurskifti
 
-Henda undirvísing fevnir um evnið.
+Tá vit kanna eina funktión vilja vit ikki bara kanna hvar hon er, men eisini hvussu hon sær út. Í hesum liggur at kanna hvussu hefti variablin $y$ broytist í mun til óhefta variabulin $x$. Tað vil siga at vit skulu kunna siga okkurt um nær grafurin veksur og minkar, tvs í hvørjum $x$ og $y$ intervallum grafurin fer upp og niður, ella er konstantur. Hetta kalla vit at finna **monotoniviðurskiftini** hjá einari funktión.
 
-## Dummy Content
+### Vaksandi funktión
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ein funktión er **vaksandi** í einum intervalli um:
 
-### Asymptótar
+$$\text{um } x_1 < x_2 \text{ so er } f(x_1) < f(x_2)$$
 
-**Loddrætt asymptota:**
-Ein loddrætt linja, sum funktiónin nálgast, men aldri røkur.
+### Fallandi funktión
 
-**Vatnrætt asymptota:**
-Ein vatnrætt linja, sum funktiónin nálgast fyri stór virði av $x$.
+Ein funktión er **fallandi** um:
 
-### Dømi
+$$\text{um } x_1 < x_2 \text{ so er } f(x_1) > f(x_2)$$
 
-Funktiónin $f(x) = \frac{1}{x}$:
-- Loddrætt asymptota: $x = 0$
-- Vatnrætt asymptota: $y = 0$
+### Konstant funktión
 
-### Ekstremtøl
+Ein funktión er **konstant** um øll $x$-virðini hava sama $y$-virði.
 
-**Lokalur maksimum:**
-Punkt, har funktiónin hevur størsta virði í einum øki.
+## Ekstrema
 
-**Lokalur minimum:**
-Punkt, har funktiónin hevur minsta virði í einum øki.
+Tá vit kanna hvar grafurin veksur og minkar, er nátturligt at spyrja hvar grafurin hevur størst og minst virði. Hetta kunnu vit kalla aldutoppar og aldudalar, sum vit saman kalla **topppunkt**. 
 
-### Vaksandi og minkandi
-
-**Vaksandi:**
-Um $x_1 < x_2$ leiðir til $f(x_1) < f(x_2)$
-
-**Minkandi:**
-Um $x_1 < x_2$ leiðir til $f(x_1) > f(x_2)$
-
-### Symmetri
-
-**Jøvn funktión:**
-$$
-f(-x) = f(x)
-$$
-Symmetrisk um $y$-ásin.
-
-**Odda funktión:**
-$$
-f(-x) = -f(x)
-$$
-Rótasymmetrisk um upphavið.
-
-### Nullstøð og forteiknsskifti
-
-**Nullstøð:**
-Virði av $x$, har $f(x) = 0$
-
-**Forteiknsskifti:**
-Har funktiónin broytir frá positivum til negativum ella øvugt.
+Øll størstu og minstuvirðini hjá einum grafi kalla vit **ekstrema**. Hjá einum ekstremum er:
+- **Ekstremumstaðið:** $x$-virðið
+- **Ekstremumsvirðið:** $y$-virðið
 
 
 ## Filmur 
-{{< video https://youtu.be/hR0UROwcF9M?si=CBd7-9zDdTIdx0qX >}}
+{{< video https://youtu.be/TEKFLjXEUug >}}
