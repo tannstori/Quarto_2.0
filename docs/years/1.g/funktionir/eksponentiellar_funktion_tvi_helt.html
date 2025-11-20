@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-720bdcd7f389ba0b19d71f9257ef8c32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -109,6 +109,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Minerva</span>
     </a>
@@ -120,7 +122,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> <i class="bi bi-house-fill" role="img">
+    <a class="nav-link active" href="../../../index.html" aria-current="page"> <i class="bi bi-house-fill" role="img">
 </i> 
 <span class="menu-text">Heim</span></a>
   </li>  
@@ -149,6 +151,10 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../../../index.html" class="sidebar-logo-link">
+      </a>
+      </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -1273,9 +1279,9 @@ window.Quarto = {
 <section id="formil" class="level3">
 <h3 class="anchored" data-anchor-id="formil">Formil</h3>
 <p><span class="math display">\[
-f(x) = a \cdot 2^{\frac{x}{T_2}}
+f(x) = b \cdot 2^{\frac{x}{T_2}}
 \]</span></p>
-<p>har: - <span class="math inline">\(a\)</span> er byrjanarvirðið - <span class="math inline">\(T_2\)</span> er tvífalingartíðin</p>
+<p>har: - <span class="math inline">\(b\)</span> er byrjanarvirðið - <span class="math inline">\(T_2\)</span> er tvífalingartíðin</p>
 </section>
 <section id="dømi-bakterier" class="level3">
 <h3 class="anchored" data-anchor-id="dømi-bakterier">Dømi: Bakterier</h3>
@@ -1289,9 +1295,9 @@ f(9) = 1000 \cdot 2^{\frac{9}{3}} = 1000 \cdot 2^3 = 1000 \cdot 8 = 8000
 </section>
 <section id="sambandi-við-vakstrarfaktor" class="level3">
 <h3 class="anchored" data-anchor-id="sambandi-við-vakstrarfaktor">Sambandi við vakstrarfaktor</h3>
-<p>Um vakstrarfaktorurin er <span class="math inline">\(b\)</span>:</p>
+<p>Um vakstrarfaktorurin er <span class="math inline">\(a\)</span>:</p>
 <p><span class="math display">\[
-b = 2^{\frac{1}{T_2}}
+a = 2^{\frac{1}{T_2}}
 \]</span></p>
 </section>
 <section id="dømi-fíggjarligur-vøkstur" class="level3">
@@ -1305,13 +1311,13 @@ f(30) = 5000 \cdot 2^{\frac{30}{10}} = 5000 \cdot 2^3 = 5000 \cdot 8 = 40{,}000 
 <h3 class="anchored" data-anchor-id="finna-tvífalingartíðina">Finna tvífalingartíðina</h3>
 <p>Um vakstrarfaktorurin er <span class="math inline">\(b\)</span> um tíðarskeið, er tvífalingartíðin:</p>
 <p><span class="math display">\[
-T_2 = \frac{\log(2)}{\log(b)}
+T_2 = \frac{\log(2)}{\log(a)}
 \]</span></p>
 </section>
 <section id="dømi-5-árligur-vøkstur" class="level3">
 <h3 class="anchored" data-anchor-id="dømi-5-árligur-vøkstur">Dømi: 5% árligur vøkstur</h3>
 <p>Um fólkatalið veksur við 5% um árið, hvat er tvífalingartíðin?</p>
-<p>Vøkstursfaktur: <span class="math inline">\(b = 1.05\)</span></p>
+<p>Vøkstursfaktur: <span class="math inline">\(a = 1.05\)</span></p>
 <p><span class="math display">\[
 T_2 = \frac{\log(2)}{\log(1.05)} = \frac{0.301}{0.021} \approx 14.2 \text{ ár}
 \]</span></p>

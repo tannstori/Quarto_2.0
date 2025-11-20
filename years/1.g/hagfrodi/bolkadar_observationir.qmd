@@ -2,24 +2,16 @@
 title: "Bólkaðar observatiónir"
 ---
 
-## Innleiðing
-
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ### Hvat eru bólkaðar observatiónir?
 
-Bólkaðar observatiónir eru dáta, sum eru flokkað í bólkar ella intervøl.
+Bólkaðar observatiónir eru dátaur, sum eru flokkaðar í bólkar ella interval.
 
 ### Orsøk til at bólka
 
-- Nógvir dátapunkt
-- Yvirlitið verður betri
+- Ov nógv dátapunkt
+- Betur yvirlit
 - Einfaldari at gera grafar
-- Privatlívið verður varðveitt
+- Ofta fyri at tryggja privatlívið
 
 ### Dømi
 
@@ -38,7 +30,7 @@ Bólkaðar observatiónir eru dáta, sum eru flokkað í bólkar ella intervøl.
 Tá vit rokna við bólkaðum dátum, brúka vit miðpunktið av hvørjum bólki:
 
 $$
-\text{Miðpunkt} = \frac{\text{Neðri mørk} + \text{Ovari mørk}}{2}
+\text{Miðpunkt} = \frac{\text{Niðara mark} + \text{Ovara mark}}{2}
 $$
 
 Fyri bólkin 20-24:
