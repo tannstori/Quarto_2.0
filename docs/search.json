@@ -190,7 +190,7 @@
     "href": "years/1.g/tol_og_algebra/rotroknireglur.html",
     "title": "Rótroknireglur",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Her forklára vit hvat røtur.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Røtur og Talmongdir",
@@ -202,19 +202,7 @@
     "href": "years/1.g/tol_og_algebra/rotroknireglur.html#innleiðing",
     "title": "Rótroknireglur",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Røtur og Talmongdir",
-      "Rótroknireglur"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/rotroknireglur.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/rotroknireglur.html#dummy-content",
-    "title": "Rótroknireglur",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nReglur\n\\[\n\\sqrt{ab} = \\sqrt{a} \\cdot \\sqrt{b}\n\\]\n\\[\n\\sqrt{\\frac{a}{b}} = \\frac{\\sqrt{a}}{\\sqrt{b}}\n\\]",
+    "text": "Her forklára vit hvat røtur.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Røtur og Talmongdir",
@@ -346,7 +334,7 @@
     "href": "years/1.g/tol_og_algebra/primtol.html",
     "title": "Primtøl",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Øll positiv heil tøl kunnu skrivast sum eitt produkt av sær sjálvum og 1, til dømis:\n\\[42 = 42 \\cdot 1\\]\nHetta merkir at 1 er eitt multiplikativt neutralt element. Summi tøl kunnu skrivast sum produkt av øðrum tølum:\n\\[42 = 2 \\cdot 21\\]\nella\n\\[42 = 2 \\cdot 3 \\cdot 7\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -354,11 +342,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/primtol.html#innleiðing",
-    "href": "years/1.g/tol_og_algebra/primtol.html#innleiðing",
+    "objectID": "years/1.g/tol_og_algebra/primtol.html#primtøl",
+    "href": "years/1.g/tol_og_algebra/primtol.html#primtøl",
     "title": "Primtøl",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Øll positiv heil tøl kunnu skrivast sum eitt produkt av sær sjálvum og 1, til dømis:\n\\[42 = 42 \\cdot 1\\]\nHetta merkir at 1 er eitt multiplikativt neutralt element. Summi tøl kunnu skrivast sum produkt av øðrum tølum:\n\\[42 = 2 \\cdot 21\\]\nella\n\\[42 = 2 \\cdot 3 \\cdot 7\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -366,11 +354,23 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/primtol.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/primtol.html#dummy-content",
+    "objectID": "years/1.g/tol_og_algebra/primtol.html#hvat-er-ein-primtal",
+    "href": "years/1.g/tol_og_algebra/primtol.html#hvat-er-ein-primtal",
     "title": "Primtøl",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nDefinisión\nEitt primtal er eitt tal, sum bert kann býtast við 1 og sjálvum sær.\n\n\nDømi\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29…",
+    "section": "Hvat er ein primtal?",
+    "text": "Hvat er ein primtal?\n2, 3 og 7 eru tøl sum ikki kunnu skrivast sum produkt av øðrum tølum. Hesi tølini hava bert seg og 1 sum býtistal, tað merkir at sjálva talið og 1 eru tey einastu tølini sum kunnu deila hetta talið.\nEitt tal \\(p\\) sum er størri enn 1, og einans kann býtast við sær sjálvum og 1 er:\n\\[p = p \\cdot 1\\]\nkallast eitt primtal. Her eru nøkur dømir av primtølum:\n\\[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Primtøl"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/primtol.html#primfaktorisering",
+    "href": "years/1.g/tol_og_algebra/primtol.html#primfaktorisering",
+    "title": "Primtøl",
+    "section": "Primfaktorisering",
+    "text": "Primfaktorisering\nØll onnur tøl ið ikki eru primtøl kunnu tí skrivast sum eitt produkt av primtølum. Hetta kallast at primfaktorisera eitt tal.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -394,7 +394,7 @@
     "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html",
     "title": "Potensroknireglur 3",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Um vit hava potens av einum brotið, til dømis:\n\\[\\left(\\frac{2}{5}\\right)^3 = \\frac{2}{5} \\cdot \\frac{2}{5} \\cdot \\frac{2}{5}\\]\nUm vit falda brotini saman fáa vit:\n\\[\\frac{2}{5} \\cdot \\frac{2}{5} \\cdot \\frac{2}{5} = \\frac{2 \\cdot 2 \\cdot 2}{5 \\cdot 5 \\cdot 5} = \\frac{2^3}{5^3}\\]\nTvs vit bara flyta eksponentin inn á teljara og nevnara:\n\\[\\left(\\frac{2}{5}\\right)^3 = \\frac{2^3}{5^3}\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -402,11 +402,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-03.html#innleiðing",
-    "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html#innleiðing",
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-03.html#potensur-av-einum-brotið",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html#potensur-av-einum-brotið",
     "title": "Potensroknireglur 3",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Um vit hava potens av einum brotið, til dømis:\n\\[\\left(\\frac{2}{5}\\right)^3 = \\frac{2}{5} \\cdot \\frac{2}{5} \\cdot \\frac{2}{5}\\]\nUm vit falda brotini saman fáa vit:\n\\[\\frac{2}{5} \\cdot \\frac{2}{5} \\cdot \\frac{2}{5} = \\frac{2 \\cdot 2 \\cdot 2}{5 \\cdot 5 \\cdot 5} = \\frac{2^3}{5^3}\\]\nTvs vit bara flyta eksponentin inn á teljara og nevnara:\n\\[\\left(\\frac{2}{5}\\right)^3 = \\frac{2^3}{5^3}\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -414,11 +414,35 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-03.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html#dummy-content",
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-03.html#roknireglan-fyri-potensur-av-einum-brotið",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html#roknireglan-fyri-potensur-av-einum-brotið",
     "title": "Potensroknireglur 3",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nSerstøk føri\n\\[\na^0 = 1\n\\]\n\\[\na^{-n} = \\frac{1}{a^n}\n\\]",
+    "section": "Roknireglan fyri potensur av einum brotið",
+    "text": "Roknireglan fyri potensur av einum brotið\nSum gevur okkum potensrokniregluna fyri potensur av einum brotí:\n\\[\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}\\]\nhar \\(b \\neq 0\\).",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensroknireglur 3"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-03.html#negativan-eksponent",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html#negativan-eksponent",
+    "title": "Potensroknireglur 3",
+    "section": "Negativan eksponent",
+    "text": "Negativan eksponent\nNú hava vit víst hvussu positivir potensar rigga, men hvussu so um vit hava ein potens við negativum eksponenti. Vit byrja við einum dømi:\n\\[\\frac{4^2}{4^6}\\]\nFyrst umrokna vit til ein potens:\n\\[\\frac{4^2}{4^6} = 4^{2-6} = 4^{-4}\\]\nMen hetta kunnu vit jú eisini rokna sum:\n\\[\\frac{4^2}{4^6} = \\frac{4 \\cdot 4}{4 \\cdot 4 \\cdot 4 \\cdot 4 \\cdot 4 \\cdot 4} = \\frac{1}{4^4}\\]\nHetta vísir okkum so:\n\\[4^{-4} = \\frac{1}{4^4}\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensroknireglur 3"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-03.html#roknireglan-fyri-negativan-eksponent",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-03.html#roknireglan-fyri-negativan-eksponent",
+    "title": "Potensroknireglur 3",
+    "section": "Roknireglan fyri negativan eksponent",
+    "text": "Roknireglan fyri negativan eksponent\nGenerelt kunnu vit so skriva at:\n\\[a^{-n} = \\frac{1}{a^n}\\]\nhar \\(a \\neq 0\\). Eitt umráðandi dømi, ið er gott at minnast er at:\n\\[a^{-1} = \\frac{1}{a}\\]\nhar \\(a \\neq 0\\).",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -442,7 +466,7 @@
     "href": "years/1.g/tol_og_algebra/potensar.html",
     "title": "Potensar",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Í støddfrøði eru nógvir snildir mátar vit brúka fyri at sleppa undan at skriva ov nógv upp. Til dømis skriva vit\n\\[5 \\cdot 4\\]\nístaðin fyri\n\\[5 + 5 + 5 + 5\\]\nHer síggja vit at falda er ein stuttur máti at skriva pluss stykki upp. Á sama hátt eru potensar, ein máti har man kann skriva faldi stykkir stutt upp:\n\\[5 \\cdot 5 \\cdot 5 \\cdot 5 = 5^4\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -454,7 +478,7 @@
     "href": "years/1.g/tol_og_algebra/potensar.html#innleiðing",
     "title": "Potensar",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Í støddfrøði eru nógvir snildir mátar vit brúka fyri at sleppa undan at skriva ov nógv upp. Til dømis skriva vit\n\\[5 \\cdot 4\\]\nístaðin fyri\n\\[5 + 5 + 5 + 5\\]\nHer síggja vit at falda er ein stuttur máti at skriva pluss stykki upp. Á sama hátt eru potensar, ein máti har man kann skriva faldi stykkir stutt upp:\n\\[5 \\cdot 5 \\cdot 5 \\cdot 5 = 5^4\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -462,11 +486,23 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensar.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/potensar.html#dummy-content",
+    "objectID": "years/1.g/tol_og_algebra/potensar.html#hvat-eru-potensar",
+    "href": "years/1.g/tol_og_algebra/potensar.html#hvat-eru-potensar",
     "title": "Potensar",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nExample\n\\[\na^n = \\underbrace{a \\cdot a \\cdot ... \\cdot a}_{n \\text{ ferðir}}\n\\]",
+    "section": "Hvat eru potensar?",
+    "text": "Hvat eru potensar?\nPotensar nevna vit tað tá vit lyfta eitt tal upp í einum øðrum talið. Um vit taka dømi við \\(5^4\\) so siga vit “fimm í fjórða”, og hetta brúka vit bara tá tað sama talið verður falda við sær sjálvum fleiri ferðir.\nEitt tal ið er skriva upp sum \\(5^4\\) kallast ein potensur, har 5 er grundtalið og 4 er eksponenturin, tvs.:\n\\[\\text{grundtal}^{\\text{eksponent}} = \\text{potensur}\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensar"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensar.html#potensroknireglur",
+    "href": "years/1.g/tol_og_algebra/potensar.html#potensroknireglur",
+    "title": "Potensar",
+    "section": "Potensroknireglur",
+    "text": "Potensroknireglur\nTað eru nógvar potensroknireglur, sum gera tað lættari at rokna við potensum. Vit fara at gjøgnumganga allar og koma við dømum.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -490,7 +526,7 @@
     "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html",
     "title": "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Hesin háttur gongur út uppá at burturbeina ein ókendan, so at vit enda við einari líkning við einum ókendum. Fyri at kunna burturbeina ein ókendan, vilja vit fyrst fáa tølini frammanfyri ein av teimum ókendu at vera tað sama talið í báðum líkningunum. Síðani kunnu vit plussa ella minussa eina líkning frá hinari, alt eftir hvat forteknið er.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -498,23 +534,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html#innleiðing",
-    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html#innleiðing",
+    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html#koefficienthátturin",
+    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html#koefficienthátturin",
     "title": "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Líkningar",
-      "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html#dummy-content",
-    "title": "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nHáttur\n\nFá líka koeffisientar fyri eitt ókent\nLegg saman ella dreg frá\nLoysa fyri tí síðsta ókenda",
+    "text": "Hesin háttur gongur út uppá at burturbeina ein ókendan, so at vit enda við einari líkning við einum ókendum. Fyri at kunna burturbeina ein ókendan, vilja vit fyrst fáa tølini frammanfyri ein av teimum ókendu at vera tað sama talið í báðum líkningunum. Síðani kunnu vit plussa ella minussa eina líkning frá hinari, alt eftir hvat forteknið er.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -681,21 +705,6 @@
     "title": "Brot - falda og býta",
     "section": "",
     "text": "Her vísa vit hvussu vit falda og býta við einum broti.",
-<<<<<<< HEAD
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Brot",
-      "Brot - falda og býta"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/brot-falda_og_byta.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/brot-falda_og_byta.html#dummy-content",
-    "title": "Brot - falda og býta",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nExample\n\\[\n\\frac{a}{b} \\cdot \\frac{c}{d} = \\frac{ac}{bd}\n\\]\n\\[\n\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\cdot \\frac{d}{c}\n\\]",
-=======
->>>>>>> 24e3d27cd450c97eecec5fd9cc7b8be5bc7d0f78
     "crumbs": [
       "📚 Tøl og Algebra",
       "Brot",
@@ -2449,145 +2458,121 @@
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_domi.html",
     "href": "years/1.g/funktionir/linjurattar_funktionir_domi.html",
-    "title": "Linjurættar funktiónir dømi",
+    "title": "Dømi",
     "section": "",
-    "text": "Henda undirvísing gevur dmi um evnið.",
+    "text": "Her vísa vit eitt dømi.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir dømi"
+      "Dømi"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_domi.html#dømi",
     "href": "years/1.g/funktionir/linjurattar_funktionir_domi.html#dømi",
-    "title": "Linjurættar funktiónir dømi",
+    "title": "Dømi",
     "section": "",
-    "text": "Henda undirvísing gevur dmi um evnið.",
+    "text": "Her vísa vit eitt dømi.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir dømi"
-    ]
-  },
-  {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_domi.html#dummy-content",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_domi.html#dummy-content",
-    "title": "Linjurættar funktiónir dømi",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nDømi 1: Finna funktiónina\nGivið punktini (2, 7) og (5, 16):\nHellur: \\[\na = \\frac{16 - 7}{5 - 2} = \\frac{9}{3} = 3\n\\]\nSkurðpunktur: \\[\nb = 7 - 3(2) = 7 - 6 = 1\n\\]\nFunktión: \\[\nf(x) = 3x + 1\n\\]\n\n\nDømi 2: Parallellur linja\nFinna funktiónina, sum er parallell við \\(f(x) = 2x + 3\\) og fer ígjøgnum (1, 5).\nHellur er sami: \\(a = 2\\)\n\\[\n5 = 2(1) + b\n\\]\n\\[\nb = 3\n\\]\nFunktión: \\[\ng(x) = 2x + 3\n\\]\nHeitt! Hetta er sama funktión. Punkturin liggur á linjuni.\n\n\nDømi 3: Vinkelrættur linja\nFinna funktiónina, sum er vinkelrætt við \\(f(x) = 3x - 2\\) og fer ígjøgnum (6, 1).\nHellur: \\(a = -\\frac{1}{3}\\)\n\\[\n1 = -\\frac{1}{3}(6) + b\n\\]\n\\[\n1 = -2 + b\n\\]\n\\[\nb = 3\n\\]\nFunktión: \\[\ng(x) = -\\frac{1}{3}x + 3\n\\]\n\n\nDømi 4: Praktiskt\nEin taxi kostar 50 kr í grunngjald og 12 kr um kilometur.\nFunktión: \\[\nC(x) = 12x + 50\n\\]\nhar \\(x\\) er tal av kilometur.\nHvussu nógv kostar 8 km? \\[\nC(8) = 12(8) + 50 = 96 + 50 = 146 \\text{ kr}\n\\]",
-    "crumbs": [
-      "📈 Funktiónir",
-      "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir dømi"
+      "Dømi"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_domi.html#filmur",
     "href": "years/1.g/funktionir/linjurattar_funktionir_domi.html#filmur",
-    "title": "Linjurættar funktiónir dømi",
+    "title": "Dømi",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir dømi"
+      "Dømi"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html",
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html",
-    "title": "Linjurættar funktiónir a og b",
+    "title": "Hvussu finna vit a og b",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Tá vit síggja ein graf av einari linjurættari funktión, er tað áhugavert um vit kunnu rokna forskriftina hjá funktiónini út frá grafinum. Hetta ber væl til um vit kenna tvey punkt á grafinum. Vit kunnu brúka hesar formlarnar til at finna \\(a\\) og \\(b\\), um vit kenna tvey punkt \\((x_1,y_2)\\) og \\((x_2,y_2)\\) \\[\na = \\frac{y_2 - y_1}{x_2 - x_1}\n\\]\n\\[\nb = y_1 - ax_1\n\\] \\[\nb = y_2 - ax_2\n\\]\n\n\nUm vit fáa givið tvey punkt (1, 5) og (3, 11), kunnu vit brúka formlarnar soleiðis:\n\\[\na = \\frac{11 - 5}{3 - 1} = \\frac{6}{2} = 3\n\\]\n\\[\nb = 5 - 3 \\cdot 1 = 5 - 3 = 2\n\\]\nForskriftin er: \\(f(x) = 3x + 2\\)",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b"
+      "Hvussu finna vit a og b"
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#innleiðing",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#innleiðing",
-    "title": "Linjurættar funktiónir a og b",
+    "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#finna-forskriftina-út-frá-grafinum",
+    "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#finna-forskriftina-út-frá-grafinum",
+    "title": "Hvussu finna vit a og b",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Tá vit síggja ein graf av einari linjurættari funktión, er tað áhugavert um vit kunnu rokna forskriftina hjá funktiónini út frá grafinum. Hetta ber væl til um vit kenna tvey punkt á grafinum. Vit kunnu brúka hesar formlarnar til at finna \\(a\\) og \\(b\\), um vit kenna tvey punkt \\((x_1,y_2)\\) og \\((x_2,y_2)\\) \\[\na = \\frac{y_2 - y_1}{x_2 - x_1}\n\\]\n\\[\nb = y_1 - ax_1\n\\] \\[\nb = y_2 - ax_2\n\\]\n\n\nUm vit fáa givið tvey punkt (1, 5) og (3, 11), kunnu vit brúka formlarnar soleiðis:\n\\[\na = \\frac{11 - 5}{3 - 1} = \\frac{6}{2} = 3\n\\]\n\\[\nb = 5 - 3 \\cdot 1 = 5 - 3 = 2\n\\]\nForskriftin er: \\(f(x) = 3x + 2\\)",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b"
-    ]
-  },
-  {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#dummy-content",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#dummy-content",
-    "title": "Linjurættar funktiónir a og b",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nAlmenn forma\n\\[\nf(x) = ax + b\n\\]\n\n\nParametrar\n\\(a\\) - Hellur (gradient): - Vísir hvussu brattur linjin er - Positivur: linjin heldur uppeftir - Negativur: linjin heldur niðureftir - Null: horisontalur linja\n\\(b\\) - Skurðpunktur við \\(y\\)-ásin: - Virðið av \\(f(0)\\) - Har linjin fer ígjøgnum \\(y\\)-ásin\n\n\nDømi\n\\(f(x) = 2x + 3\\): - Hellur: \\(a = 2\\) - Skurðpunktur: \\(b = 3\\) - Fer ígjøgnum (0, 3)\n\\(f(x) = -\\frac{1}{2}x + 1\\): - Hellur: \\(a = -\\frac{1}{2}\\) - Skurðpunktur: \\(b = 1\\) - Minkandi linja\n\n\nFinna a og b\nFrá tveimum punktum: Givið \\((x_1, y_1)\\) og \\((x_2, y_2)\\):\n\\[\na = \\frac{y_2 - y_1}{x_2 - x_1}\n\\]\n\\[\nb = y_1 - ax_1\n\\]\n\n\nDømi: Finna funktiónina\nGivið punktini (1, 5) og (3, 11):\n\\[\na = \\frac{11 - 5}{3 - 1} = \\frac{6}{2} = 3\n\\]\n\\[\nb = 5 - 3 \\cdot 1 = 5 - 3 = 2\n\\]\nFunktiónin er: \\(f(x) = 3x + 2\\)",
-    "crumbs": [
-      "📈 Funktiónir",
-      "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b"
+      "Hvussu finna vit a og b"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#filmur",
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#filmur",
-    "title": "Linjurættar funktiónir a og b",
+    "title": "Hvussu finna vit a og b",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b"
+      "Hvussu finna vit a og b"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_1.html",
     "href": "years/1.g/funktionir/linjurattar_funktionir_1.html",
-    "title": "Linjurættar funktiónir 1",
+    "title": "Hvat er ein linjurøtt funktiónir",
     "section": "",
-    "text": "Henda undirvísing innleiðir evnið.",
+    "text": "Um øll punktini á einum grafi liggja í einari rættari linju, siga vit at funktiónin er linjurøtt. Til dømis:\n\\[y = x + 3\\]\nÚt frá hesari líkningin kunnu vit siga at \\(y\\)-virðini eru heft til \\(x\\)-virðini. Vit kunnu skriva nøkur talpør inn í eina tabel, sum vit ofta kalla fyri fiskabein:\n\n\n\n\\(x\\)\n\\(y = x + 3\\)\n\n\n\n\n0\n3\n\n\n1\n4\n\n\n3\n6\n\n\n8\n11\n\n\n10\n13\n\n\n100\n103",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 1"
+      "Hvat er ein linjurøtt funktiónir"
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_1.html#innleiðing",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_1.html#innleiðing",
-    "title": "Linjurættar funktiónir 1",
+    "objectID": "years/1.g/funktionir/linjurattar_funktionir_1.html#linjurættar-funktiónir",
+    "href": "years/1.g/funktionir/linjurattar_funktionir_1.html#linjurættar-funktiónir",
+    "title": "Hvat er ein linjurøtt funktiónir",
     "section": "",
-    "text": "Henda undirvísing innleiðir evnið.",
+    "text": "Um øll punktini á einum grafi liggja í einari rættari linju, siga vit at funktiónin er linjurøtt. Til dømis:\n\\[y = x + 3\\]\nÚt frá hesari líkningin kunnu vit siga at \\(y\\)-virðini eru heft til \\(x\\)-virðini. Vit kunnu skriva nøkur talpør inn í eina tabel, sum vit ofta kalla fyri fiskabein:\n\n\n\n\\(x\\)\n\\(y = x + 3\\)\n\n\n\n\n0\n3\n\n\n1\n4\n\n\n3\n6\n\n\n8\n11\n\n\n10\n13\n\n\n100\n103",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 1"
+      "Hvat er ein linjurøtt funktiónir"
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_1.html#dummy-content",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_1.html#dummy-content",
-    "title": "Linjurættar funktiónir 1",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nHvat er linjurættur funktión?\nEin linjurættur funktión er ein funktión, har grafikurin er ein bein linja.\n\n\nAlmenn forma\n\\[\nf(x) = ax + b\n\\]\n\n\nEginleikar\n\nGrafikurin er ein bein linja\nKonstant hellur\nKann skrivast sum \\(y = ax + b\\)\n\n\n\nEinfaldar dømi\n\\(f(x) = x\\): - Hellur 1 - Fer ígjøgnum upphavið - 45° vinkul\n\\(f(x) = 2x\\): - Hellur 2 - Bratari enn \\(f(x) = x\\)\n\\(f(x) = x + 3\\): - Hellur 1 - Flutt 3 eindir upp\n\\(f(x) = 3\\): - Hellur 0 - Horisontalur linja ígjøgnum \\(y = 3\\)\n\n\nTeikna linjur\nTil at teikna ein linja: 1. Finna tveir punkt 2. Draga linja ígjøgnum teir\nLættasti hátt: - Byrja við \\(b\\) (skurðpunkt við \\(y\\)-ásin) - Nýt hellurin at finna annan punkt\n\n\nDømi\nTeikna \\(f(x) = 2x - 1\\):\n\nByrja í (0, -1) (tí \\(b = -1\\))\nFrá hesum punkti: Far 1 til hægri, 2 upp (tí \\(a = 2\\))\nPunkt: (1, 1)\nDraga linja ígjøgnum (0, -1) og (1, 1)",
+    "objectID": "years/1.g/funktionir/linjurattar_funktionir_1.html#forskriftin-á-einari-linjurættari-funktión",
+    "href": "years/1.g/funktionir/linjurattar_funktionir_1.html#forskriftin-á-einari-linjurættari-funktión",
+    "title": "Hvat er ein linjurøtt funktiónir",
+    "section": "Forskriftin á einari linjurættari funktión",
+    "text": "Forskriftin á einari linjurættari funktión\nSum heild kunnu vit siga at ein linjurøtt funktión hevur forskriftina:\n\\[f(x) = ax + b\\]\nog tilsvarandi líkningina:\n\\[y = ax + b\\]\nVit hava sæð at vit kunnu avmynda funktiónir í eina krossskipan. Vit forklára og vísa dømi í filminum. Á næstu síðu forklára vit hvat a og b eru, og hvussu virðini á teimum ávirka grafin.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 1"
+      "Hvat er ein linjurøtt funktiónir"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_1.html#filmur",
     "href": "years/1.g/funktionir/linjurattar_funktionir_1.html#filmur",
-    "title": "Linjurættar funktiónir 1",
+    "title": "Hvat er ein linjurøtt funktiónir",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 1"
+      "Hvat er ein linjurøtt funktiónir"
     ]
   },
   {
@@ -2595,7 +2580,7 @@
     "href": "years/1.g/funktionir/funktions_kanning_2.html",
     "title": "Funktións kanning 2",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Tá vit kanna eina funktión vilja vit ikki bara kanna hvar hon er, men eisini hvussu hon sær út. Í hesum liggur at kanna hvussu hefti variablin \\(y\\) broytist í mun til óhefta variabulin \\(x\\). Tað vil siga at vit skulu kunna siga okkurt um nær grafurin veksur og minkar, tvs í hvørjum \\(x\\) og \\(y\\) intervallum grafurin fer upp og niður, ella er konstantur. Hetta kalla vit at finna monotoniviðurskiftini hjá einari funktión.\n\n\nEin funktión er vaksandi í einum intervalli um:\n\\[\\text{um } x_1 &lt; x_2 \\text{ so er } f(x_1) &lt; f(x_2)\\]\n\n\n\nEin funktión er fallandi um:\n\\[\\text{um } x_1 &lt; x_2 \\text{ so er } f(x_1) &gt; f(x_2)\\]\n\n\n\nEin funktión er konstant um øll \\(x\\)-virðini hava sama \\(y\\)-virði.",
     "crumbs": [
       "📈 Funktiónir",
       "🔍 Funktiónskanning",
@@ -2603,11 +2588,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/funktions_kanning_2.html#innleiðing",
-    "href": "years/1.g/funktionir/funktions_kanning_2.html#innleiðing",
+    "objectID": "years/1.g/funktionir/funktions_kanning_2.html#monotoniviðurskifti",
+    "href": "years/1.g/funktionir/funktions_kanning_2.html#monotoniviðurskifti",
     "title": "Funktións kanning 2",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Tá vit kanna eina funktión vilja vit ikki bara kanna hvar hon er, men eisini hvussu hon sær út. Í hesum liggur at kanna hvussu hefti variablin \\(y\\) broytist í mun til óhefta variabulin \\(x\\). Tað vil siga at vit skulu kunna siga okkurt um nær grafurin veksur og minkar, tvs í hvørjum \\(x\\) og \\(y\\) intervallum grafurin fer upp og niður, ella er konstantur. Hetta kalla vit at finna monotoniviðurskiftini hjá einari funktión.\n\n\nEin funktión er vaksandi í einum intervalli um:\n\\[\\text{um } x_1 &lt; x_2 \\text{ so er } f(x_1) &lt; f(x_2)\\]\n\n\n\nEin funktión er fallandi um:\n\\[\\text{um } x_1 &lt; x_2 \\text{ so er } f(x_1) &gt; f(x_2)\\]\n\n\n\nEin funktión er konstant um øll \\(x\\)-virðini hava sama \\(y\\)-virði.",
     "crumbs": [
       "📈 Funktiónir",
       "🔍 Funktiónskanning",
@@ -2615,11 +2600,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/funktions_kanning_2.html#dummy-content",
-    "href": "years/1.g/funktionir/funktions_kanning_2.html#dummy-content",
+    "objectID": "years/1.g/funktionir/funktions_kanning_2.html#ekstrema",
+    "href": "years/1.g/funktionir/funktions_kanning_2.html#ekstrema",
     "title": "Funktións kanning 2",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nAsymptótar\nLoddrætt asymptota: Ein loddrætt linja, sum funktiónin nálgast, men aldri røkur.\nVatnrætt asymptota: Ein vatnrætt linja, sum funktiónin nálgast fyri stór virði av \\(x\\).\n\n\nDømi\nFunktiónin \\(f(x) = \\frac{1}{x}\\): - Loddrætt asymptota: \\(x = 0\\) - Vatnrætt asymptota: \\(y = 0\\)\n\n\nEkstremtøl\nLokalur maksimum: Punkt, har funktiónin hevur størsta virði í einum øki.\nLokalur minimum: Punkt, har funktiónin hevur minsta virði í einum øki.\n\n\nVaksandi og minkandi\nVaksandi: Um \\(x_1 &lt; x_2\\) leiðir til \\(f(x_1) &lt; f(x_2)\\)\nMinkandi: Um \\(x_1 &lt; x_2\\) leiðir til \\(f(x_1) &gt; f(x_2)\\)\n\n\nSymmetri\nJøvn funktión: \\[\nf(-x) = f(x)\n\\] Symmetrisk um \\(y\\)-ásin.\nOdda funktión: \\[\nf(-x) = -f(x)\n\\] Rótasymmetrisk um upphavið.\n\n\nNullstøð og forteiknsskifti\nNullstøð: Virði av \\(x\\), har \\(f(x) = 0\\)\nForteiknsskifti: Har funktiónin broytir frá positivum til negativum ella øvugt.",
+    "section": "Ekstrema",
+    "text": "Ekstrema\nTá vit kanna hvar grafurin veksur og minkar, er nátturligt at spyrja hvar grafurin hevur størst og minst virði. Hetta kunnu vit kalla aldutoppar og aldudalar, sum vit saman kalla topppunkt.\nØll størstu og minstuvirðini hjá einum grafi kalla vit ekstrema. Hjá einum ekstremum er: - Ekstremumstaðið: \\(x\\)-virðið - Ekstremumsvirðið: \\(y\\)-virðið",
     "crumbs": [
       "📈 Funktiónir",
       "🔍 Funktiónskanning",
@@ -3499,11 +3484,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/funktions_kanning.html#innleiðing",
-    "href": "years/1.g/funktionir/funktions_kanning.html#innleiðing",
+    "objectID": "years/1.g/funktionir/funktions_kanning.html#funktións-kanning",
+    "href": "years/1.g/funktionir/funktions_kanning.html#funktións-kanning",
     "title": "Funktións kanning",
-    "section": "Innleiðing",
-    "text": "Innleiðing\nHenda undirvísing fevnir um evnið.",
+    "section": "Funktións kanning",
+    "text": "Funktións kanning\nTá vit arbeiða við funktiónum, vilja vit ofta avmynda funktiónir grafisk. Hetta gera vit við at tekna hvussu \\(x\\) og \\(y\\) hanga saman, út frá einari líkning. Um vit hava ein graf, kunnu vit útfrá honum kunnu vit gera eina tulking av samanhangin, hetta kalla vit funktiónskanning.\nHer skulu vit við eygunum gera nakrar eygleiðingar av einum geometriskum skapið, sum vit kunnu eftirrokna algebraiskt. Tað vil siga at vit kanna tað geometriska sum er grafurin, og finna eina forskrift, sum er tað algebraiska.",
     "crumbs": [
       "📈 Funktiónir",
       "🔍 Funktiónskanning",
@@ -3511,11 +3496,23 @@
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/funktions_kanning.html#dummy-content",
-    "href": "years/1.g/funktionir/funktions_kanning.html#dummy-content",
+    "objectID": "years/1.g/funktionir/funktions_kanning.html#frummongd-og-virðismongd",
+    "href": "years/1.g/funktionir/funktions_kanning.html#frummongd-og-virðismongd",
     "title": "Funktións kanning",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nHvat er funktiónskanning?\nFunktiónskanning er, tá vit kanna eginleikar hjá eini funktiónini.\n\n\nHøvuðsøki\n\nDefinisiónsøki: Hvørji virði av \\(x\\) eru lóvlig?\nVirðisøki: Hvørji virði av \\(f(x)\\) eru møgulig?\nNullstøð: Har er \\(f(x) = 0\\)?\nSkurðpunkt við \\(y\\)-ásin: \\(f(0) = ?\\)\nVaksandi/minkandi: Har veksur ella minkir funktiónin?\nEkstremtøl: Maksimum og minimum\nAsymptótar: Línjar sum funktiónin nálgast\n\n\n\nDømi: Linjurættur funktión\n\\[\nf(x) = 2x - 3\n\\]\n\nDefinisiónsøki: \\(\\mathbb{R}\\) (øll virði)\nVirðisøki: \\(\\mathbb{R}\\)\nNullstøð: \\(2x - 3 = 0 \\Rightarrow x = 1.5\\)\n\\(y\\)-skurðpunktur: \\(f(0) = -3\\)\nVaksandi: Øll \\(x\\) (tí \\(a &gt; 0\\))\nEkstremtøl: Einki\nAsymptótar: Eingi\n\n\n\nDømi: Kvadratisk funktión\n\\[\nf(x) = x^2 - 4\n\\]\n\nDefinisiónsøki: \\(\\mathbb{R}\\)\nVirðisøki: \\([-4, \\infty)\\)\nNullstøð: \\(x = \\pm 2\\)\n\\(y\\)-skurðpunktur: \\(f(0) = -4\\)\nMinkandi: \\(x &lt; 0\\)\nVaksandi: \\(x &gt; 0\\)\nMinimum: \\((0, -4)\\)\nAsymptótar: Eingi",
+    "section": "Frummongd og virðismongd",
+    "text": "Frummongd og virðismongd\nTá vit kanna funktiónir, hava vit brúk fyri at vita hvat frummongd og virðismongd er.\n\nFrummongdin\nFrummongdin hjá einari funktión er intervallið eftir \\(x\\)-ásini, har funktiónin er til. Frummongdin hjá \\(f\\) skrivast sum \\(\\text{Fm}(f)\\).\n\n\nVirðismongdin\nVirðismongdin hjá einari funktión er intervallið eftir \\(y\\)-ásanum, har \\(f\\) er til. Virðismongdin hjá \\(f\\) skriva vit sum \\(\\text{Vm}(f)\\).",
+    "crumbs": [
+      "📈 Funktiónir",
+      "🔍 Funktiónskanning",
+      "Funktións kanning"
+    ]
+  },
+  {
+    "objectID": "years/1.g/funktionir/funktions_kanning.html#økið-av-funktiónini",
+    "href": "years/1.g/funktionir/funktions_kanning.html#økið-av-funktiónini",
+    "title": "Funktións kanning",
+    "section": "Økið av funktiónini",
+    "text": "Økið av funktiónini\nFrummongdin og virðismongdin sigur okkum um økið ið funktiónin er til. Hetta økið er ein fýrakantur, sum er innibyrgdur av minstu og størstuvirðunum hjá \\(\\text{Fm}(f)\\) og \\(\\text{Vm}(f)\\) - hetta er bara um funktiónin er avmarkað.",
     "crumbs": [
       "📈 Funktiónir",
       "🔍 Funktiónskanning",
@@ -3547,97 +3544,73 @@
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_2.html",
     "href": "years/1.g/funktionir/linjurattar_funktionir_2.html",
-    "title": "Linjurættar funktiónir 2",
+    "title": "Hvat eru a og b",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Líkningin hjá einari linjurættari funktión er \\[y = ax + b\\]\nTalið \\(b\\) kalla vit fyri byrjunarvirði, sum fortelur okkum skeringspunktið við \\(y\\)-ásina. Talið \\(a\\) kalla vit fyri halltalið.\nHalltalið \\(a\\) er eitt tal ið sigur okkum hvussu nógv \\(y\\)-virði veksur, hvørjaferð \\(x\\)-virði veksur við 1. Í filminum forklára vit hvat a og b eru, og hvussu virðið á teimum ávirkar hvussu grafurin hjá einari linjurættari funktión sær út.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 2"
+      "Hvat eru a og b"
     ]
   },
   {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_2.html#innleiðing",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_2.html#innleiðing",
-    "title": "Linjurættar funktiónir 2",
+    "objectID": "years/1.g/funktionir/linjurattar_funktionir_2.html#hvat-eru-a-og-b",
+    "href": "years/1.g/funktionir/linjurattar_funktionir_2.html#hvat-eru-a-og-b",
+    "title": "Hvat eru a og b",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Líkningin hjá einari linjurættari funktión er \\[y = ax + b\\]\nTalið \\(b\\) kalla vit fyri byrjunarvirði, sum fortelur okkum skeringspunktið við \\(y\\)-ásina. Talið \\(a\\) kalla vit fyri halltalið.\nHalltalið \\(a\\) er eitt tal ið sigur okkum hvussu nógv \\(y\\)-virði veksur, hvørjaferð \\(x\\)-virði veksur við 1. Í filminum forklára vit hvat a og b eru, og hvussu virðið á teimum ávirkar hvussu grafurin hjá einari linjurættari funktión sær út.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 2"
-    ]
-  },
-  {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_2.html#dummy-content",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_2.html#dummy-content",
-    "title": "Linjurættar funktiónir 2",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nSkurðpunkt millum linjur\nTveir linjur: \\[\nf(x) = a_1 x + b_1\n\\] \\[\ng(x) = a_2 x + b_2\n\\]\nFinna skurðpunkt: Set \\(f(x) = g(x)\\):\n\\[\na_1 x + b_1 = a_2 x + b_2\n\\]\n\\[\nx = \\frac{b_2 - b_1}{a_1 - a_2}\n\\]\n\n\nDømi\n\\(f(x) = 2x + 1\\) og \\(g(x) = -x + 7\\)\n\\[\n2x + 1 = -x + 7\n\\]\n\\[\n3x = 6\n\\]\n\\[\nx = 2\n\\]\n\\[\ny = 2(2) + 1 = 5\n\\]\nSkurðpunkt: (2, 5)\n\n\nAvstandsformul frá punkt til linja\nAvstondin frá punkt \\((x_0, y_0)\\) til linja \\(ax + by + c = 0\\):\n\\[\nd = \\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2 + b^2}}\n\\]\n\n\nMiðpunkt av línustriki\nMiðpunktur millum \\((x_1, y_1)\\) og \\((x_2, y_2)\\):\n\\[\nM = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)\n\\]\n\n\nLongd av línustriki\n\\[\nL = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\n\\]",
-    "crumbs": [
-      "📈 Funktiónir",
-      "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 2"
+      "Hvat eru a og b"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_2.html#filmur",
     "href": "years/1.g/funktionir/linjurattar_funktionir_2.html#filmur",
-    "title": "Linjurættar funktiónir 2",
+    "title": "Hvat eru a og b",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir 2"
+      "Hvat eru a og b"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html",
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html",
-    "title": "Linjurættar funktiónir a og b prógv",
+    "title": "Prógv av formlunum fyri at finna a og b",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her prógva vit formlarnar fyri hvussu man finnur a og b hjá einara linjurættari funktió.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b prógv"
+      "Prógv av formlunum fyri at finna a og b"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#prógv",
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#prógv",
-    "title": "Linjurættar funktiónir a og b prógv",
+    "title": "Prógv av formlunum fyri at finna a og b",
     "section": "",
-    "text": "Henda undirvísing prgvar evnið.",
+    "text": "Her prógva vit formlarnar fyri hvussu man finnur a og b hjá einara linjurættari funktió.",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b prógv"
-    ]
-  },
-  {
-    "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#dummy-content",
-    "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#dummy-content",
-    "title": "Linjurættar funktiónir a og b prógv",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nAlmenn forma\n\\[\nf(x) = ax + b\n\\]\nhar: - \\(a\\) er hellurin (gradient) - \\(b\\) er skurðpunktið við \\(y\\)-ásin\n\n\nPrógv: Hellur frá tveimum punktum\nGivið tveir punkt \\((x_1, y_1)\\) og \\((x_2, y_2)\\).\nHellur: \\[\na = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{\\Delta y}{\\Delta x}\n\\]\nPrógv: Tí funktiónin er linjurættur, er broytingin í \\(y\\) proportional við broytingini í \\(x\\).\nLutfallið er konstant og definerar hellurin.\n\n\nPrógv: Finna b\nTá vit vita hellurin \\(a\\) og ein punkt \\((x_0, y_0)\\):\n\\[\ny_0 = ax_0 + b\n\\]\n\\[\nb = y_0 - ax_0\n\\]\n\n\nPrógv: Parallellir linjur\nTveir linjur eru parallellir, um teir hava sama hellur:\n\\[\nf(x) = a_1 x + b_1\n\\] \\[\ng(x) = a_2 x + b_2\n\\]\nUm \\(a_1 = a_2\\) og \\(b_1 \\neq b_2\\), eru linjurnar parallellir.\n\n\nPrógv: Vinkelrættir linjur\nTveir linjur eru vinkelrættir, um:\n\\[\na_1 \\cdot a_2 = -1\n\\]\nElla: \\[\na_2 = -\\frac{1}{a_1}\n\\]",
-    "crumbs": [
-      "📈 Funktiónir",
-      "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b prógv"
+      "Prógv av formlunum fyri at finna a og b"
     ]
   },
   {
     "objectID": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#filmur",
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#filmur",
-    "title": "Linjurættar funktiónir a og b prógv",
+    "title": "Prógv av formlunum fyri at finna a og b",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📈 Funktiónir",
       "📊 Linjurættar Funktiónir",
-      "Linjurættar funktiónir a og b prógv"
+      "Prógv av formlunum fyri at finna a og b"
     ]
   },
   {
@@ -5690,7 +5663,7 @@
     "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html",
     "title": "Loysa tvær líkningar við tveimum ókendum - grafiskt",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Í summum førum kunnu vit loysa tvær líkningar við tveimum ókendum við at brúka grafar. Vit byrja við at isolera ein av teimum ókendu í báðum líkningunum. Síðani tekna við báðar grafarnar í eina krossskipan. Krosstalið hjá skurðpunktinum er loysnin til líkningarnar.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -5698,23 +5671,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html#innleiðing",
-    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html#innleiðing",
+    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html#grafisk-loysnin",
+    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html#grafisk-loysnin",
     "title": "Loysa tvær líkningar við tveimum ókendum - grafiskt",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Líkningar",
-      "Loysa tvær líkningar við tveimum ókendum - grafiskt"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html#dummy-content",
-    "title": "Loysa tvær líkningar við tveimum ókendum - grafiskt",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nHáttur\n\nTeikna báðar líkningarnar í eitt koordinatsystem\nFinna skurðpunktið\nSkurðpunktið er loysnin",
+    "text": "Í summum førum kunnu vit loysa tvær líkningar við tveimum ókendum við at brúka grafar. Vit byrja við at isolera ein av teimum ókendu í báðum líkningunum. Síðani tekna við báðar grafarnar í eina krossskipan. Krosstalið hjá skurðpunktinum er loysnin til líkningarnar.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -5738,7 +5699,7 @@
     "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html",
     "title": "Loysa tvær líkningar við tveimum ókendum - substitutión",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Líkningar brúkast ofta til at loysa ymisk problem frá veruleikanum, og her eru ofta fleiri ókend enn bara eitt.\nUm vit hava ein bommhandil, har tú fært at vita at um tú keypir 3 slikkipinnar og 4 bommposar kostar tað 35 kr. og um tú heldur keypir 4 slikkipinnar og 2 bommposar kostar tað 20 kr. Hvussu kunnu vit finna útav hvussu nógv ein slikkipinnur kostar? og hvussu nógv ein bommposi kostar?\nHer hava vit 2 ókend, tað er prísurin á slikkipinninum (\\(x\\)) og prísurin á bommposanum (\\(y\\)). Út frá hesum kunnu vit stilla tvær líkningar upp:\n\\[3x + 4y = 35\\] \\[4x + 2y = 20\\]\nTað eru fleiri ymsir mátar at loysa hesa líkningina uppá, hesir gjøgnum ganga vit.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -5750,7 +5711,7 @@
     "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html#innleiðing",
     "title": "Loysa tvær líkningar við tveimum ókendum - substitutión",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Líkningar brúkast ofta til at loysa ymisk problem frá veruleikanum, og her eru ofta fleiri ókend enn bara eitt.\nUm vit hava ein bommhandil, har tú fært at vita at um tú keypir 3 slikkipinnar og 4 bommposar kostar tað 35 kr. og um tú heldur keypir 4 slikkipinnar og 2 bommposar kostar tað 20 kr. Hvussu kunnu vit finna útav hvussu nógv ein slikkipinnur kostar? og hvussu nógv ein bommposi kostar?\nHer hava vit 2 ókend, tað er prísurin á slikkipinninum (\\(x\\)) og prísurin á bommposanum (\\(y\\)). Út frá hesum kunnu vit stilla tvær líkningar upp:\n\\[3x + 4y = 35\\] \\[4x + 2y = 20\\]\nTað eru fleiri ymsir mátar at loysa hesa líkningina uppá, hesir gjøgnum ganga vit.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -5758,11 +5719,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html#dummy-content",
+    "objectID": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html#substitutión",
+    "href": "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html#substitutión",
     "title": "Loysa tvær líkningar við tveimum ókendum - substitutión",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nHáttur\n\nLoysa eina av líkningunum fyri einum ókendum\nSet niðurstøðuna inn í hina líkningina\nLoysa fyri tí síðsta ókenda",
+    "section": "Substitutión",
+    "text": "Substitutión\nSubstitutiónshátturin gongur út uppá at isolera ein av teimum ókendu í einari av líkningnum. Síðina kunnu vit seta úttrykki inn í tí seinnu líkningina, og nú kunnu vit loysa tá vit bara hava ein ókendan.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Líkningar",
@@ -5786,7 +5747,7 @@
     "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html",
     "title": "Potensroknireglur 2",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Um vit hava ein potens av einum potensi:\n\\[(11^3)^4 = 11^3 \\cdot 11^3 \\cdot 11^3 \\cdot 11^3\\]\nSo brúka vit bara rokniregluna fyri at falda potensar við sama grundtalið:\n\\[11^3 \\cdot 11^3 \\cdot 11^3 \\cdot 11^3 = 11^{3+3+3+3} = 11^{12}\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -5794,11 +5755,11 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-02.html#innleiðing",
-    "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html#innleiðing",
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-02.html#potensar-av-potensum",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html#potensar-av-potensum",
     "title": "Potensroknireglur 2",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Um vit hava ein potens av einum potensi:\n\\[(11^3)^4 = 11^3 \\cdot 11^3 \\cdot 11^3 \\cdot 11^3\\]\nSo brúka vit bara rokniregluna fyri at falda potensar við sama grundtalið:\n\\[11^3 \\cdot 11^3 \\cdot 11^3 \\cdot 11^3 = 11^{3+3+3+3} = 11^{12}\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -5806,11 +5767,35 @@
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-02.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html#dummy-content",
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-02.html#roknireglan-fyri-potensar-av-einum-potensi",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html#roknireglan-fyri-potensar-av-einum-potensi",
     "title": "Potensroknireglur 2",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nFleiri reglur\n\\[\n(ab)^n = a^n b^n\n\\]\n\\[\n\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}\n\\]",
+    "section": "Roknireglan fyri potensar av einum potensi",
+    "text": "Roknireglan fyri potensar av einum potensi\nSum gevur okkum at roknireglan fyri potensar av einum potensi verður:\n\\[(a^m)^n = a^{m \\cdot n}\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensroknireglur 2"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-02.html#potensurin-av-einum-produkti",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html#potensurin-av-einum-produkti",
+    "title": "Potensroknireglur 2",
+    "section": "Potensurin av einum produkti",
+    "text": "Potensurin av einum produkti\nUm vit hava eitt produkt í einum potensi:\n\\[(3x)^3 = 3x \\cdot 3x \\cdot 3x = 3 \\cdot 3 \\cdot 3 \\cdot x \\cdot x \\cdot x = 3^3 x^3\\]\nTað vil siga at vit flyta bara eksponentin inn á báðar liðirnar í produktinum:\n\\[(3x)^3 = 3^3 \\cdot x^3\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensroknireglur 2"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur-02.html#roknireglan-fyri-potensin-av-einum-produkti",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur-02.html#roknireglan-fyri-potensin-av-einum-produkti",
+    "title": "Potensroknireglur 2",
+    "section": "Roknireglan fyri potensin av einum produkti",
+    "text": "Roknireglan fyri potensin av einum produkti\nHetta gevur okkum potensrokniregluna:\n\\[(a \\cdot b)^n = a^n \\cdot b^n\\]\n\\[\n(ab)^n = a^n b^n\n\\]\n\\[\n\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}\n\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
@@ -5832,49 +5817,73 @@
   {
     "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html",
     "href": "years/1.g/tol_og_algebra/potensroknireglur.html",
-    "title": "Potensroknireglur",
+    "title": "Potensroknireglur - falda potensar við sama grundtalið",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Um vit falda tveir potensar við sama grundtalið:\n\\[8^2 \\cdot 8^3 = (8 \\cdot 8) \\cdot (8 \\cdot 8 \\cdot 8) = 8 \\cdot 8 \\cdot 8 \\cdot 8 \\cdot 8 = 8^5\\]\nHetta kann eisini skrivast sum:\n\\[8^2 \\cdot 8^3 = 8^{2+3} = 8^5\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
-      "Potensroknireglur"
+      "Potensroknireglur - falda potensar við sama grundtalið"
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#innleiðing",
-    "href": "years/1.g/tol_og_algebra/potensroknireglur.html#innleiðing",
-    "title": "Potensroknireglur",
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#falda-potensar-við-sama-grundtalið",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur.html#falda-potensar-við-sama-grundtalið",
+    "title": "Potensroknireglur - falda potensar við sama grundtalið",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Um vit falda tveir potensar við sama grundtalið:\n\\[8^2 \\cdot 8^3 = (8 \\cdot 8) \\cdot (8 \\cdot 8 \\cdot 8) = 8 \\cdot 8 \\cdot 8 \\cdot 8 \\cdot 8 = 8^5\\]\nHetta kann eisini skrivast sum:\n\\[8^2 \\cdot 8^3 = 8^{2+3} = 8^5\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
-      "Potensroknireglur"
+      "Potensroknireglur - falda potensar við sama grundtalið"
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/potensroknireglur.html#dummy-content",
-    "title": "Potensroknireglur",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nReglur\n\\[\na^m \\cdot a^n = a^{m+n}\n\\]\n\\[\n\\frac{a^m}{a^n} = a^{m-n}\n\\]\n\\[\n(a^m)^n = a^{mn}\n\\]",
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#fyrsta-potensroknireglan",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur.html#fyrsta-potensroknireglan",
+    "title": "Potensroknireglur - falda potensar við sama grundtalið",
+    "section": "Fyrsta potensroknireglan",
+    "text": "Fyrsta potensroknireglan\nHetta gevur tí fyrstu potensrokniregluna:\n\\[a^n \\cdot a^m = a^{n+m}\\]\nSum vil siga at um vit falda tveir potensar við sama grundtalið so leggja vit bara eksponentarnar saman.\n\\[\na^m \\cdot a^n = a^{m+n}\n\\]\n\\[\n\\frac{a^m}{a^n} = a^{m-n}\n\\]\n\\[\n(a^m)^n = a^{mn}\n\\]",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
-      "Potensroknireglur"
+      "Potensroknireglur - falda potensar við sama grundtalið"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#býta-potensar-við-sama-grundtalið",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur.html#býta-potensar-við-sama-grundtalið",
+    "title": "Potensroknireglur - falda potensar við sama grundtalið",
+    "section": "Býta potensar við sama grundtalið",
+    "text": "Býta potensar við sama grundtalið\nUm vit býta tveir potensar við sama grundtalið:\n\\[\\frac{6^5}{6^2} = \\frac{6 \\cdot 6 \\cdot 6 \\cdot 6 \\cdot 6}{6 \\cdot 6} = \\frac{6 \\cdot 6 \\cdot 6}{1} = 6^3\\]\nHetta kann eisini skrivast sum:\n\\[\\frac{6^5}{6^2} = 6^{5-2} = 6^3\\]",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensroknireglur - falda potensar við sama grundtalið"
+    ]
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#næsta-potensroknireglan",
+    "href": "years/1.g/tol_og_algebra/potensroknireglur.html#næsta-potensroknireglan",
+    "title": "Potensroknireglur - falda potensar við sama grundtalið",
+    "section": "Næsta potensroknireglan",
+    "text": "Næsta potensroknireglan\nHetta gevur so tí næstu potensrokniregluna:\n\\[\\frac{a^n}{a^m} = a^{n-m}\\]\nSum vil siga at um vit býta tveir potensar við sama grundtalið so finna vit bara munin á eksponentunum.",
+    "crumbs": [
+      "📚 Tøl og Algebra",
+      "Potensar",
+      "Potensroknireglur - falda potensar við sama grundtalið"
     ]
   },
   {
     "objectID": "years/1.g/tol_og_algebra/potensroknireglur.html#filmur",
     "href": "years/1.g/tol_og_algebra/potensroknireglur.html#filmur",
-    "title": "Potensroknireglur",
+    "title": "Potensroknireglur - falda potensar við sama grundtalið",
     "section": "Filmur",
     "text": "Filmur",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Potensar",
-      "Potensroknireglur"
+      "Potensroknireglur - falda potensar við sama grundtalið"
     ]
   },
   {
@@ -5978,7 +5987,7 @@
     "href": "years/1.g/tol_og_algebra/rotroknireglur-02.html",
     "title": "Rótroknireglur 2",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Alt við røtur skal vera ein síða.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Røtur og Talmongdir",
@@ -5990,19 +5999,7 @@
     "href": "years/1.g/tol_og_algebra/rotroknireglur-02.html#innleiðing",
     "title": "Rótroknireglur 2",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Røtur og Talmongdir",
-      "Rótroknireglur 2"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/rotroknireglur-02.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/rotroknireglur-02.html#dummy-content",
-    "title": "Rótroknireglur 2",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nFleiri reglur\n\\[\n\\sqrt[n]{a^m} = a^{\\frac{m}{n}}\n\\]\n\\[\n(\\sqrt{a})^2 = a\n\\]",
+    "text": "Alt við røtur skal vera ein síða.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Røtur og Talmongdir",
@@ -6026,7 +6023,7 @@
     "href": "years/1.g/tol_og_algebra/rotur_og_rotroknireglur.html",
     "title": "Røtur og rótroknireglur",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
+    "text": "Her er ein samanumtøka.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Røtur og Talmongdir",
@@ -6038,19 +6035,7 @@
     "href": "years/1.g/tol_og_algebra/rotur_og_rotroknireglur.html#innleiðing",
     "title": "Røtur og rótroknireglur",
     "section": "",
-    "text": "Henda undirvísing fevnir um evnið.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Røtur og Talmongdir",
-      "Røtur og rótroknireglur"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/rotur_og_rotroknireglur.html#dummy-content",
-    "href": "years/1.g/tol_og_algebra/rotur_og_rotroknireglur.html#dummy-content",
-    "title": "Røtur og rótroknireglur",
-    "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nRøtur\nEitt rót er tað umvenda av einum potens:\n\\[\n\\sqrt[n]{a} = b \\text{ tá } b^n = a\n\\]\n\n\nDømi\n\\[\n\\sqrt{16} = 4 \\text{ tí at } 4^2 = 16\n\\]",
+    "text": "Her er ein samanumtøka.",
     "crumbs": [
       "📚 Tøl og Algebra",
       "Røtur og Talmongdir",
@@ -6210,624 +6195,53 @@
     "crumbs": [
       "Vektorar 2D"
     ]
-<<<<<<< HEAD
   },
   {
-    "objectID": "Documentation/TERMINOLOGY.html",
-    "href": "Documentation/TERMINOLOGY.html",
-    "title": "Minerva – Føroyskur málførsluorðalisti",
+    "objectID": "years/1.g/geometri/einsvinkladir_trykantar.html#hvat-eru-einsvinklaðir-tríkantar",
+    "href": "years/1.g/geometri/einsvinkladir_trykantar.html#hvat-eru-einsvinklaðir-tríkantar",
+    "title": "Einsvinklaðir trýkantar",
     "section": "",
-    "text": "Hetta skjalið tryggjar javnbjóðis málbruk á síðuni. Orð og formur niðanfyri skulu nýtast í titlum, innihaldi og link-tekstum.\n\n\n\nFunktiónir (ikki “Funktionir”)\nLinjurættar funktiónir (ikki “linjurattar”)\nPotensfunktiónir\nEksponentiellar funktiónir\nGeometri\nHagfrøði\nLíkindarokning\nKapitalrokning\n\n\n\n\n\nTríkantur, tríkantar, tríkantum (ikki “trykantar”)\nRættvinklaður, rættvinklaðir\nEinsvinklaður, einsvinklaðir\nJavnbeintir og javnsíðaðir\nVinkulsamløgan (sum heiti á summuni av øllum vinklum í tríkanti)\nSíða, síður (ikki “sidu”)\n\n\n\n\n\nDømi: …\nPrógv: …\nInnleiðing\nFast hall-tal (halli = slope)\nUppruni (0,0) – “Fer ígjøgnum upprunan (0,0)”\n\n\n\n\n\nÍ stuttum handlingsheitum brúka vit “Finn …” (imperativ)\nFíla ikki slóðarnøvn (filenøvn); brúka ASCII til filur men rættan føroyskan tekst í sýniligum titlum.\n\n\n\n\nRevsa óneyðuga orðgnógd; stremba eftir greiðum, stuttum setningum."
-  },
-  {
-    "objectID": "Documentation/TERMINOLOGY.html#grundevni",
-    "href": "Documentation/TERMINOLOGY.html#grundevni",
-    "title": "Minerva – Føroyskur málførsluorðalisti",
-    "section": "",
-    "text": "Funktiónir (ikki “Funktionir”)\nLinjurættar funktiónir (ikki “linjurattar”)\nPotensfunktiónir\nEksponentiellar funktiónir\nGeometri\nHagfrøði\nLíkindarokning\nKapitalrokning"
-  },
-  {
-    "objectID": "Documentation/TERMINOLOGY.html#geometri",
-    "href": "Documentation/TERMINOLOGY.html#geometri",
-    "title": "Minerva – Føroyskur málførsluorðalisti",
-    "section": "",
-    "text": "Tríkantur, tríkantar, tríkantum (ikki “trykantar”)\nRættvinklaður, rættvinklaðir\nEinsvinklaður, einsvinklaðir\nJavnbeintir og javnsíðaðir\nVinkulsamløgan (sum heiti á summuni av øllum vinklum í tríkanti)\nSíða, síður (ikki “sidu”)"
-  },
-  {
-    "objectID": "Documentation/TERMINOLOGY.html#strukturell-orð",
-    "href": "Documentation/TERMINOLOGY.html#strukturell-orð",
-    "title": "Minerva – Føroyskur málførsluorðalisti",
-    "section": "",
-    "text": "Dømi: …\nPrógv: …\nInnleiðing\nFast hall-tal (halli = slope)\nUppruni (0,0) – “Fer ígjøgnum upprunan (0,0)”"
-  },
-  {
-    "objectID": "Documentation/TERMINOLOGY.html#stílreglur",
-    "href": "Documentation/TERMINOLOGY.html#stílreglur",
-    "title": "Minerva – Føroyskur málførsluorðalisti",
-    "section": "",
-    "text": "Í stuttum handlingsheitum brúka vit “Finn …” (imperativ)\nFíla ikki slóðarnøvn (filenøvn); brúka ASCII til filur men rættan føroyskan tekst í sýniligum titlum."
-  },
-  {
-    "objectID": "Documentation/TERMINOLOGY.html#tættleiki",
-    "href": "Documentation/TERMINOLOGY.html#tættleiki",
-    "title": "Minerva – Føroyskur málførsluorðalisti",
-    "section": "",
-    "text": "Revsa óneyðuga orðgnógd; stremba eftir greiðum, stuttum setningum."
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html",
-    "href": "Documentation/PROJECT_SUMMARY.html",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "This document summarizes the major cleanup and improvements made to the Minerva project.\n\n\n\n\n\n\n\n✅ Consolidated styles.css and minerva_theme.scss into single stylesheet\n✅ Removed 1500+ lines of duplicate CSS\n✅ Organized CSS into logical sections with clear comments\n✅ Documented all CSS variables and their purposes\n\n\n\n\n\n✅ Three-column layout: Left sidebar (subjects) + Content + Right TOC (page navigation)\n✅ Breadcrumb navigation for easy back-navigation\n✅ Emoji icons in sidebar for visual identification\n✅ Smooth hover effects on TOC and cards\n✅ Dynamic navbar that adjusts based on current page\n\n\n\n\nCreated 4 new documentation files:\n\n\n\n\n\n\n\n\nFile\nPurpose\nAudience\n\n\n\n\nREADME.md\nComplete usage guide, customization, adding content\nAll users\n\n\nMAINTENANCE.md\nDetailed maintenance guide, best practices, checklists\nMaintainers\n\n\nQUICKSTART.md\n5-minute getting started guide\nNew contributors\n\n\nCHANGELOG.md\nVersion history and change tracking\nAll users\n\n\n\n\n\n\n\n✅ Added detailed comments to _quarto.yml\n✅ Documented CSS structure in minerva_theme.scss\n✅ Removed legacy code and TODO placeholders\n✅ Cleaned up duplicate/backup files\n✅ Clear file naming conventions documented\n\n\n\n\n\n✅ Fully responsive at all breakpoints\n✅ Touch-friendly navigation on mobile\n✅ Collapsible sidebar on tablets\n✅ Optimized layout for phones\n\n\n\n\n\n\n\n\nquarto_2_test/\n├── README.md                ← Complete user guide\n├── QUICKSTART.md            ← 5-minute start guide\n├── MAINTENANCE.md           ← Maintenance guide\n├── CHANGELOG.md             ← Version history\n├── _quarto.yml              ← Configuration (well-commented)\n├── minerva_theme.scss       ← Unified stylesheet\n├── navbar-handler.html      ← Dynamic navbar\n├── footer.html              ← Footer component\n├── index.qmd                ← Homepage\n├── about.qmd                ← About page\n├── years/\n│   ├── 1.g/                 ← First year content\n│   │   ├── index.qmd\n│   │   ├── breadcrumb.html\n│   │   ├── tol_og_algebra/\n│   │   ├── funktionir/\n│   │   ├── geometri/\n│   │   ├── hagfrodi/\n│   │   ├── likindarokning/\n│   │   └── kapitalrokning/\n│   └── 2.g/                 ← Second year content\n│       └── index.qmd\n└── docs/                    ← Generated site\n\n\n\n\n❌ styles.css - Merged into minerva_theme.scss\n❌ readme.md - Replaced with comprehensive README.md\n❌ readme.old.md - Removed duplicate\n❌ TODO comments - Fixed or removed\n❌ Legacy code - Cleaned up\n\n\n\n\n\n\n\n\nClean, professional palette using CSS variables:\n--minerva-primary: #0F172A     /* Deep slate */\n--minerva-secondary: #3B82F6   /* Modern blue */\n--minerva-accent: #8B5CF6      /* Purple */\n--minerva-success: #10B981     /* Green */\n--minerva-warning: #F59E0B     /* Amber */\n\n\n\n\nFont: Inter (modern, readable)\nHeadings: Clear hierarchy with proper sizing\nBody: 1.1em for comfortable reading\nLine height: 1.7 for readability\n\n\n\n\n\nCards: Modern with hover effects and gradient borders\nSidebar: Clean navigation with icon indicators\nTOC: Sticky positioning with smooth scrolling\nNavbar: Gradient background with shadow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAspect\nBefore\nAfter\n\n\n\n\nCSS Files\n2 files, ~3000 lines, duplicates\n1 file, ~860 lines, organized\n\n\nDocumentation\n1 basic readme\n4 comprehensive guides\n\n\nTOC Location\nLeft (with subjects)\nRight (dedicated sidebar)\n\n\nNavigation\nBasic links\nBreadcrumbs + icons + hover effects\n\n\nMobile UX\nBasic responsive\nFully optimized\n\n\nCode Comments\nMinimal\nExtensive documentation\n\n\nMaintenance\nNo guide\nComplete maintenance guide\n\n\nConfiguration\nPlain\nWell-commented with explanations\n\n\n\n\n\n\n\n\n\n┌────────────────┬───────────────────────┬────────────────┐\n│  Left Sidebar  │    Main Content       │  Right TOC     │\n│  (300px)       │    (900px)            │  (250px)       │\n├────────────────┼───────────────────────┼────────────────┤\n│ 📚 Subjects    │ # Lesson Title        │ Á hesi síðu   │\n│ 📈 Topics      │                       │ ├─ Section 1   │\n│ 📐 Lessons     │ ## Introduction       │ ├─ Section 2   │\n│                │ Content here...       │ │  ├─ Sub 2.1  │\n│                │                       │ │  └─ Sub 2.2  │\n│                │ ## Main Topic         │ └─ Section 3   │\n│                │ More content...       │                │\n└────────────────┴───────────────────────┴────────────────┘\n\n\n\n\n&gt;991px: Three columns as above\n768-991px: Collapsible left sidebar, TOC moves below content\n&lt;768px: Mobile-optimized single column\n\n\n\n\n\n\n\n\n\nQuarto: Latest version\nTheme: Spacelab (light)\nStyles: SCSS with CSS variables\nMath: KaTeX for LaTeX rendering\nFonts: Inter from Google Fonts\n\n\n\n\n\n✅ Full-text search\n✅ Smooth scrolling\n✅ Code syntax highlighting\n✅ Responsive images\n✅ SEO-friendly HTML\n✅ GitHub Pages ready\n\n\n\n\n\n\n\n\nSections: 1. Quick Start (installation, preview, deployment) 2. Project Structure (file organization) 3. Customizing (colors, fonts, navbar) 4. Adding Content (lessons, subjects, years) 5. Layout System (grid configuration) 6. Styling System (CSS architecture) 7. Navigation Features (breadcrumbs, icons) 8. Mobile Responsiveness 9. Maintenance & Best Practices 10. Troubleshooting 11. Resources\nTarget: All users - comprehensive reference\n\n\n\nSections: 1. Code Organization (structure, naming) 2. Regular Maintenance (weekly, monthly, quarterly) 3. Adding Content Workflow (checklists) 4. Styling Best Practices (when to edit CSS) 5. Performance Optimization 6. Backup & Version Control 7. Common Issues & Solutions 8. Monitoring & Analytics 9. Deployment Checklist\nTarget: Maintainers - technical deep dive\n\n\n\nSections: 1. Prerequisites 2. First 5 Minutes (preview, edit, add) 3. Common Tasks (quick reference) 4. File Structure at a Glance 5. Cheat Sheet (markdown, math, callouts) 6. Git Workflow 7. Troubleshooting Quick Fixes 8. Next Steps\nTarget: New contributors - fast onboarding\n\n\n\nContents: - Version 2.0.0 changes (this update) - Template for future updates - Semantic versioning guide\nTarget: All users - track changes\n\n\n\n\n\n\n\n\n✅ Site renders without errors\n✅ All pages load correctly\n✅ Left sidebar navigation works\n✅ Right TOC appears and functions\n✅ Breadcrumb navigation works\n✅ Mobile responsive at all breakpoints\n✅ Hover effects are smooth\n✅ Search functionality works\n✅ Math equations render\n✅ Links are not broken\n✅ GitHub Pages deployment ready\n\n\n\n\n\n⚠️ Some lesson pages have unclosed divs (cosmetic, doesn’t affect functionality)\nThese can be fixed gradually as content is updated\n\n\n\n\n\n\nThe site is production-ready and can be deployed immediately:\n\n✅ All styling consolidated and tested\n✅ Navigation fully functional\n✅ Documentation complete\n✅ Mobile-responsive\n✅ Clean codebase\n✅ Easy to maintain\n✅ Well-documented\n\n\n\n\n\n\n\n\nFix unclosed div warnings in lesson pages\nAdd Google Analytics (guide included in MAINTENANCE.md)\nOptimize images (compress, resize)\nAdd alt text to all images for accessibility\n\n\n\n\n\nImplement search filters by subject/year\nAdd dark mode theme option\nCreate video embed templates\nBuild interactive quiz components\nAdd progress tracking for students\n\n\n\n\n\n\n\n\n\nComplete setup guide\nCustomization tutorials\nContent creation workflow\nTroubleshooting section\n\n\n\n\n\nCSS architecture documentation\nComponent structure\nResponsive design patterns\nPerformance optimization tips\n\n\n\n\n\nRegular maintenance checklists\nBackup strategies\nVersion control best practices\nDeployment procedures\n\n\n\n\n\n\n\n\n\nQuick issue? → QUICKSTART.md troubleshooting\nHow to customize? → README.md customization section\nMaintenance task? → MAINTENANCE.md relevant section\nStill stuck? → Create GitHub issue with details\n\n\n\n\n\n“How do I…?” → README.md\n“I’m new here” → QUICKSTART.md\n“Regular maintenance” → MAINTENANCE.md\n“What changed?” → CHANGELOG.md\n\n\n\n\n\n\n\n\n\n✅ Single source of truth for styling\n✅ Well-commented configuration\n✅ Clean file structure\n✅ No duplicate code\n✅ Consistent naming\n\n\n\n\n\n✅ Intuitive navigation (3-column layout)\n✅ Visual indicators (emoji icons)\n✅ Smooth interactions (hover effects)\n✅ Mobile-friendly (fully responsive)\n✅ Easy to navigate (breadcrumbs, TOC)\n\n\n\n\n\n✅ Comprehensive documentation\n✅ Clear code organization\n✅ Best practices documented\n✅ Easy to extend\n✅ Regular maintenance plan\n\n\n\n\n\n\nThe Minerva project is now: - 🧹 Clean - No legacy code, duplicates removed - 📚 Documented - 4 comprehensive guides - 🎨 Beautiful - Modern design with smooth interactions - 📱 Responsive - Perfect on all devices - 🛠️ Maintainable - Easy to update and extend - 🚀 Production-Ready - Deploy with confidence\n\nMinerva 2.0 - A Complete Educational Platform ✨\nBuilt for Faroese mathematics education Designed for long-term maintainability Ready for the future\n\n\n\n\n\n📖 README.md - Complete guide\n🚀 QUICKSTART.md - Get started fast\n🛠️ MAINTENANCE.md - Maintenance guide\n📝 CHANGELOG.md - Version history\n⚙️ _quarto.yml - Configuration\n🎨 minerva_theme.scss - Styling\n\n\nSummary created: November 2025"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#what-was-done",
-    "href": "Documentation/PROJECT_SUMMARY.html#what-was-done",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "This document summarizes the major cleanup and improvements made to the Minerva project."
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#major-improvements",
-    "href": "Documentation/PROJECT_SUMMARY.html#major-improvements",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "✅ Consolidated styles.css and minerva_theme.scss into single stylesheet\n✅ Removed 1500+ lines of duplicate CSS\n✅ Organized CSS into logical sections with clear comments\n✅ Documented all CSS variables and their purposes\n\n\n\n\n\n✅ Three-column layout: Left sidebar (subjects) + Content + Right TOC (page navigation)\n✅ Breadcrumb navigation for easy back-navigation\n✅ Emoji icons in sidebar for visual identification\n✅ Smooth hover effects on TOC and cards\n✅ Dynamic navbar that adjusts based on current page\n\n\n\n\nCreated 4 new documentation files:\n\n\n\n\n\n\n\n\nFile\nPurpose\nAudience\n\n\n\n\nREADME.md\nComplete usage guide, customization, adding content\nAll users\n\n\nMAINTENANCE.md\nDetailed maintenance guide, best practices, checklists\nMaintainers\n\n\nQUICKSTART.md\n5-minute getting started guide\nNew contributors\n\n\nCHANGELOG.md\nVersion history and change tracking\nAll users\n\n\n\n\n\n\n\n✅ Added detailed comments to _quarto.yml\n✅ Documented CSS structure in minerva_theme.scss\n✅ Removed legacy code and TODO placeholders\n✅ Cleaned up duplicate/backup files\n✅ Clear file naming conventions documented\n\n\n\n\n\n✅ Fully responsive at all breakpoints\n✅ Touch-friendly navigation on mobile\n✅ Collapsible sidebar on tablets\n✅ Optimized layout for phones"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#file-structure",
-    "href": "Documentation/PROJECT_SUMMARY.html#file-structure",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "quarto_2_test/\n├── README.md                ← Complete user guide\n├── QUICKSTART.md            ← 5-minute start guide\n├── MAINTENANCE.md           ← Maintenance guide\n├── CHANGELOG.md             ← Version history\n├── _quarto.yml              ← Configuration (well-commented)\n├── minerva_theme.scss       ← Unified stylesheet\n├── navbar-handler.html      ← Dynamic navbar\n├── footer.html              ← Footer component\n├── index.qmd                ← Homepage\n├── about.qmd                ← About page\n├── years/\n│   ├── 1.g/                 ← First year content\n│   │   ├── index.qmd\n│   │   ├── breadcrumb.html\n│   │   ├── tol_og_algebra/\n│   │   ├── funktionir/\n│   │   ├── geometri/\n│   │   ├── hagfrodi/\n│   │   ├── likindarokning/\n│   │   └── kapitalrokning/\n│   └── 2.g/                 ← Second year content\n│       └── index.qmd\n└── docs/                    ← Generated site\n\n\n\n\n❌ styles.css - Merged into minerva_theme.scss\n❌ readme.md - Replaced with comprehensive README.md\n❌ readme.old.md - Removed duplicate\n❌ TODO comments - Fixed or removed\n❌ Legacy code - Cleaned up"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#design-improvements",
-    "href": "Documentation/PROJECT_SUMMARY.html#design-improvements",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Clean, professional palette using CSS variables:\n--minerva-primary: #0F172A     /* Deep slate */\n--minerva-secondary: #3B82F6   /* Modern blue */\n--minerva-accent: #8B5CF6      /* Purple */\n--minerva-success: #10B981     /* Green */\n--minerva-warning: #F59E0B     /* Amber */\n\n\n\n\nFont: Inter (modern, readable)\nHeadings: Clear hierarchy with proper sizing\nBody: 1.1em for comfortable reading\nLine height: 1.7 for readability\n\n\n\n\n\nCards: Modern with hover effects and gradient borders\nSidebar: Clean navigation with icon indicators\nTOC: Sticky positioning with smooth scrolling\nNavbar: Gradient background with shadow"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#before-vs-after",
-    "href": "Documentation/PROJECT_SUMMARY.html#before-vs-after",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Aspect\nBefore\nAfter\n\n\n\n\nCSS Files\n2 files, ~3000 lines, duplicates\n1 file, ~860 lines, organized\n\n\nDocumentation\n1 basic readme\n4 comprehensive guides\n\n\nTOC Location\nLeft (with subjects)\nRight (dedicated sidebar)\n\n\nNavigation\nBasic links\nBreadcrumbs + icons + hover effects\n\n\nMobile UX\nBasic responsive\nFully optimized\n\n\nCode Comments\nMinimal\nExtensive documentation\n\n\nMaintenance\nNo guide\nComplete maintenance guide\n\n\nConfiguration\nPlain\nWell-commented with explanations"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#layout-system",
-    "href": "Documentation/PROJECT_SUMMARY.html#layout-system",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "┌────────────────┬───────────────────────┬────────────────┐\n│  Left Sidebar  │    Main Content       │  Right TOC     │\n│  (300px)       │    (900px)            │  (250px)       │\n├────────────────┼───────────────────────┼────────────────┤\n│ 📚 Subjects    │ # Lesson Title        │ Á hesi síðu   │\n│ 📈 Topics      │                       │ ├─ Section 1   │\n│ 📐 Lessons     │ ## Introduction       │ ├─ Section 2   │\n│                │ Content here...       │ │  ├─ Sub 2.1  │\n│                │                       │ │  └─ Sub 2.2  │\n│                │ ## Main Topic         │ └─ Section 3   │\n│                │ More content...       │                │\n└────────────────┴───────────────────────┴────────────────┘\n\n\n\n\n&gt;991px: Three columns as above\n768-991px: Collapsible left sidebar, TOC moves below content\n&lt;768px: Mobile-optimized single column"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#technical-stack",
-    "href": "Documentation/PROJECT_SUMMARY.html#technical-stack",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Quarto: Latest version\nTheme: Spacelab (light)\nStyles: SCSS with CSS variables\nMath: KaTeX for LaTeX rendering\nFonts: Inter from Google Fonts\n\n\n\n\n\n✅ Full-text search\n✅ Smooth scrolling\n✅ Code syntax highlighting\n✅ Responsive images\n✅ SEO-friendly HTML\n✅ GitHub Pages ready"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#documentation-overview",
-    "href": "Documentation/PROJECT_SUMMARY.html#documentation-overview",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Sections: 1. Quick Start (installation, preview, deployment) 2. Project Structure (file organization) 3. Customizing (colors, fonts, navbar) 4. Adding Content (lessons, subjects, years) 5. Layout System (grid configuration) 6. Styling System (CSS architecture) 7. Navigation Features (breadcrumbs, icons) 8. Mobile Responsiveness 9. Maintenance & Best Practices 10. Troubleshooting 11. Resources\nTarget: All users - comprehensive reference\n\n\n\nSections: 1. Code Organization (structure, naming) 2. Regular Maintenance (weekly, monthly, quarterly) 3. Adding Content Workflow (checklists) 4. Styling Best Practices (when to edit CSS) 5. Performance Optimization 6. Backup & Version Control 7. Common Issues & Solutions 8. Monitoring & Analytics 9. Deployment Checklist\nTarget: Maintainers - technical deep dive\n\n\n\nSections: 1. Prerequisites 2. First 5 Minutes (preview, edit, add) 3. Common Tasks (quick reference) 4. File Structure at a Glance 5. Cheat Sheet (markdown, math, callouts) 6. Git Workflow 7. Troubleshooting Quick Fixes 8. Next Steps\nTarget: New contributors - fast onboarding\n\n\n\nContents: - Version 2.0.0 changes (this update) - Template for future updates - Semantic versioning guide\nTarget: All users - track changes"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#quality-checks",
-    "href": "Documentation/PROJECT_SUMMARY.html#quality-checks",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "✅ Site renders without errors\n✅ All pages load correctly\n✅ Left sidebar navigation works\n✅ Right TOC appears and functions\n✅ Breadcrumb navigation works\n✅ Mobile responsive at all breakpoints\n✅ Hover effects are smooth\n✅ Search functionality works\n✅ Math equations render\n✅ Links are not broken\n✅ GitHub Pages deployment ready\n\n\n\n\n\n⚠️ Some lesson pages have unclosed divs (cosmetic, doesn’t affect functionality)\nThese can be fixed gradually as content is updated"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#ready-for-production",
-    "href": "Documentation/PROJECT_SUMMARY.html#ready-for-production",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "The site is production-ready and can be deployed immediately:\n\n✅ All styling consolidated and tested\n✅ Navigation fully functional\n✅ Documentation complete\n✅ Mobile-responsive\n✅ Clean codebase\n✅ Easy to maintain\n✅ Well-documented"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#future-recommendations",
-    "href": "Documentation/PROJECT_SUMMARY.html#future-recommendations",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Fix unclosed div warnings in lesson pages\nAdd Google Analytics (guide included in MAINTENANCE.md)\nOptimize images (compress, resize)\nAdd alt text to all images for accessibility\n\n\n\n\n\nImplement search filters by subject/year\nAdd dark mode theme option\nCreate video embed templates\nBuild interactive quiz components\nAdd progress tracking for students"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#learning-resources-provided",
-    "href": "Documentation/PROJECT_SUMMARY.html#learning-resources-provided",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Complete setup guide\nCustomization tutorials\nContent creation workflow\nTroubleshooting section\n\n\n\n\n\nCSS architecture documentation\nComponent structure\nResponsive design patterns\nPerformance optimization tips\n\n\n\n\n\nRegular maintenance checklists\nBackup strategies\nVersion control best practices\nDeployment procedures"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#support-structure",
-    "href": "Documentation/PROJECT_SUMMARY.html#support-structure",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "Quick issue? → QUICKSTART.md troubleshooting\nHow to customize? → README.md customization section\nMaintenance task? → MAINTENANCE.md relevant section\nStill stuck? → Create GitHub issue with details\n\n\n\n\n\n“How do I…?” → README.md\n“I’m new here” → QUICKSTART.md\n“Regular maintenance” → MAINTENANCE.md\n“What changed?” → CHANGELOG.md"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#achievement-summary",
-    "href": "Documentation/PROJECT_SUMMARY.html#achievement-summary",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "✅ Single source of truth for styling\n✅ Well-commented configuration\n✅ Clean file structure\n✅ No duplicate code\n✅ Consistent naming\n\n\n\n\n\n✅ Intuitive navigation (3-column layout)\n✅ Visual indicators (emoji icons)\n✅ Smooth interactions (hover effects)\n✅ Mobile-friendly (fully responsive)\n✅ Easy to navigate (breadcrumbs, TOC)\n\n\n\n\n\n✅ Comprehensive documentation\n✅ Clear code organization\n✅ Best practices documented\n✅ Easy to extend\n✅ Regular maintenance plan"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#result",
-    "href": "Documentation/PROJECT_SUMMARY.html#result",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "The Minerva project is now: - 🧹 Clean - No legacy code, duplicates removed - 📚 Documented - 4 comprehensive guides - 🎨 Beautiful - Modern design with smooth interactions - 📱 Responsive - Perfect on all devices - 🛠️ Maintainable - Easy to update and extend - 🚀 Production-Ready - Deploy with confidence\n\nMinerva 2.0 - A Complete Educational Platform ✨\nBuilt for Faroese mathematics education Designed for long-term maintainability Ready for the future"
-  },
-  {
-    "objectID": "Documentation/PROJECT_SUMMARY.html#quick-links",
-    "href": "Documentation/PROJECT_SUMMARY.html#quick-links",
-    "title": "📋 Project Summary - Minerva 2.0",
-    "section": "",
-    "text": "📖 README.md - Complete guide\n🚀 QUICKSTART.md - Get started fast\n🛠️ MAINTENANCE.md - Maintenance guide\n📝 CHANGELOG.md - Version history\n⚙️ _quarto.yml - Configuration\n🎨 minerva_theme.scss - Styling\n\n\nSummary created: November 2025"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html",
-    "href": "Documentation/DOCS_INDEX.html",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Welcome to the Minerva project documentation! This index helps you find the right guide for your needs.\n\n\n\n\n\n\nInstall and preview the site → QUICKSTART.md (5 minutes)\nUnderstand the project structure → README.md - Project Structure section\nDeploy to GitHub Pages → README.md - Deployment section\n\n\n\n\n\nChange colors and fonts → README.md - Customizing Your Site\nModify the navbar → README.md - Customizing the Navbar\nAdjust layout spacing → README.md - Layout System\nAdd custom styles → MAINTENANCE.md - Styling Best Practices\n\n\n\n\n\nAdd a new lesson → README.md - Adding a New Lesson\nCreate a new subject → README.md - Adding a New Subject\nAdd a year level → README.md - Adding a New Year Level\nUse math equations → README.md - Math Equations section\n\n\n\n\n\nPerform regular maintenance → MAINTENANCE.md - Regular Maintenance Tasks\nOptimize performance → MAINTENANCE.md - Performance Optimization\nManage backups → MAINTENANCE.md - Backup & Version Control\nFollow best practices → MAINTENANCE.md - File Organization\n\n\n\n\n\nTroubleshoot common issues → README.md - Troubleshooting section\nFix styling issues → MAINTENANCE.md - Common Issues & Solutions\nDebug build errors → MAINTENANCE.md - Troubleshooting section\n\n\n\n\n\nSee what’s new → CHANGELOG.md\nReview project overview → PROJECT_SUMMARY.md\n\n\n\n\n\n\n\n\nWho it’s for: All users (beginners to advanced)\nLength: ~30 minutes to read\nContent: - Installation and setup - Project structure overview - Complete customization guide - Step-by-step content addition - Layout and styling system - Navigation features - Mobile responsiveness - Troubleshooting - Useful resources\nStart here if: You’re new to the project or need a comprehensive reference.\n\n\n\n\nWho it’s for: New contributors who want to start fast\nLength: 5-10 minutes\nContent: - Rapid setup (3 steps) - Your first edit - Common tasks at a glance - Markdown cheat sheet - Quick troubleshooting - Git workflow basics\nStart here if: You want to dive in quickly and learn by doing.\n\n\n\n\nWho it’s for: Site maintainers and advanced users\nLength: Reference guide (read as needed)\nContent: - Code organization principles - Regular maintenance schedules - Detailed workflow checklists - Styling best practices - Performance optimization - Backup strategies - Common issues with solutions - Analytics setup\nStart here if: You’re responsible for maintaining the site long-term.\n\n\n\n\nWho it’s for: All users\nLength: 2-5 minutes per version\nContent: - Version 2.0 major refactor details - Template for documenting future changes - Semantic versioning guide\nStart here if: You want to know what changed in recent updates.\n\n\n\n\nWho it’s for: Project managers, new team members\nLength: 10-15 minutes\nContent: - High-level overview of changes - Before/after comparisons - Technical stack overview - Quality checks and verification - Achievement summary\nStart here if: You need a bird’s-eye view of the project.\n\n\n\n\n\n\n\n\nStart: QUICKSTART.md - Get site running locally\nLearn: README.md - Project Structure & File Organization\n\nPractice: Make a test edit, preview changes\nExpand: README.md - Adding Content section\nMaster: MAINTENANCE.md as needed\n\nEstimated time: 1-2 hours to feel comfortable\n\n\n\n\n\nSkim: PROJECT_SUMMARY.md - Understand project state\nReference: README.md - Note customization options\nDeep dive: MAINTENANCE.md - Technical details\nCheck: CHANGELOG.md - Recent changes\n\nEstimated time: 30 minutes to get up to speed\n\n\n\n\n\nStart: QUICKSTART.md - Setup and first edit\nLearn: README.md - Adding Content section\nReference: README.md - Math Equations, Callouts\nTips: MAINTENANCE.md - Content Guidelines\n\nEstimated time: 30 minutes to start creating\n\n\n\n\n\nOverview: PROJECT_SUMMARY.md - Current state\nSetup: README.md - Deployment and configuration\nProcess: MAINTENANCE.md - Full maintenance guide\nTrack: CHANGELOG.md - Document your changes\n\nEstimated time: 2-3 hours for comprehensive understanding\n\n\n\n\n\n\n\n# 1. Create file: years/1.g/subject/lesson-name.qmd\n# 2. Add frontmatter:\n---\ntitle: \"Lesson Title\"\nsidebar: sidebar-1g\ntoc: true\ntoc-location: right\n---\n# 3. Add to _quarto.yml sidebar\n# 4. Test with: quarto preview\nDetailed guide: README.md - Adding a New Lesson\n\n\n\n\n/* Edit minerva_theme.scss */\n:root {\n  --minerva-primary: #YourColor;\n  --minerva-secondary: #YourColor;\n}\nDetailed guide: README.md - Changing Colors\n\n\n\n\ngit status                    # Check changes\ngit add .                     # Stage all changes\ngit commit -m \"Description\"   # Commit with message\ngit push                      # Push to remote\nDetailed guide: MAINTENANCE.md - Version Control\n\n\n\n\n\nTo find specific information:\n\nUse your editor’s search (Ctrl+F / Cmd+F) across all .md files\nCheck the TOC at the top of README.md and MAINTENANCE.md\nScan section headers - they’re designed to be descriptive\n\nCommon search terms: - “add lesson” → Adding content guides - “color” or “theme” → Customization sections - “error” or “not working” → Troubleshooting sections - “mobile” or “responsive” → Mobile responsiveness sections - “sidebar” or “toc” → Navigation configuration\n\n\n\n\n\nCheck the index at the top of this file (“I Want To…”)\nRead the appropriate guide based on your role (see Learning Path)\nSearch the documentation files for keywords\nCheck Quarto docs - https://quarto.org/docs/\nCreate an issue on GitHub with your question\n\n\n\n\n\n\n\n\nFile\nLength\nAudience\nTime to Read\n\n\n\n\nREADME.md\n~600 lines\nAll users\n30 min\n\n\nQUICKSTART.md\n~200 lines\nNew users\n5 min\n\n\nMAINTENANCE.md\n~650 lines\nMaintainers\nReference\n\n\nCHANGELOG.md\n~100 lines\nAll users\n5 min\n\n\nPROJECT_SUMMARY.md\n~400 lines\nManagers\n15 min\n\n\nTotal Documentation\n~2000 lines\nVarious\n1-2 hours\n\n\n\n\n\n\n\nOur documentation follows these principles:\n\nBeginner-friendly - Assume no prior knowledge\nTask-oriented - Focus on “how to do X”\nWell-organized - Easy to navigate and scan\nExample-rich - Show, don’t just tell\nUp-to-date - Maintained with code changes\n\n\n\n\n\nWhen you make changes to the project:\n\nUpdate README.md if you change features or workflow\nUpdate MAINTENANCE.md if you change maintenance procedures\nUpdate CHANGELOG.md with version and changes\nKeep examples accurate - test all code snippets\n\n\n\n\n\nFound an error? Have a suggestion? Ways to contribute:\n\nFix typos - Create a PR with corrections\nAdd examples - Share useful patterns you’ve discovered\nImprove clarity - Rewrite confusing sections\nAdd screenshots - Visual guides are helpful\nCreate tutorials - Write step-by-step walkthroughs\n\n\n\n\n\n\n📖 Documentation Issues: Check this index and search guides\n🐛 Technical Issues: See MAINTENANCE.md - Troubleshooting\n💬 Questions: GitHub Discussions or Issues\n🆘 Urgent: Contact maintainers directly\n\n\nHappy documenting! 📚✨\nThis index is your map through the Minerva documentation ecosystem.\n\nLast updated: November 2025"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#i-want-to",
-    "href": "Documentation/DOCS_INDEX.html#i-want-to",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Install and preview the site → QUICKSTART.md (5 minutes)\nUnderstand the project structure → README.md - Project Structure section\nDeploy to GitHub Pages → README.md - Deployment section\n\n\n\n\n\nChange colors and fonts → README.md - Customizing Your Site\nModify the navbar → README.md - Customizing the Navbar\nAdjust layout spacing → README.md - Layout System\nAdd custom styles → MAINTENANCE.md - Styling Best Practices\n\n\n\n\n\nAdd a new lesson → README.md - Adding a New Lesson\nCreate a new subject → README.md - Adding a New Subject\nAdd a year level → README.md - Adding a New Year Level\nUse math equations → README.md - Math Equations section\n\n\n\n\n\nPerform regular maintenance → MAINTENANCE.md - Regular Maintenance Tasks\nOptimize performance → MAINTENANCE.md - Performance Optimization\nManage backups → MAINTENANCE.md - Backup & Version Control\nFollow best practices → MAINTENANCE.md - File Organization\n\n\n\n\n\nTroubleshoot common issues → README.md - Troubleshooting section\nFix styling issues → MAINTENANCE.md - Common Issues & Solutions\nDebug build errors → MAINTENANCE.md - Troubleshooting section\n\n\n\n\n\nSee what’s new → CHANGELOG.md\nReview project overview → PROJECT_SUMMARY.md"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#documentation-files",
-    "href": "Documentation/DOCS_INDEX.html#documentation-files",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Who it’s for: All users (beginners to advanced)\nLength: ~30 minutes to read\nContent: - Installation and setup - Project structure overview - Complete customization guide - Step-by-step content addition - Layout and styling system - Navigation features - Mobile responsiveness - Troubleshooting - Useful resources\nStart here if: You’re new to the project or need a comprehensive reference.\n\n\n\n\nWho it’s for: New contributors who want to start fast\nLength: 5-10 minutes\nContent: - Rapid setup (3 steps) - Your first edit - Common tasks at a glance - Markdown cheat sheet - Quick troubleshooting - Git workflow basics\nStart here if: You want to dive in quickly and learn by doing.\n\n\n\n\nWho it’s for: Site maintainers and advanced users\nLength: Reference guide (read as needed)\nContent: - Code organization principles - Regular maintenance schedules - Detailed workflow checklists - Styling best practices - Performance optimization - Backup strategies - Common issues with solutions - Analytics setup\nStart here if: You’re responsible for maintaining the site long-term.\n\n\n\n\nWho it’s for: All users\nLength: 2-5 minutes per version\nContent: - Version 2.0 major refactor details - Template for documenting future changes - Semantic versioning guide\nStart here if: You want to know what changed in recent updates.\n\n\n\n\nWho it’s for: Project managers, new team members\nLength: 10-15 minutes\nContent: - High-level overview of changes - Before/after comparisons - Technical stack overview - Quality checks and verification - Achievement summary\nStart here if: You need a bird’s-eye view of the project."
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#learning-path",
-    "href": "Documentation/DOCS_INDEX.html#learning-path",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Start: QUICKSTART.md - Get site running locally\nLearn: README.md - Project Structure & File Organization\n\nPractice: Make a test edit, preview changes\nExpand: README.md - Adding Content section\nMaster: MAINTENANCE.md as needed\n\nEstimated time: 1-2 hours to feel comfortable\n\n\n\n\n\nSkim: PROJECT_SUMMARY.md - Understand project state\nReference: README.md - Note customization options\nDeep dive: MAINTENANCE.md - Technical details\nCheck: CHANGELOG.md - Recent changes\n\nEstimated time: 30 minutes to get up to speed\n\n\n\n\n\nStart: QUICKSTART.md - Setup and first edit\nLearn: README.md - Adding Content section\nReference: README.md - Math Equations, Callouts\nTips: MAINTENANCE.md - Content Guidelines\n\nEstimated time: 30 minutes to start creating\n\n\n\n\n\nOverview: PROJECT_SUMMARY.md - Current state\nSetup: README.md - Deployment and configuration\nProcess: MAINTENANCE.md - Full maintenance guide\nTrack: CHANGELOG.md - Document your changes\n\nEstimated time: 2-3 hours for comprehensive understanding"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#quick-reference-cards",
-    "href": "Documentation/DOCS_INDEX.html#quick-reference-cards",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "# 1. Create file: years/1.g/subject/lesson-name.qmd\n# 2. Add frontmatter:\n---\ntitle: \"Lesson Title\"\nsidebar: sidebar-1g\ntoc: true\ntoc-location: right\n---\n# 3. Add to _quarto.yml sidebar\n# 4. Test with: quarto preview\nDetailed guide: README.md - Adding a New Lesson\n\n\n\n\n/* Edit minerva_theme.scss */\n:root {\n  --minerva-primary: #YourColor;\n  --minerva-secondary: #YourColor;\n}\nDetailed guide: README.md - Changing Colors\n\n\n\n\ngit status                    # Check changes\ngit add .                     # Stage all changes\ngit commit -m \"Description\"   # Commit with message\ngit push                      # Push to remote\nDetailed guide: MAINTENANCE.md - Version Control"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#search-tips",
-    "href": "Documentation/DOCS_INDEX.html#search-tips",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "To find specific information:\n\nUse your editor’s search (Ctrl+F / Cmd+F) across all .md files\nCheck the TOC at the top of README.md and MAINTENANCE.md\nScan section headers - they’re designed to be descriptive\n\nCommon search terms: - “add lesson” → Adding content guides - “color” or “theme” → Customization sections - “error” or “not working” → Troubleshooting sections - “mobile” or “responsive” → Mobile responsiveness sections - “sidebar” or “toc” → Navigation configuration"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#still-cant-find-what-you-need",
-    "href": "Documentation/DOCS_INDEX.html#still-cant-find-what-you-need",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Check the index at the top of this file (“I Want To…”)\nRead the appropriate guide based on your role (see Learning Path)\nSearch the documentation files for keywords\nCheck Quarto docs - https://quarto.org/docs/\nCreate an issue on GitHub with your question"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#documentation-stats",
-    "href": "Documentation/DOCS_INDEX.html#documentation-stats",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "File\nLength\nAudience\nTime to Read\n\n\n\n\nREADME.md\n~600 lines\nAll users\n30 min\n\n\nQUICKSTART.md\n~200 lines\nNew users\n5 min\n\n\nMAINTENANCE.md\n~650 lines\nMaintainers\nReference\n\n\nCHANGELOG.md\n~100 lines\nAll users\n5 min\n\n\nPROJECT_SUMMARY.md\n~400 lines\nManagers\n15 min\n\n\nTotal Documentation\n~2000 lines\nVarious\n1-2 hours"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#documentation-philosophy",
-    "href": "Documentation/DOCS_INDEX.html#documentation-philosophy",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Our documentation follows these principles:\n\nBeginner-friendly - Assume no prior knowledge\nTask-oriented - Focus on “how to do X”\nWell-organized - Easy to navigate and scan\nExample-rich - Show, don’t just tell\nUp-to-date - Maintained with code changes"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#keeping-documentation-updated",
-    "href": "Documentation/DOCS_INDEX.html#keeping-documentation-updated",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "When you make changes to the project:\n\nUpdate README.md if you change features or workflow\nUpdate MAINTENANCE.md if you change maintenance procedures\nUpdate CHANGELOG.md with version and changes\nKeep examples accurate - test all code snippets"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#make-this-documentation-better",
-    "href": "Documentation/DOCS_INDEX.html#make-this-documentation-better",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "Found an error? Have a suggestion? Ways to contribute:\n\nFix typos - Create a PR with corrections\nAdd examples - Share useful patterns you’ve discovered\nImprove clarity - Rewrite confusing sections\nAdd screenshots - Visual guides are helpful\nCreate tutorials - Write step-by-step walkthroughs"
-  },
-  {
-    "objectID": "Documentation/DOCS_INDEX.html#get-help",
-    "href": "Documentation/DOCS_INDEX.html#get-help",
-    "title": "📚 Documentation Index",
-    "section": "",
-    "text": "📖 Documentation Issues: Check this index and search guides\n🐛 Technical Issues: See MAINTENANCE.md - Troubleshooting\n💬 Questions: GitHub Discussions or Issues\n🆘 Urgent: Contact maintainers directly\n\n\nHappy documenting! 📚✨\nThis index is your map through the Minerva documentation ecosystem.\n\nLast updated: November 2025"
-  },
-  {
-    "objectID": "Documentation/CHANGELOG.html",
-    "href": "Documentation/CHANGELOG.html",
-    "title": "Changelog",
-    "section": "",
-    "text": "All notable changes to the Minerva website will be documented in this file.\n\n\n\n\n\n\n\nComprehensive README.md - Complete guide for using and customizing the site\nMAINTENANCE.md - Detailed maintenance guide with best practices\nRight sidebar TOC - Table of contents now appears on the right side of lesson pages\nBreadcrumb navigation - Easy way to navigate back to overview pages\nEmoji icons - Visual navigation in sidebar (📚, 📈, 📐, 📊, 🎲, 💰)\nSmooth hover effects - Elegant animations on TOC and cards\nThree-column layout - Left sidebar + content + right TOC\n\n\n\n\n\nDual stylesheet system - styles.css (main styling) + minerva_theme.scss (theme enhancements)\nImproved card design - Modern, responsive cards for lessons and topics\nEnhanced mobile responsiveness - Better experience on tablets and phones\nUpdated color scheme - Professional blue and purple palette\nRefined typography - Inter font family, improved readability\n\n\n\n\n\nLegacy code - Cleaned up old comments and unused styles\nDuplicate CSS - Removed redundant styling between files\nNavbar emoji animation - Removed distracting bounce effect\nTODO comments - Fixed site-url placeholder\n\n\n\n\n\nMain page layout - Removed white horizontal lines in hero section\nSidebar navigation - Subject navigation now on left, page TOC on right\nMobile sidebar - Fixed overlay behavior on small screens\nTOC visibility - Resolved CSS issues preventing TOC from appearing\n\n\n\n\n\nAdded comprehensive README with setup, customization, and troubleshooting\nCreated maintenance guide with best practices and checklists\nDocumented code structure and organization\nAdded examples for common tasks (adding lessons, subjects, years)\n\n\n\n\n\n\n\n\n\n\nBasic Quarto website structure\nYear-based organization (1.g, 2.g)\nSubject-based lessons\nLaTeX math support\nResponsive design\nGitHub Pages deployment\n\n\n\n\n\n\nWhen making significant changes, add them under a new version header:\n## [X.Y.Z] - YYYY-MM-DD\n\n### Added\n- New features you added\n\n### Changed\n- Changes to existing features\n\n### Fixed\n- Bug fixes\n\n### Removed\n- Removed features\nUse semantic versioning: - Major (X): Breaking changes, complete redesigns - Minor (Y): New features, no breaking changes - Patch (Z): Bug fixes, small improvements"
-  },
-  {
-    "objectID": "Documentation/CHANGELOG.html#november-2025",
-    "href": "Documentation/CHANGELOG.html#november-2025",
-    "title": "Changelog",
-    "section": "",
-    "text": "Comprehensive README.md - Complete guide for using and customizing the site\nMAINTENANCE.md - Detailed maintenance guide with best practices\nRight sidebar TOC - Table of contents now appears on the right side of lesson pages\nBreadcrumb navigation - Easy way to navigate back to overview pages\nEmoji icons - Visual navigation in sidebar (📚, 📈, 📐, 📊, 🎲, 💰)\nSmooth hover effects - Elegant animations on TOC and cards\nThree-column layout - Left sidebar + content + right TOC\n\n\n\n\n\nDual stylesheet system - styles.css (main styling) + minerva_theme.scss (theme enhancements)\nImproved card design - Modern, responsive cards for lessons and topics\nEnhanced mobile responsiveness - Better experience on tablets and phones\nUpdated color scheme - Professional blue and purple palette\nRefined typography - Inter font family, improved readability\n\n\n\n\n\nLegacy code - Cleaned up old comments and unused styles\nDuplicate CSS - Removed redundant styling between files\nNavbar emoji animation - Removed distracting bounce effect\nTODO comments - Fixed site-url placeholder\n\n\n\n\n\nMain page layout - Removed white horizontal lines in hero section\nSidebar navigation - Subject navigation now on left, page TOC on right\nMobile sidebar - Fixed overlay behavior on small screens\nTOC visibility - Resolved CSS issues preventing TOC from appearing\n\n\n\n\n\nAdded comprehensive README with setup, customization, and troubleshooting\nCreated maintenance guide with best practices and checklists\nDocumented code structure and organization\nAdded examples for common tasks (adding lessons, subjects, years)"
-  },
-  {
-    "objectID": "Documentation/CHANGELOG.html#initial-release",
-    "href": "Documentation/CHANGELOG.html#initial-release",
-    "title": "Changelog",
-    "section": "",
-    "text": "Basic Quarto website structure\nYear-based organization (1.g, 2.g)\nSubject-based lessons\nLaTeX math support\nResponsive design\nGitHub Pages deployment"
-  },
-  {
-    "objectID": "Documentation/CHANGELOG.html#how-to-update-this-changelog",
-    "href": "Documentation/CHANGELOG.html#how-to-update-this-changelog",
-    "title": "Changelog",
-    "section": "",
-    "text": "When making significant changes, add them under a new version header:\n## [X.Y.Z] - YYYY-MM-DD\n\n### Added\n- New features you added\n\n### Changed\n- Changes to existing features\n\n### Fixed\n- Bug fixes\n\n### Removed\n- Removed features\nUse semantic versioning: - Major (X): Breaking changes, complete redesigns - Minor (Y): New features, no breaking changes - Patch (Z): Bug fixes, small improvements"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html",
-    "href": "Documentation/MAINTENANCE.html",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "This guide covers common maintenance tasks, code organization, and best practices for keeping your Minerva website clean and efficient.\n\n\n\nCode Organization\nRegular Maintenance Tasks\nAdding New Content Workflow\nStyling Best Practices\nPerformance Optimization\nBackup & Version Control\nCommon Issues & Solutions\n\n\n\n\n\n\n\n✅ ORGANIZED:\nyears/1.g/funktionir/\n├── index.qmd              # Overview of functions\n├── linear-functions.qmd   # Specific topic\n├── quadratic-functions.qmd\n└── exponential-functions.qmd\n\n❌ MESSY:\nyears/1.g/funktionir/\n├── f1.qmd                 # Unclear names\n├── temp_backup.qmd        # Old files\n├── test123.qmd            # Test files\n└── copy_of_functions.qmd  # Duplicates\n\n\n\nFiles: - Use lowercase - Use hyphens for spaces: kvadratsetningar-introduktion.qmd - Be descriptive: tol-naturlig-og-heiltol.qmd not tol1.qmd - No spaces or special characters\nFolders: - Lowercase - Underscores for compound names: tol_og_algebra - Short but clear: funktionir not funktiónir_og_grafikar_2024\nSidebar IDs: - Use pattern: sidebar-1g, sidebar-2g, sidebar-3g - Consistent naming makes maintenance easier\n\n\n\n\n\n\n\n\n\n\n\nContent Type\nLocation\nExample\n\n\n\n\nHomepage\n/index.qmd\nMain landing page\n\n\nAbout page\n/about.qmd\nInformation about site\n\n\nYear overview\n/years/1.g/index.qmd\nYear-level home\n\n\nSubject overview\n/years/1.g/funktionir/index.qmd\nSubject home\n\n\nLesson content\n/years/1.g/funktionir/lesson-name.qmd\nIndividual lessons\n\n\nShared components\n/years/1.g/breadcrumb.html\nReusable includes\n\n\nGlobal styles\n/minerva_theme.scss\nAll CSS\n\n\nGlobal scripts\n/navbar-handler.html\nJavaScript\n\n\nConfiguration\n/_quarto.yml\nSite settings\n\n\n\n\n\n\n\n\n\n\n1. Check for Broken Links\nquarto render\n# Check terminal output for warnings about missing links\n2. Preview on Multiple Devices - Desktop browser - Tablet view (F12 → device toolbar) - Mobile phone\n3. Review Recent Changes\ngit log --oneline --since=\"1 week ago\"\ngit diff HEAD~7 HEAD\n\n\n\n1. Update Dependencies\nquarto check\n# Upgrade if new version available\n2. Clean Up Generated Files\n# Remove and regenerate docs\nrm -rf docs/\nquarto render\n3. Review and Clean - Remove unused images - Delete test files - Archive old content - Update outdated information\n4. Performance Check - Test loading speed - Check image sizes (compress if &gt;500KB) - Verify mobile responsiveness\n\n\n\n1. Content Audit - Review all lessons for accuracy - Update examples and practice problems - Check that all TODOs are addressed\n2. SEO & Accessibility - Verify all images have alt text - Check heading hierarchy (H1 → H2 → H3) - Test with screen reader if possible\n3. Backup Everything\n# Create full backup\ngit tag -a v1.0-backup-$(date +%Y%m%d) -m \"Quarterly backup\"\ngit push --tags\n\n\n\n\n\n\n\n\nCreate .qmd file in appropriate subject folder\nAdd proper frontmatter (title, sidebar, toc)\nInclude breadcrumb navigation\nWrite content with proper heading structure (##, ###)\nAdd to sidebar in _quarto.yml\nTest locally with quarto preview\nCheck TOC appears on right side\nVerify sidebar navigation works\nTest on mobile view\nCommit changes with descriptive message\nPush and verify deployment\n\n\n\n\nSave this as a starting point:\n---\ntitle: \"Your Lesson Title Here\"\nsidebar: sidebar-1g\ntoc: true\ntoc-location: right\n---\n\n# Include breadcrumb: {{&lt; include ../breadcrumb.html &gt;}}\n\n## Introduction\n\nBrief introduction to the topic...\n\n## Key Concepts\n\n### Concept 1\n\nExplanation...\n\n**Example:**\n\n$$\n\\text{Math formula here}\n$$\n\n### Concept 2\n\nMore explanation...\n\n## Practice Problems\n\n1. Problem 1\n2. Problem 2\n3. Problem 3\n\n## Summary\n\n- Key point 1\n- Key point 2\n- Key point 3\n\n## Further Reading\n\n- [Related Lesson 1](link1.qmd)\n- [Related Lesson 2](link2.qmd)\n\n\n\nStep-by-step:\n\nCreate folder structure\nmkdir years/1.g/new-subject\nCreate index.qmd\n---\ntitle: \"Subject Name\"\nsidebar: sidebar-1g\n---\n\n## Overview\nDescription of this subject...\n\n## Topics\n- [Topic 1](topic-1.qmd)\n- [Topic 2](topic-2.qmd)\nAdd to _quarto.yml sidebar\n\nFind the correct sidebar (sidebar-1g)\nAdd new section with emoji icon\nList all lessons in the subject\n\nCreate lessons\n\nUse lesson template above\nConsistent naming\nProper frontmatter\n\nTest thoroughly\nquarto preview\n# Navigate through all new pages\n\n\n\n\n\n\n\n\nEdit minerva_theme.scss when you want to: - Change colors site-wide - Adjust spacing or typography - Modify hover effects - Update responsive breakpoints - Add new component styles\nDon’t edit styles for: - Content-specific formatting (use Quarto markdown features) - One-off styling needs (use inline CSS in .qmd files)\n\n\n\nThe theme file is organized in sections:\n/* 1. Variables - Change colors, shadows, fonts */\n:root { ... }\n\n/* 2. Base Styles - Body, typography */\nbody { ... }\n\n/* 3. Components - Navbar, sidebar, TOC */\n.navbar { ... }\n\n/* 4. Layout - Grid, content area */\n#quarto-content { ... }\n\n/* 5. Responsive - Mobile breakpoints */\n@media (max-width: 991px) { ... }\n\n/* 6. Utilities - Helpers, animations */\n.animate-slide-left { ... }\nAdd new styles at the appropriate section!\n\n\n\nUse CSS variables for consistency:\n/* ✅ GOOD - Uses variables */\n.my-element {\n  background: var(--minerva-primary);\n  color: var(--minerva-text);\n}\n\n/* ❌ BAD - Hardcoded colors */\n.my-element {\n  background: #0F172A;\n  color: #1F2937;\n}\n\n\n\nAlways test at these breakpoints:\n\n1200px+ - Large desktop\n992px-1199px - Desktop\n768px-991px - Tablet\n576px-767px - Large phone\n&lt;576px - Small phone\n\nUse mobile-first approach:\n/* ✅ GOOD - Mobile first */\n.element {\n  font-size: 14px;\n}\n\n@media (min-width: 768px) {\n  .element {\n    font-size: 16px;\n  }\n}\n\n/* ❌ BAD - Desktop first (harder to maintain) */\n.element {\n  font-size: 16px;\n}\n\n@media (max-width: 767px) {\n  .element {\n    font-size: 14px;\n  }\n}\n\n\n\n\n\n\n\nBefore adding images:\n\nCompress images: Use TinyPNG\nResize appropriately:\n\nHero images: 1920x800px\nCard images: 600x400px\nIcons: 128x128px\n\nUse correct format:\n\nPhotos: .jpg\nGraphics/logos: .png\nIcons: .svg\n\n\n\n\n\nKeep _quarto.yml clean: - Remove commented-out sections - No duplicate entries - Proper indentation\nMinimize custom JavaScript: - Current navbar-handler.html is necessary - Avoid adding more scripts unless critical\n\n\n\nCheck your site speed: 1. Build site: quarto render 2. Test: Open docs/index.html in browser 3. Check DevTools: Network tab → Page load time 4. Goal: &lt;2 seconds on 3G connection\nIf slow: - Compress images - Remove unused CSS - Minimize large math equations on homepage\n\n\n\n\n\n\n\nCommit messages:\n# ✅ GOOD - Clear and descriptive\ngit commit -m \"Add quadratic equations lesson to 1.g functions\"\ngit commit -m \"Fix TOC not appearing on mobile devices\"\ngit commit -m \"Update color scheme to darker blue theme\"\n\n# ❌ BAD - Vague or unclear\ngit commit -m \"updates\"\ngit commit -m \"fix stuff\"\ngit commit -m \"asdfasdf\"\nBranching strategy:\n# Create feature branch\ngit checkout -b add-statistics-lessons\n\n# Make changes, test thoroughly\nquarto preview\n\n# Commit and push\ngit add .\ngit commit -m \"Add initial statistics lessons for 1.g\"\ngit push origin add-statistics-lessons\n\n# Merge when ready\ngit checkout main\ngit merge add-statistics-lessons\ngit push origin main\n\n\n\nWhat to backup: - ✅ All .qmd files - ✅ _quarto.yml - ✅ minerva_theme.scss - ✅ Custom HTML files - ✅ Images folder - ❌ docs/ folder (auto-generated) - ❌ .quarto/ folder (cache)\nAutomated backups:\n# Create backup script (backup.sh)\n#!/bin/bash\nDATE=$(date +%Y%m%d)\ntar -czf \"backup_minerva_$DATE.tar.gz\" \\\n  --exclude='docs' \\\n  --exclude='.quarto' \\\n  --exclude='node_modules' \\\n  .\n\n\n\n\n\n\n\nSymptoms: Left sidebar missing on lesson pages\nSolutions: 1. Check frontmatter has sidebar: sidebar-1g 2. Verify sidebar ID matches in _quarto.yml 3. Restart preview server 4. Clear browser cache\n\n\n\nSymptoms: No table of contents on right side\nSolutions: 1. Ensure frontmatter has: yaml    toc: true    toc-location: right 2. Check heading structure (need at least 2 ## headings) 3. Verify _quarto.yml has grid configuration 4. Check minerva_theme.scss has TOC styles\n\n\n\nSymptoms: CSS changes don’t appear in browser\nSolutions: 1. Hard refresh: Ctrl + Shift + R 2. Clear browser cache completely 3. Stop and restart quarto preview 4. Check browser console for CSS errors 5. Verify no typos in minerva_theme.scss\n\n\n\nSymptoms: 404 errors or “Page not found”\nSolutions: 1. Check file path is correct and relative 2. Use .qmd extension in links, not .html 3. Verify file exists in correct location 4. Check for typos in filename 5. Run quarto render and check for warnings\n\n\n\nSymptoms: Content overlaps or sidebar doesn’t work on mobile\nSolutions: 1. Test with browser DevTools device toolbar 2. Check responsive breakpoints in CSS 3. Verify viewport meta tag (Quarto adds automatically) 4. Test on actual device, not just emulator 5. Check for hardcoded widths in custom CSS\n\n\n\nSymptoms: LaTeX shows as plain text\nSolutions: 1. Verify math: true in _quarto.yml 2. Check syntax: Use $$ for display, $ for inline 3. Escape special characters if needed 4. Test with simple equation first: $x = 5$ 5. Check browser console for KaTeX errors\n\n\n\n\n\n\n\nUser behavior: - Most visited pages - Average time on page - Mobile vs. desktop ratio - Popular subjects\nTechnical metrics: - Page load times - Broken links - Error rates - Browser compatibility\n\n\n\nGoogle Analytics 4: 1. Create GA4 property 2. Get measurement ID 3. Add to _quarto.yml: yaml    website:      google-analytics: \"G-XXXXXXXXXX\"\nSimple alternative: - Use GitHub Pages insights - Check commit history for content popularity - Monitor issues/feedback from users\n\n\n\n\n\nBefore deploying updates:\n\nTest locally with quarto preview\nCheck all links work\nVerify images load\nTest on mobile view\nReview git status for unwanted files\nRun quarto render successfully\nCheck for render errors/warnings\nCommit with clear message\nPush to repository\nWait for GitHub Pages to deploy (2-5 minutes)\nVisit live site and spot-check\nTest critical pages on live site\n\n\n\n\n\nWhen things go wrong:\n\nCheck this guide - Common issues section\nSearch Quarto docs - quarto.org/docs\nReview error messages - Often tell you exactly what’s wrong\nCheck git history - What changed recently?\ngit log --oneline -10\ngit diff HEAD~1 HEAD\nAsk for help - GitHub Issues or community forums\n\nWhen reporting issues: - Describe what you expected - Describe what happened instead - Share error messages (copy full text) - List steps to reproduce - Mention browser/device used\n\n\n\n\nQuarto: - Official Documentation - Quarto GitHub - Quarto Community\nCSS & Design: - MDN Web Docs - CSS Tricks - Can I Use - Check browser support\nGit: - Git Documentation - GitHub Guides\n\n\n\n\nPrint or save this checklist:\n\n\n\nCommit changes with descriptive messages\nTest changes in preview before committing\nCheck for console errors\n\n\n\n\n\nReview recent changes\nCheck for broken links\nTest on mobile device\n\n\n\n\n\nUpdate Quarto if new version available\nClean up unused files\nReview and update outdated content\nCheck site performance\n\n\n\n\n\nFull content audit\nComplete backup\nReview analytics (if set up)\nUpdate documentation\n\n\nKeep your Minerva site clean, fast, and maintainable! 🚀\nLast updated: November 2025"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#table-of-contents",
-    "href": "Documentation/MAINTENANCE.html#table-of-contents",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Code Organization\nRegular Maintenance Tasks\nAdding New Content Workflow\nStyling Best Practices\nPerformance Optimization\nBackup & Version Control\nCommon Issues & Solutions"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#code-organization",
-    "href": "Documentation/MAINTENANCE.html#code-organization",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "✅ ORGANIZED:\nyears/1.g/funktionir/\n├── index.qmd              # Overview of functions\n├── linear-functions.qmd   # Specific topic\n├── quadratic-functions.qmd\n└── exponential-functions.qmd\n\n❌ MESSY:\nyears/1.g/funktionir/\n├── f1.qmd                 # Unclear names\n├── temp_backup.qmd        # Old files\n├── test123.qmd            # Test files\n└── copy_of_functions.qmd  # Duplicates\n\n\n\nFiles: - Use lowercase - Use hyphens for spaces: kvadratsetningar-introduktion.qmd - Be descriptive: tol-naturlig-og-heiltol.qmd not tol1.qmd - No spaces or special characters\nFolders: - Lowercase - Underscores for compound names: tol_og_algebra - Short but clear: funktionir not funktiónir_og_grafikar_2024\nSidebar IDs: - Use pattern: sidebar-1g, sidebar-2g, sidebar-3g - Consistent naming makes maintenance easier\n\n\n\n\n\n\n\n\n\n\n\nContent Type\nLocation\nExample\n\n\n\n\nHomepage\n/index.qmd\nMain landing page\n\n\nAbout page\n/about.qmd\nInformation about site\n\n\nYear overview\n/years/1.g/index.qmd\nYear-level home\n\n\nSubject overview\n/years/1.g/funktionir/index.qmd\nSubject home\n\n\nLesson content\n/years/1.g/funktionir/lesson-name.qmd\nIndividual lessons\n\n\nShared components\n/years/1.g/breadcrumb.html\nReusable includes\n\n\nGlobal styles\n/minerva_theme.scss\nAll CSS\n\n\nGlobal scripts\n/navbar-handler.html\nJavaScript\n\n\nConfiguration\n/_quarto.yml\nSite settings"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#regular-maintenance-tasks",
-    "href": "Documentation/MAINTENANCE.html#regular-maintenance-tasks",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "1. Check for Broken Links\nquarto render\n# Check terminal output for warnings about missing links\n2. Preview on Multiple Devices - Desktop browser - Tablet view (F12 → device toolbar) - Mobile phone\n3. Review Recent Changes\ngit log --oneline --since=\"1 week ago\"\ngit diff HEAD~7 HEAD\n\n\n\n1. Update Dependencies\nquarto check\n# Upgrade if new version available\n2. Clean Up Generated Files\n# Remove and regenerate docs\nrm -rf docs/\nquarto render\n3. Review and Clean - Remove unused images - Delete test files - Archive old content - Update outdated information\n4. Performance Check - Test loading speed - Check image sizes (compress if &gt;500KB) - Verify mobile responsiveness\n\n\n\n1. Content Audit - Review all lessons for accuracy - Update examples and practice problems - Check that all TODOs are addressed\n2. SEO & Accessibility - Verify all images have alt text - Check heading hierarchy (H1 → H2 → H3) - Test with screen reader if possible\n3. Backup Everything\n# Create full backup\ngit tag -a v1.0-backup-$(date +%Y%m%d) -m \"Quarterly backup\"\ngit push --tags"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#adding-new-content-workflow",
-    "href": "Documentation/MAINTENANCE.html#adding-new-content-workflow",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Create .qmd file in appropriate subject folder\nAdd proper frontmatter (title, sidebar, toc)\nInclude breadcrumb navigation\nWrite content with proper heading structure (##, ###)\nAdd to sidebar in _quarto.yml\nTest locally with quarto preview\nCheck TOC appears on right side\nVerify sidebar navigation works\nTest on mobile view\nCommit changes with descriptive message\nPush and verify deployment\n\n\n\n\nSave this as a starting point:\n---\ntitle: \"Your Lesson Title Here\"\nsidebar: sidebar-1g\ntoc: true\ntoc-location: right\n---\n\n# Include breadcrumb: {{&lt; include ../breadcrumb.html &gt;}}\n\n## Introduction\n\nBrief introduction to the topic...\n\n## Key Concepts\n\n### Concept 1\n\nExplanation...\n\n**Example:**\n\n$$\n\\text{Math formula here}\n$$\n\n### Concept 2\n\nMore explanation...\n\n## Practice Problems\n\n1. Problem 1\n2. Problem 2\n3. Problem 3\n\n## Summary\n\n- Key point 1\n- Key point 2\n- Key point 3\n\n## Further Reading\n\n- [Related Lesson 1](link1.qmd)\n- [Related Lesson 2](link2.qmd)\n\n\n\nStep-by-step:\n\nCreate folder structure\nmkdir years/1.g/new-subject\nCreate index.qmd\n---\ntitle: \"Subject Name\"\nsidebar: sidebar-1g\n---\n\n## Overview\nDescription of this subject...\n\n## Topics\n- [Topic 1](topic-1.qmd)\n- [Topic 2](topic-2.qmd)\nAdd to _quarto.yml sidebar\n\nFind the correct sidebar (sidebar-1g)\nAdd new section with emoji icon\nList all lessons in the subject\n\nCreate lessons\n\nUse lesson template above\nConsistent naming\nProper frontmatter\n\nTest thoroughly\nquarto preview\n# Navigate through all new pages"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#styling-best-practices",
-    "href": "Documentation/MAINTENANCE.html#styling-best-practices",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Edit minerva_theme.scss when you want to: - Change colors site-wide - Adjust spacing or typography - Modify hover effects - Update responsive breakpoints - Add new component styles\nDon’t edit styles for: - Content-specific formatting (use Quarto markdown features) - One-off styling needs (use inline CSS in .qmd files)\n\n\n\nThe theme file is organized in sections:\n/* 1. Variables - Change colors, shadows, fonts */\n:root { ... }\n\n/* 2. Base Styles - Body, typography */\nbody { ... }\n\n/* 3. Components - Navbar, sidebar, TOC */\n.navbar { ... }\n\n/* 4. Layout - Grid, content area */\n#quarto-content { ... }\n\n/* 5. Responsive - Mobile breakpoints */\n@media (max-width: 991px) { ... }\n\n/* 6. Utilities - Helpers, animations */\n.animate-slide-left { ... }\nAdd new styles at the appropriate section!\n\n\n\nUse CSS variables for consistency:\n/* ✅ GOOD - Uses variables */\n.my-element {\n  background: var(--minerva-primary);\n  color: var(--minerva-text);\n}\n\n/* ❌ BAD - Hardcoded colors */\n.my-element {\n  background: #0F172A;\n  color: #1F2937;\n}\n\n\n\nAlways test at these breakpoints:\n\n1200px+ - Large desktop\n992px-1199px - Desktop\n768px-991px - Tablet\n576px-767px - Large phone\n&lt;576px - Small phone\n\nUse mobile-first approach:\n/* ✅ GOOD - Mobile first */\n.element {\n  font-size: 14px;\n}\n\n@media (min-width: 768px) {\n  .element {\n    font-size: 16px;\n  }\n}\n\n/* ❌ BAD - Desktop first (harder to maintain) */\n.element {\n  font-size: 16px;\n}\n\n@media (max-width: 767px) {\n  .element {\n    font-size: 14px;\n  }\n}"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#performance-optimization",
-    "href": "Documentation/MAINTENANCE.html#performance-optimization",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Before adding images:\n\nCompress images: Use TinyPNG\nResize appropriately:\n\nHero images: 1920x800px\nCard images: 600x400px\nIcons: 128x128px\n\nUse correct format:\n\nPhotos: .jpg\nGraphics/logos: .png\nIcons: .svg\n\n\n\n\n\nKeep _quarto.yml clean: - Remove commented-out sections - No duplicate entries - Proper indentation\nMinimize custom JavaScript: - Current navbar-handler.html is necessary - Avoid adding more scripts unless critical\n\n\n\nCheck your site speed: 1. Build site: quarto render 2. Test: Open docs/index.html in browser 3. Check DevTools: Network tab → Page load time 4. Goal: &lt;2 seconds on 3G connection\nIf slow: - Compress images - Remove unused CSS - Minimize large math equations on homepage"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#backup-version-control",
-    "href": "Documentation/MAINTENANCE.html#backup-version-control",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Commit messages:\n# ✅ GOOD - Clear and descriptive\ngit commit -m \"Add quadratic equations lesson to 1.g functions\"\ngit commit -m \"Fix TOC not appearing on mobile devices\"\ngit commit -m \"Update color scheme to darker blue theme\"\n\n# ❌ BAD - Vague or unclear\ngit commit -m \"updates\"\ngit commit -m \"fix stuff\"\ngit commit -m \"asdfasdf\"\nBranching strategy:\n# Create feature branch\ngit checkout -b add-statistics-lessons\n\n# Make changes, test thoroughly\nquarto preview\n\n# Commit and push\ngit add .\ngit commit -m \"Add initial statistics lessons for 1.g\"\ngit push origin add-statistics-lessons\n\n# Merge when ready\ngit checkout main\ngit merge add-statistics-lessons\ngit push origin main\n\n\n\nWhat to backup: - ✅ All .qmd files - ✅ _quarto.yml - ✅ minerva_theme.scss - ✅ Custom HTML files - ✅ Images folder - ❌ docs/ folder (auto-generated) - ❌ .quarto/ folder (cache)\nAutomated backups:\n# Create backup script (backup.sh)\n#!/bin/bash\nDATE=$(date +%Y%m%d)\ntar -czf \"backup_minerva_$DATE.tar.gz\" \\\n  --exclude='docs' \\\n  --exclude='.quarto' \\\n  --exclude='node_modules' \\\n  ."
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#common-issues-solutions",
-    "href": "Documentation/MAINTENANCE.html#common-issues-solutions",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Symptoms: Left sidebar missing on lesson pages\nSolutions: 1. Check frontmatter has sidebar: sidebar-1g 2. Verify sidebar ID matches in _quarto.yml 3. Restart preview server 4. Clear browser cache\n\n\n\nSymptoms: No table of contents on right side\nSolutions: 1. Ensure frontmatter has: yaml    toc: true    toc-location: right 2. Check heading structure (need at least 2 ## headings) 3. Verify _quarto.yml has grid configuration 4. Check minerva_theme.scss has TOC styles\n\n\n\nSymptoms: CSS changes don’t appear in browser\nSolutions: 1. Hard refresh: Ctrl + Shift + R 2. Clear browser cache completely 3. Stop and restart quarto preview 4. Check browser console for CSS errors 5. Verify no typos in minerva_theme.scss\n\n\n\nSymptoms: 404 errors or “Page not found”\nSolutions: 1. Check file path is correct and relative 2. Use .qmd extension in links, not .html 3. Verify file exists in correct location 4. Check for typos in filename 5. Run quarto render and check for warnings\n\n\n\nSymptoms: Content overlaps or sidebar doesn’t work on mobile\nSolutions: 1. Test with browser DevTools device toolbar 2. Check responsive breakpoints in CSS 3. Verify viewport meta tag (Quarto adds automatically) 4. Test on actual device, not just emulator 5. Check for hardcoded widths in custom CSS\n\n\n\nSymptoms: LaTeX shows as plain text\nSolutions: 1. Verify math: true in _quarto.yml 2. Check syntax: Use $$ for display, $ for inline 3. Escape special characters if needed 4. Test with simple equation first: $x = 5$ 5. Check browser console for KaTeX errors"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#monitoring-analytics",
-    "href": "Documentation/MAINTENANCE.html#monitoring-analytics",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "User behavior: - Most visited pages - Average time on page - Mobile vs. desktop ratio - Popular subjects\nTechnical metrics: - Page load times - Broken links - Error rates - Browser compatibility\n\n\n\nGoogle Analytics 4: 1. Create GA4 property 2. Get measurement ID 3. Add to _quarto.yml: yaml    website:      google-analytics: \"G-XXXXXXXXXX\"\nSimple alternative: - Use GitHub Pages insights - Check commit history for content popularity - Monitor issues/feedback from users"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#deployment-checklist",
-    "href": "Documentation/MAINTENANCE.html#deployment-checklist",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Before deploying updates:\n\nTest locally with quarto preview\nCheck all links work\nVerify images load\nTest on mobile view\nReview git status for unwanted files\nRun quarto render successfully\nCheck for render errors/warnings\nCommit with clear message\nPush to repository\nWait for GitHub Pages to deploy (2-5 minutes)\nVisit live site and spot-check\nTest critical pages on live site"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#getting-help",
-    "href": "Documentation/MAINTENANCE.html#getting-help",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "When things go wrong:\n\nCheck this guide - Common issues section\nSearch Quarto docs - quarto.org/docs\nReview error messages - Often tell you exactly what’s wrong\nCheck git history - What changed recently?\ngit log --oneline -10\ngit diff HEAD~1 HEAD\nAsk for help - GitHub Issues or community forums\n\nWhen reporting issues: - Describe what you expected - Describe what happened instead - Share error messages (copy full text) - List steps to reproduce - Mention browser/device used"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#additional-resources",
-    "href": "Documentation/MAINTENANCE.html#additional-resources",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Quarto: - Official Documentation - Quarto GitHub - Quarto Community\nCSS & Design: - MDN Web Docs - CSS Tricks - Can I Use - Check browser support\nGit: - Git Documentation - GitHub Guides"
-  },
-  {
-    "objectID": "Documentation/MAINTENANCE.html#maintenance-checklist",
-    "href": "Documentation/MAINTENANCE.html#maintenance-checklist",
-    "title": "🛠️ Minerva Maintenance Guide",
-    "section": "",
-    "text": "Print or save this checklist:\n\n\n\nCommit changes with descriptive messages\nTest changes in preview before committing\nCheck for console errors\n\n\n\n\n\nReview recent changes\nCheck for broken links\nTest on mobile device\n\n\n\n\n\nUpdate Quarto if new version available\nClean up unused files\nReview and update outdated content\nCheck site performance\n\n\n\n\n\nFull content audit\nComplete backup\nReview analytics (if set up)\nUpdate documentation\n\n\nKeep your Minerva site clean, fast, and maintainable! 🚀\nLast updated: November 2025"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html",
-    "href": "Documentation/QUICKSTART.html",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "New to the Minerva project? This guide will get you up and running in 5 minutes!\n\n\n\nInstall Quarto: https://quarto.org/docs/get-started/\nClone the repository (if using Git)\nOpen in your text editor (VS Code recommended)\n\n\n\n\n\n\ncd quarto_2_test\nquarto preview\nYour browser will open automatically. The site will auto-reload when you make changes!\n\n\n\nEdit the homepage: 1. Open index.qmd 2. Change any text 3. Save the file 4. Watch the browser auto-reload ✨\n\n\n\nCreate a test lesson: 1. Copy an existing lesson file in years/1.g/funktionir/ 2. Rename it to my-test-lesson.qmd 3. Change the title in the frontmatter 4. Add it to _quarto.yml under the Funktiónir section\n\n\n\n\n\n\nNew lesson page:\n# 1. Create file\nyears/1.g/subject-name/my-lesson.qmd\n\n# 2. Add frontmatter:\n---\ntitle: \"My Lesson\"\nsidebar: sidebar-1g\ntoc: true\ntoc-location: right\n---\n\n# 3. Add to _quarto.yml sidebar\nNew subject:\n# 1. Create folder\nmkdir years/1.g/new-subject\n\n# 2. Create index.qmd in that folder\n\n# 3. Add section to _quarto.yml sidebar\n\n\n\nChange colors: - Edit minerva_theme.scss - Modify the :root variables at the top - Save and see changes instantly\nChange fonts: - Edit the @import line in minerva_theme.scss - Update --main-font variable\n\n\n\n# Generate the site\nquarto render\n\n# Site is created in docs/ folder\n# Ready to deploy to GitHub Pages!\n\n\n\n\nImportant files you'll edit:\n├── _quarto.yml          ← Site configuration & sidebars\n├── minerva_theme.scss   ← All styling\n├── index.qmd            ← Homepage\n├── years/\n│   └── 1.g/\n│       ├── index.qmd    ← Year overview\n│       └── subject/\n│           └── *.qmd    ← Lesson files\n\nDon't edit these:\n├── docs/                ← Auto-generated\n├── .quarto/             ← Cache\n└── navbar-handler.html  ← Works automatically\n\n\n\n\n\n## Heading Level 2\n### Heading Level 3\n\n**Bold text**\n*Italic text*\n\n[Link text](url.qmd)\n\n- List item 1\n- List item 2\n\n1. Numbered item\n2. Numbered item\n\n\n\nInline math: $E = mc^2$\n\nDisplay math:\n$$\nf(x) = x^2 + 2x + 1\n$$\n\n\n\n::: {.callout-note}\n## Note\nImportant information here\n:::\n\n::: {.callout-warning}\n## Warning\nBe careful about this!\n:::\n\n::: {.callout-tip}\n## Tip\nPro tip here\n:::\n\n\n\n\n# 1. Create a branch for your changes\ngit checkout -b add-my-lesson\n\n# 2. Make your changes and save\n\n# 3. Test locally\nquarto preview\n\n# 4. Commit your changes\ngit add .\ngit commit -m \"Add lesson about quadratic equations\"\n\n# 5. Push your branch\ngit push origin add-my-lesson\n\n# 6. Create a Pull Request on GitHub\n\n\n\nPreview not working?\nquarto preview --stop\nquarto preview\nStyles not updating? - Hard refresh: Ctrl + Shift + R (Windows) or Cmd + Shift + R (Mac)\nSidebar not showing? - Check frontmatter has sidebar: sidebar-1g - Check _quarto.yml syntax (spaces, not tabs)\nTOC not showing? - Add toc: true to frontmatter - Need at least 2 ## headings in content\n\n\n\n📖 Full Documentation: - README.md - Complete guide - MAINTENANCE.md - Detailed maintenance guide - Quarto Docs\n🐛 Found a Bug? - Check MAINTENANCE.md Common Issues section - Create an issue on GitHub\n💬 Questions? - Ask in GitHub Discussions - Contact the maintainers\n\n\n\n✅ Do: - Test changes before committing - Use descriptive commit messages - Keep files organized - Ask questions when unsure\n❌ Don’t: - Edit files in docs/ folder - Use spaces in filenames - Forget to add new pages to _quarto.yml - Commit broken code\n\n\n\n\n✅ Read this guide\n✅ Preview the site locally\n✅ Make a test edit\n📖 Read README.md for more details\n🎨 Customize colors and design\n📝 Add your first lesson\n🚀 Deploy to GitHub Pages\n\n\nWelcome to the Minerva project! 🎓\nYou’re now ready to contribute. Happy coding!\nFor detailed guides, see README.md and MAINTENANCE.md"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#prerequisites",
-    "href": "Documentation/QUICKSTART.html#prerequisites",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "Install Quarto: https://quarto.org/docs/get-started/\nClone the repository (if using Git)\nOpen in your text editor (VS Code recommended)"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#your-first-5-minutes",
-    "href": "Documentation/QUICKSTART.html#your-first-5-minutes",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "cd quarto_2_test\nquarto preview\nYour browser will open automatically. The site will auto-reload when you make changes!\n\n\n\nEdit the homepage: 1. Open index.qmd 2. Change any text 3. Save the file 4. Watch the browser auto-reload ✨\n\n\n\nCreate a test lesson: 1. Copy an existing lesson file in years/1.g/funktionir/ 2. Rename it to my-test-lesson.qmd 3. Change the title in the frontmatter 4. Add it to _quarto.yml under the Funktiónir section"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#common-tasks",
-    "href": "Documentation/QUICKSTART.html#common-tasks",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "New lesson page:\n# 1. Create file\nyears/1.g/subject-name/my-lesson.qmd\n\n# 2. Add frontmatter:\n---\ntitle: \"My Lesson\"\nsidebar: sidebar-1g\ntoc: true\ntoc-location: right\n---\n\n# 3. Add to _quarto.yml sidebar\nNew subject:\n# 1. Create folder\nmkdir years/1.g/new-subject\n\n# 2. Create index.qmd in that folder\n\n# 3. Add section to _quarto.yml sidebar\n\n\n\nChange colors: - Edit minerva_theme.scss - Modify the :root variables at the top - Save and see changes instantly\nChange fonts: - Edit the @import line in minerva_theme.scss - Update --main-font variable\n\n\n\n# Generate the site\nquarto render\n\n# Site is created in docs/ folder\n# Ready to deploy to GitHub Pages!"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#file-structure-at-a-glance",
-    "href": "Documentation/QUICKSTART.html#file-structure-at-a-glance",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "Important files you'll edit:\n├── _quarto.yml          ← Site configuration & sidebars\n├── minerva_theme.scss   ← All styling\n├── index.qmd            ← Homepage\n├── years/\n│   └── 1.g/\n│       ├── index.qmd    ← Year overview\n│       └── subject/\n│           └── *.qmd    ← Lesson files\n\nDon't edit these:\n├── docs/                ← Auto-generated\n├── .quarto/             ← Cache\n└── navbar-handler.html  ← Works automatically"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#cheat-sheet",
-    "href": "Documentation/QUICKSTART.html#cheat-sheet",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "## Heading Level 2\n### Heading Level 3\n\n**Bold text**\n*Italic text*\n\n[Link text](url.qmd)\n\n- List item 1\n- List item 2\n\n1. Numbered item\n2. Numbered item\n\n\n\nInline math: $E = mc^2$\n\nDisplay math:\n$$\nf(x) = x^2 + 2x + 1\n$$\n\n\n\n::: {.callout-note}\n## Note\nImportant information here\n:::\n\n::: {.callout-warning}\n## Warning\nBe careful about this!\n:::\n\n::: {.callout-tip}\n## Tip\nPro tip here\n:::"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#git-workflow-optional",
-    "href": "Documentation/QUICKSTART.html#git-workflow-optional",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "# 1. Create a branch for your changes\ngit checkout -b add-my-lesson\n\n# 2. Make your changes and save\n\n# 3. Test locally\nquarto preview\n\n# 4. Commit your changes\ngit add .\ngit commit -m \"Add lesson about quadratic equations\"\n\n# 5. Push your branch\ngit push origin add-my-lesson\n\n# 6. Create a Pull Request on GitHub"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#troubleshooting",
-    "href": "Documentation/QUICKSTART.html#troubleshooting",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "Preview not working?\nquarto preview --stop\nquarto preview\nStyles not updating? - Hard refresh: Ctrl + Shift + R (Windows) or Cmd + Shift + R (Mac)\nSidebar not showing? - Check frontmatter has sidebar: sidebar-1g - Check _quarto.yml syntax (spaces, not tabs)\nTOC not showing? - Add toc: true to frontmatter - Need at least 2 ## headings in content"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#need-more-help",
-    "href": "Documentation/QUICKSTART.html#need-more-help",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "📖 Full Documentation: - README.md - Complete guide - MAINTENANCE.md - Detailed maintenance guide - Quarto Docs\n🐛 Found a Bug? - Check MAINTENANCE.md Common Issues section - Create an issue on GitHub\n💬 Questions? - Ask in GitHub Discussions - Contact the maintainers"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#tips-for-success",
-    "href": "Documentation/QUICKSTART.html#tips-for-success",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "✅ Do: - Test changes before committing - Use descriptive commit messages - Keep files organized - Ask questions when unsure\n❌ Don’t: - Edit files in docs/ folder - Use spaces in filenames - Forget to add new pages to _quarto.yml - Commit broken code"
-  },
-  {
-    "objectID": "Documentation/QUICKSTART.html#next-steps",
-    "href": "Documentation/QUICKSTART.html#next-steps",
-    "title": "🚀 Quick Start Guide for Contributors",
-    "section": "",
-    "text": "✅ Read this guide\n✅ Preview the site locally\n✅ Make a test edit\n📖 Read README.md for more details\n🎨 Customize colors and design\n📝 Add your first lesson\n🚀 Deploy to GitHub Pages\n\n\nWelcome to the Minerva project! 🎓\nYou’re now ready to contribute. Happy coding!\nFor detailed guides, see README.md and MAINTENANCE.md"
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#eginleikar-hjá-tølum",
-    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#eginleikar-hjá-tølum",
-    "title": "Eginleikar hjá tølum",
-    "section": "",
-    "text": "Til tey reelu tølini hoyra nakrar reglur, sum eisini kunnu kallast eginleikar.",
+    "text": "Vit siga, at tveir tríkantar eru einsvinklaðir, um teirra vinklar eru parvist líka stórir.\nEinsvinklaðir tríkantar hava sama skap, og tann einasti munurin á teimum verður, at tann ein er ein stórleiki/lítleiki av teimum øðrum.  Á teikningini kunnu vit síggja at:\n\\[\\angle A = \\angle D\\] \\[\\angle B = \\angle E\\] \\[\\angle C = \\angle F\\]\nTí eru teir tveir tríkantar einsvinklaðir.\nUm ein við symbolum vilt skriva, at teir eru einsvinklaðir, skrivur ein:\n\\[\\triangle ABC \\sim \\triangle DEF\\]",
     "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Eginleikar hjá tølum"
+      "📐 Geometri",
+      "🔺 Trýkantar - Grundleggjandi",
+      "Einsvinklaðir trýkantar"
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#additión",
-    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#additión",
-    "title": "Eginleikar hjá tølum",
-    "section": "Additión",
-    "text": "Additión\nFyri additión eru hesir eginleikarnir galdandi:\n\nKommutativ lóg\n\\[a + b = b + a\\]\n\n\nAssociativ lóg\n\\[a + (b + c) = (a + b) + c\\]\n\n\nNeutralt element\n\\[a + 0 = a\\]\n\n\nØvugt tal (Invers)\n\\[a + (-a) = 0\\]",
+    "objectID": "years/1.g/geometri/einsvinkladir_trykantar.html#samsvarandi-síður",
+    "href": "years/1.g/geometri/einsvinkladir_trykantar.html#samsvarandi-síður",
+    "title": "Einsvinklaðir trýkantar",
+    "section": "Samsvarandi síður",
+    "text": "Samsvarandi síður\nTær síður ið liggja framfyri líkar vinklum kallast samsvarandi. Til dømis eru \\(a\\) og \\(d\\) samsvarandi síður á teikningini, tí teir liggja framfyri vinklum \\(A\\) og \\(D\\), ið eru líka stórir. Síðurnar \\(b\\) og \\(e\\) eru eisini samsvarandi, og eins eru \\(c\\) og \\(f\\).",
     "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Eginleikar hjá tølum"
+      "📐 Geometri",
+      "🔺 Trýkantar - Grundleggjandi",
+      "Einsvinklaðir trýkantar"
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#multiplikation",
-    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#multiplikation",
-    "title": "Eginleikar hjá tølum",
-    "section": "Multiplikation",
-    "text": "Multiplikation\nFyri multiplikation (ganga) eru hesir eginleikar galdandi:\n\nKommutativ lóg\n\\[a \\cdot b = b \\cdot a\\]\n\n\nAssociativ lóg\n\\[a \\cdot (b \\cdot c) = (a \\cdot b) \\cdot c\\]\n\n\nDistributiv lóg\n\\[a \\cdot (b + c) = a \\cdot b + a \\cdot c\\]\n\n\nNeutralt element\n\\[a \\cdot 1 = a\\]\n\n\nØvugt tal (Invers)\n\\[a \\cdot \\frac{1}{a} = 1, \\quad a \\neq 0\\]",
+    "objectID": "years/1.g/geometri/einsvinkladir_trykantar.html#skalafaktorin",
+    "href": "years/1.g/geometri/einsvinkladir_trykantar.html#skalafaktorin",
+    "title": "Einsvinklaðir trýkantar",
+    "section": "Skalafaktorin",
+    "text": "Skalafaktorin\nSum nevnt omanfyri verður \\(\\triangle DEF\\) ein stórleiki av \\(\\triangle ABC\\).\nTað finnast tí eitt målstokk-lutfall millum tey tveir tríkanta. Um vit siga, at teir eru í målstokk \\(1:k\\), so geldur at:\n\\[d = k \\cdot a\\] \\[e = k \\cdot b\\] \\[f = k \\cdot c\\]\nHetta merkir, at lutfallið millum tær samsvarandi síður verður konstant:\n\\[\\frac{d}{a} = \\frac{e}{b} = \\frac{f}{c} = k\\]\nHetta er ein væl mikilvíslig eiginleiki hjá einsvinkluðum tríkantum, sum man millum annað brúkar til at útskýra kosinus og sinus.",
     "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Eginleikar hjá tølum"
+      "📐 Geometri",
+      "🔺 Trýkantar - Grundleggjandi",
+      "Einsvinklaðir trýkantar"
     ]
   },
   {
-    "objectID": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#dømir",
-    "href": "years/1.g/tol_og_algebra/eginleikar_hja_tolum.html#dømir",
-    "title": "Eginleikar hjá tølum",
-    "section": "Dømir",
-    "text": "Dømir\nNú koma vit við nøkrum dømum",
+    "objectID": "years/1.g/geometri/einsvinkladir_trykantar.html#lutfall-innan-sama-tríkanta",
+    "href": "years/1.g/geometri/einsvinkladir_trykantar.html#lutfall-innan-sama-tríkanta",
+    "title": "Einsvinklaðir trýkantar",
+    "section": "Lutfall innan sama tríkanta",
+    "text": "Lutfall innan sama tríkanta\nMålstokk-lutfallið merkir eisini, at lutfallið millum tvær síður í sama tríkantanum verður hið sama sum lutfallið millum tær samsvarandi síður í øðrum tríkantanum. Til dømis:\n\\[\\frac{a}{b} = \\frac{k \\cdot a}{k \\cdot b} = \\frac{d}{e}\\]\nHer lengdu vit brotið við \\(k\\), frameftir síðan síggja vit at \\(d = k \\cdot a\\) og \\(e = k \\cdot b\\).",
     "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Eginleikar hjá tølum"
+      "📐 Geometri",
+      "🔺 Trýkantar - Grundleggjandi",
+      "Einsvinklaðir trýkantar"
     ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipan-av-rokniháttum",
-    "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipan-av-rokniháttum",
-    "title": "Stigskipan av rokniháttum",
-    "section": "",
-    "text": "Tá vit rokna brúka vit ofta fleiri ymiskar roknihættir í einum roknistykkið, tað kann til dømis vera leggja til, trekkja frá, falda osv. Men raðfylgjan av útrokningunum er ikki líkamikið.\n\n\nSum dømi kunnu vit rokna:\n\\[5 + 2 \\cdot 7 = 7 \\cdot 7 = 49\\]\n\\[5 + 2 \\cdot 7 = 5 + 14 = 19\\]\nHer síggja vit at vit fáa tvey ymisk úrslit alt eftir um vit leggja til fyrst ella um vit falda fyrst.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Stigskipan av rokniháttum"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipanin",
-    "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#stigskipanin",
-    "title": "Stigskipan av rokniháttum",
-    "section": "Stigskipanin",
-    "text": "Stigskipanin\nFyri at hetta ikki skal skapa trupuleikar tá fleiri skulu rokna tey somu roknustykkini, hava vit eina stigskipan av roknihættunum:\n\nFerðrót og potensar\nFalda og býta\nLeggja til og trekkja frá",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Stigskipan av rokniháttum"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#klombur",
-    "href": "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.html#klombur",
-    "title": "Stigskipan av rokniháttum",
-    "section": "Klombur",
-    "text": "Klombur\nUm vit vilja víkja frá stigskipanini brúka við klombur.\nUm vit taka tað fyrsta dømi aftur, so er tað rætta at falda fyrst:\n\\[5 + 2 \\cdot 7 = 5 + 14 = 19\\]\nMen um vit vilja hava at ein leggur til fyrst brúka vit klombur á hendan hátt:\n\\[(5 + 2) \\cdot 7 = 7 \\cdot 7 = 49\\]",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Grundleggjandi Tal-ástøði",
-      "Stigskipan av rokniháttum"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/brot-01.html#brot",
-    "href": "years/1.g/tol_og_algebra/brot-01.html#brot",
-    "title": "Brot 1",
-    "section": "",
-    "text": "Her er ein innleiðsla til hvat eitt brot er.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Brot",
-      "Brot 1"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/kvadratsetningar-domi.html#kvadratsetningar-dømi",
-    "href": "years/1.g/tol_og_algebra/kvadratsetningar-domi.html#kvadratsetningar-dømi",
-    "title": "Kvadratsetningar dømi",
-    "section": "",
-    "text": "Kvadratsetningarna brúka vit ofta tá vit skulu stytta eitt ella fleiri úttrykk. Vit brúka kvadratsetningarnar tá vit hava eitt roknistykki har ein parantes stendur í øðrum. Tá eitt úttrykk stendur í øðrum, kallast tað eitt kvadrat, tað er her kvadratsetningarnir koma frá.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Kvadratsetningar",
-      "Kvadratsetningar dømi"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#tri-kvadratsetningar",
-    "href": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#tri-kvadratsetningar",
-    "title": "Kvadratsetningar introduktión",
-    "section": "Tri kvadratsetningar",
-    "text": "Tri kvadratsetningar\nHesi eru tær tri kvadratsetningarnir:\n\n\\((a + b)^2 = a^2 + 2ab + b^2\\)\n\\((a - b)^2 = a^2 - 2ab + b^2\\)\n\\((a + b)(a - b) = a^2 - b^2\\)",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Kvadratsetningar",
-      "Kvadratsetningar introduktión"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#kvadratsetningar",
-    "href": "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html#kvadratsetningar",
-    "title": "Kvadratsetningar introduktión",
-    "section": "Kvadratsetningar",
-    "text": "Kvadratsetningar\nSoleiðis síggja kvadratsetningarnir út:\n\n\\((a + b)^2 = a^2 + 2ab + b^2\\)\n\\((a - b)^2 = a^2 - 2ab + b^2\\)\n\\((a + b)(a - b) = a^2 - b^2\\)",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Kvadratsetningar",
-      "Kvadratsetningar introduktión"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.html#algebraiskt-prógv",
-    "href": "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.html#algebraiskt-prógv",
-    "title": "Prógv: 1.kvadratsetningur algebraiskt",
-    "section": "Algebraiskt prógv",
-    "text": "Algebraiskt prógv\n\\[\n(a + b)^2 = (a + b)(a + b) = a^2 + ab + ba + b^2 = a^2 + 2ab + b^2\n\\]",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Kvadratsetningar",
-      "Prógv: 1.kvadratsetningur algebraiskt"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/potensar.html#hvat-eru-potensar",
-    "href": "years/1.g/tol_og_algebra/potensar.html#hvat-eru-potensar",
-    "title": "Potensar",
-    "section": "Hvat eru potensar?",
-    "text": "Hvat eru potensar?\nPotensar nevna vit tað tá vit lyfta eitt tal upp í einum øðrum talið. Um vit taka dømi við \\(5^4\\) so siga vit “fimm í fjórða”, og hetta brúka vit bara tá tað sama talið verður falda við sær sjálvum fleiri ferðir.\nEitt tal ið er skriva upp sum \\(5^4\\) kallast ein potensur, har 5 er grundtalið og 4 er eksponenturin, tvs.:\n\\[\\text{grundtal}^{\\text{eksponent}} = \\text{potensur}\\]",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Potensar",
-      "Potensar"
-    ]
-  },
-  {
-    "objectID": "years/1.g/tol_og_algebra/potensar.html#potensroknireglur",
-    "href": "years/1.g/tol_og_algebra/potensar.html#potensroknireglur",
-    "title": "Potensar",
-    "section": "Potensroknireglur",
-    "text": "Potensroknireglur\nTað eru nógvar potensroknireglur, sum gera tað lættari at rokna við potensum. Vit fara at gjøgnumganga allar og koma við dømum.",
-    "crumbs": [
-      "📚 Tøl og Algebra",
-      "Potensar",
-      "Potensar"
-    ]
-=======
->>>>>>> 24e3d27cd450c97eecec5fd9cc7b8be5bc7d0f78
   }
 ]
