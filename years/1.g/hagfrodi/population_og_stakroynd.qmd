@@ -1,40 +1,31 @@
 ﻿---
 title: "Populatión og stakroynd"
 ---
-
-## Innleiðing
-
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ### Hvat er populatión?
 
-Populatión er heila mengið av einstaklingum ella eindum, sum vit vilja kanna.
+Populatión er tann stóra mongdin ið við ynskja at kanna.
 
 ### Hvat er stakroynd?
 
-Stakroynd er ein partur av populatiónini, sum vit velja at kanna.
+Stakroynd er ein partur av populatiónini, sum vit velja, og kunnu kanna.
 
 ### Dømi
 
 **Populatión:** Allir íbúgvar í Føroyum
 
-**Stakroynd:** 1000 tilvildarliga vald íbúgvar
+**Stakroynd:** 500 tilvildarliga valdir íbúgvar
 
 ### Orsøk til stakroynd
 
-- Tað er ov dyrt at kanna heilu populatiónina
+- Tað er ov dyrt at kanna alla populatiónina
 - Tað tekur ov langan tíð
-- Tað er ómøguligt (t.d. alla fiska í sjónum)
+- Tað er ógjørligt (t.d. alla fiska í sjónum)
 
 ### Góð stakroynd
 
 Ein góð stakroynd skal vera:
-- Representativ fyri populatiónina
-- Tilvildarlig vald
+- Umboðandi fyri populatiónina
+- Tilvildarliga vald
 - Nóg stór
 
 ## Filmur 
