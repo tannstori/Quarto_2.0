@@ -1,76 +1,9 @@
 ﻿---
-title: "Potensfunktiónir 1"
+title: "Finn a og b"
 ---
 
-## Innleiðing
+## Dømi
 
-Henda undirvísing innleiðir evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Hvat er potensfunktión?
-
-Ein potensfunktión er ein funktión av formuni:
-
-$$
-f(x) = x^n
-$$
-
-har $n$ er eitt fast tal (potensi).
-
-### Einfaldar dømi
-
-**$n = 1$:** Linjurættur
-$$
-f(x) = x
-$$
-
-**$n = 2$:** Kvadratisk
-$$
-f(x) = x^2
-$$
-
-**$n = 3$:** Kubisk
-$$
-f(x) = x^3
-$$
-
-### Eginleikar
-
-**Um $n$ er jøvnt:**
-- $f(-x) = f(x)$ (jøvn funktión)
-- Symmetrisk um $y$-ásin
-
-**Um $n$ er odda:**
-- $f(-x) = -f(x)$ (odda funktión)
-- Rótasymmetrisk
-
-### Teldumál
-
-**Stórt positivt $n$:**
-Funktiónin veksur skjótt fyri stór virði av $x$.
-
-**Smátt positivt $n$ ($0 < n < 1$):**
-Funktiónin veksur seint.
-
-**Negativt $n$:**
-Funktiónin er reciprokur og hevur asymptótar.
-
-### Dømi við virðum
-
-$$
-f(x) = x^2
-$$
-
-| x  | f(x) |
-|----|------|
-| -2 | 4    |
-| -1 | 1    |
-| 0  | 0    |
-| 1  | 1    |
-| 2  | 4    |
 
 ## Filmur 
-{{< video https://youtu.be/W3J6A6v2LPM?si=6iIqrCFNRkZ0IfsP >}}
+{{< video https://www.youtube.com/watch?v=49jM_ROK4RE >}}

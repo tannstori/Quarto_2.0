@@ -1,13 +1,6 @@
 ﻿---
 title: "Finn a og b - dømi"
 ---
-# Yvirskrift
-
-### formil
-
-$$
-f(x) = a \cdot b^x
-$$
 
 ### Dømi 1: Tvey punkt
 
@@ -16,22 +9,22 @@ $$
 f(0) = 5 \text{   og   } f(2) = 20
 $$
 
-**Finn a:**
-$$
-f(0) = a \cdot b^0 = a = 5
-$$
-
 **Finn b:**
 $$
-f(2) = 5 \cdot b^2 = 20
+f(0) = b \cdot a^0 = b = 5
+$$
+
+**Finn a:**
+$$
+f(2) = 5 \cdot a^2 = 20
 $$
 
 $$
-b^2 = 4
+a^2 = 4
 $$
 
 $$
-b = 2
+a = 2
 $$
 
 **Funktión:**
@@ -39,69 +32,63 @@ $$
 f(x) = 5 \cdot 2^x
 $$
 
-### Dømi 2: Tvey onnur punkt
+### Dømi 2: 
 
 Givið: $f(1) = 6$ og $f(3) = 24$
 
-*test*
-
-**system av líkningum:**
+**Líkningaskipan:**
 $$
-6 = a \cdot b^1
+6 = b \cdot a^1
 $$
 $$
-24 = a \cdot b^3
+24 = b \cdot a^3
 $$
 
-**Být annan við tann fyrra:**
+**Být næsta líkningina við tann fyrra:**
 $$
-\frac{24}{6} = \frac{a \cdot b^3}{a \cdot b} = b^2
+\frac{24}{6} = \frac{b \cdot a^3}{b \cdot a} = a^2
 $$
 
 $$
-b^2 = 4
+a^2 = 4
 $$
 
 $$
-b = 2
+a = 2
 $$
 
-**Finn a:**
+**Finn b:**
 $$
-6 = a \cdot 2
-$$
-
-$$
-a = 3
+6 = b \cdot 2
 $$
 
-**Funktión:**
+$$
+b = 3
+$$
+
+**Loysn:**
 $$
 f(x) = 3 \cdot 2^x
 $$
 
 ### Dømi 3: Praktiskt
-
-*test*
-**test**
-
-Talið av bakterium veksur frá 100 til 400 uppá 6 tímum.
+Talið av bakterium veksur frá 100 til 400 uppá 6 tímar.
 
 **Við $x$ í tímum:**
 $$
-100 = a \cdot b^0 \Rightarrow a = 100
+100 = b \cdot a^0 \Rightarrow b = 100
 $$
 
 $$
-400 = 100 \cdot b^6
+400 = 100 \cdot a^6
 $$
 
 $$
-b^6 = 4
+a^6 = 4
 $$
 
 $$
-b = 4^{\frac{1}{6}} = 2^{\frac{2}{6}} = 2^{\frac{1}{3}} \approx 1.26
+a = 4^{\frac{1}{6}} = 2^{\frac{2}{6}} = 2^{\frac{1}{3}} \approx 1.26
 $$
 
 **Funktión:**
@@ -111,24 +98,24 @@ $$
 
 Hetta merkir ein 26% vøkstur um tíman.
 
-### Dømi 4: Minking
+### Dømi 4: 
 
-Eitt radioaktivt evnið minkar frá 80 g til 20 g ígjøgnum 10 ár.
-
-$$
-a = 80
-$$
+Eitt radioaktivt evnið fellur frá 80 g aktivum tilfari til 20 g ígjøgnum 10 ár.
 
 $$
-20 = 80 \cdot b^{10}
+b = 80
 $$
 
 $$
-b^{10} = 0.25
+20 = 80 \cdot a^{10}
 $$
 
 $$
-b = 0.25^{0.1} \approx 0.87
+a^{10} = 0.25
+$$
+
+$$
+a = 0.25^{0.1} \approx 0.87
 $$
 
 **Funktión:**

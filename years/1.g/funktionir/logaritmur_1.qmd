@@ -1,14 +1,6 @@
 ﻿---
-title: "Logaritmur 1"
+title: "Innleiðing"
 ---
-
-## Innleiðing
-
-Henda undirvísing innleiðir evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ### Hvat er logaritmur?
 
@@ -24,21 +16,21 @@ $$
 x = \log_a(b)
 $$
 
-### Vanligastu grunnir
+### Vanligastu grundtøl
 
-**Grunddur 10 (vanligur logaritmur):**
+**Grundtal 10 ('vanliga' logaritman):**
 $$
 \log(x) = \log_{10}(x)
 $$
 
-**Grunddur $e$ (náttúrligur logaritmur):**
+**Grundtal $e$ (náttúrliga logaritman):**
 $$
 \ln(x) = \log_e(x)
 $$
 
 har $e \approx 2.71828$
 
-### Einfaldar dømi
+### Einfald dømi
 
 $$
 \log(100) = 2 \quad \text{tí } 10^2 = 100
@@ -56,28 +48,28 @@ $$
 \log(0.1) = -1 \quad \text{tí } 10^{-1} = 0.1
 $$
 
-### Samband millum eksponential og logaritmur
+### Samband millum eksponential- og logaritmu-funtiónir
 
 **Eksponentialfunktión:**
 $$
 y = a^x
 $$
 
-**Logaritmfunktión:**
+**Logaritmufunktión:**
 $$
 x = \log_a(y)
 $$
 
-### Grafiskur sambandi
+### Grafiska sambandi
 
-Grafikurin av $y = \log(x)$ er grafikurin av $y = 10^x$ speglað um linjuna $y = x$.
+Grafurin av $y = \log(x)$ er grafurin av $y = 10^x$ speglað um linjuna $y = x$.
 
 ### Nýtsla
 
-Logaritmar verða nýttir til at:
+Logaritmur verða nýttar til at:
 - Loysa eksponentlíkar líkningar
 - Linearisera eksponentlíkar dáta
-- Mátgerð í rásindaløgum (pH, Richter, decibel)
+- Mát/skala í vísindini (pH, Richter, decibel)
 
 
 ## Filmur 

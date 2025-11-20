@@ -1,53 +1,44 @@
 ﻿---
-title: "Potensfunktiónir 2"
+title: "Potensfunktiónir 1"
 ---
 
-## Innleiðing
+### Grafar av potensfunktiónum
 
-Henda undirvísing fevnir um evnið.
+Grafurin fyri potensfunktiónunum er sera ymiskur, alt eftir hvat virðið á $a$ er:
 
-## Dummy Content
+**Makaðir potensar ($a = 2, 4, 6, ...$):**
+- Symmetriskur um $y$-ásan
+- Minstavirðið í (0, 0) (um $a > 0$)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Grafikur
-
-Grafikurin av potensfunktiónunum varierar við virðinum av $b$.
-
-**Jøvn potensar ($b = 2, 4, 6, ...$):**
-- Symmetriskur um $y$-ásin
-- Minimalvirði í (0, 0) (um $a > 0$)
-
-**Odda potensar ($b = 1, 3, 5, ...$):**
+**Ómakaðir potensar ($a = 1, 3, 5, ...$):**
 - Rótasymmetriskur
-- Fer ígjøgnum upphavið
 
-**Negativir potensar ($b < 0$):**
+**Negativir potensar ($a < 0$):**
 - Hava asymptótar við $x = 0$ og $y = 0$
-- Hyperbellignandi
+- Líkist einum hyperbell
 
-### Dømi: Teikna grafikur
+### Dømi: Tekna sjálv/ur
 
 **$f(x) = x^2$:**
-- Parabola
+- Párabul
 - Miðpunkt í (0, 0)
-- Opnar uppeftir
+- Opnar uppeftir /smílist
 
 **$f(x) = x^3$:**
 - Kubisk funktión
 - Fer ígjøgnum (0, 0)
-- Vaksa frá -∞ til ∞
+- Vaksa frá $-\infty$ til $ + \infty$
 
 **$f(x) = x^{-1} = \frac{1}{x}$:**
 - Hyperbola
 - Asymptótar við $x = 0$ og $y = 0$
 - Tveir bólkar
 
-### Ávirkan av $a$
+### Ávirkan av $b$
 
-Parameturin $a$ breytir:
-- Amplit (størð)
+Parameturin $b$ broytir:
+- Amplitudu (stødd)
 - Fortekin (upp ella niður)
 
 ## Filmur 
-{{< video https://youtu.be/49jM_ROK4RE?si=Z9NnwpPjtG1lpbvO >}}
+{{< video https://www.youtube.com/watch?v=cr-PECPblVs >}}

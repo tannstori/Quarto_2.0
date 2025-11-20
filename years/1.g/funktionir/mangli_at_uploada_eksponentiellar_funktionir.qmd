@@ -1,44 +1,36 @@
 ﻿---
-title: "Mangli at uploada hetta - Eksponentiellar funktiónir"
+title: "Innleiðing"
 ---
 
-## Innleiðing
-
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Almenn forma
+### Formil
 
 $$
-f(x) = a \cdot b^x
+f(x) = b\cdot a^x
 $$
 
 har:
-- $a$ er byrjanarvirðið
-- $b$ er vøkstursfakturin
+- $b$ er byrjanarvirðið
+- $a$ er vøkstursfakturin
 
 ### Eginleikar
 
-**Um $b > 1$:**
-Eksponentielur vøkstur (funktiónin veksur)
+**Um $a > 1$:**
+Eksponentiellur vøkstur (funktiónin er vaksandi)
 
-**Um $0 < b < 1$:**
-Eksponentielur minking (funktiónin minkir)
+**Um $0 < a < 1$:**
+Eksponentielt fall (funktiónin fellur)
 
-**Um $b = 1$:**
+**Um $a = 1$:**
 Konstant funktión
 
 ### Dømi
 
-**Vøkstur:**
+**Vaksandi:**
 $$
 f(x) = 2 \cdot 1.5^x
 $$
 
-**Minking:**
+**Fallandi:**
 $$
 f(x) = 100 \cdot 0.8^x
 $$
@@ -47,28 +39,24 @@ $$
 
 Eksponentiellar funktiónir verða nýttar til:
 - Populatiónsmodellir
-- Radioaktivur minking
+- Felli av radioaktivum tilfari
 - Rentur og kapitalvøkstur
-- Bakterievøkstur
-- Hvøld av sjúkum
+- Bakteriuvøkstur
 
-### Grafikur
+### Grafur
 
 Eksponentiellar funktiónir:
-- Fer ígjøgnum $(0, a)$
+- Gongur ígjøgnum $(0, b)$
 - Asymptota við $y = 0$
-- Altíð positivir (um $a > 0$)
+- Altíð positiv (um $b > 0$)
 
 ### Náttúrliga eksponentialfunktiónin
-
 $$
 f(x) = e^x
 $$
 
 har $e \approx 2.71828$ (Euler tali).
-
-Hetta er serliga týdningarmikil í matematikki og náttúruvísindum.
-
+Hetta talið er serliga týdningarmikil í matematikki og náttúruvísindum.
 
 ## Filmur 
-{{< video https://youtu.be/J9UuJkgCf8g?si=AzrGZStZdXDM-MdV >}}
+{{< video https://youtu.be/2imBePX7Ngk >}}
