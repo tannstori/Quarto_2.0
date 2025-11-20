@@ -2,40 +2,52 @@
 title: "Einsvinklaðir trýkantar"
 ---
 
-## Innleiðing
+## Hvat eru einsvinklaðir tríkantar?
 
-Henda undirvísing fevnir um evnið.
+Vit siga, at tveir tríkantar eru einsvinklaðir, um teirra vinklar eru parvist líka stórir.
 
-## Dummy Content
+Einsvinklaðir tríkantar hava sama skap, og tann einasti munurin á teimum verður, at tann ein er ein stórleiki/lítleiki av teimum øðrum.
+<!-- inset mynd her -->
+Á teikningini kunnu vit síggja at:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Definisión
+$$\angle A = \angle D$$
+$$\angle B = \angle E$$
+$$\angle C = \angle F$$
 
-Tveir trýkantar eru einsvinklaðir, um:
-- Allir samsvarandi vinklar eru líka stórir
-- Lutfallið millum samsvarandi síður er konstant
+Tí eru teir tveir tríkantar einsvinklaðir.
 
-### Eginleikar
+Um ein við symbolum vilt skriva, at teir eru einsvinklaðir, skrivur ein:
 
-Um trýkantar ABC og DEF eru einsvinklaðir, so:
+$$\triangle ABC \sim \triangle DEF$$
 
-$$
-\frac{AB}{DE} = \frac{BC}{EF} = \frac{AC}{DF} = k
-$$
+## Samsvarandi síður
 
-har $k$ er skalafakturin.
+Tær síður ið liggja framfyri líkar vinklum kallast samsvarandi. Til dømis eru $a$ og $d$ samsvarandi síður á teikningini, tí teir liggja framfyri vinklum $A$ og $D$, ið eru líka stórir. Síðurnar $b$ og $e$ eru eisini samsvarandi, og eins eru $c$ og $f$.
 
-### Kriterier fyri einsvinkling
+## Skalafaktorin
 
-Tveir trýkantar eru einsvinklaðir, um:
-1. **VVV:** Allir trý vinklar eru líkir
-2. **SSS:** Lutfallið millum allar síður er eins
-3. **SVS:** Tvey lutføll eru líka og vinkulin ímillum er líkur
+Sum nevnt omanfyri verður $\triangle DEF$ ein stórleiki av $\triangle ABC$.
 
-### Dømi
+Tað finnast tí eitt målstokk-lutfall millum tey tveir tríkanta. Um vit siga, at teir eru í målstokk $1:k$, so geldur at:
 
-Um ein trýkantur hevur síður 3, 4, 5 og ein annar hevur síður 6, 8, 10, so eru teir einsvinklaðir við skalafaktur $k = 2$.
+$$d = k \cdot a$$
+$$e = k \cdot b$$
+$$f = k \cdot c$$
+
+Hetta merkir, at lutfallið millum tær samsvarandi síður verður konstant:
+
+$$\frac{d}{a} = \frac{e}{b} = \frac{f}{c} = k$$
+
+Hetta er ein væl mikilvíslig eiginleiki hjá einsvinkluðum tríkantum, sum man millum annað brúkar til at útskýra kosinus og sinus.
+
+## Lutfall innan sama tríkanta
+
+Målstokk-lutfallið merkir eisini, at lutfallið millum tvær síður í sama tríkantanum verður hið sama sum lutfallið millum tær samsvarandi síður í øðrum tríkantanum. Til dømis:
+
+$$\frac{a}{b} = \frac{k \cdot a}{k \cdot b} = \frac{d}{e}$$
+
+Her lengdu vit brotið við $k$, frameftir síðan síggja vit at $d = k \cdot a$ og $e = k \cdot b$.
 
 ## Filmur 
 {{< video https://youtu.be/FFSOeIOqUNU?si=fd3pgK_08eblsUGc >}}
