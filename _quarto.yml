@@ -9,9 +9,9 @@ project:
   output-dir: docs  # Generated site goes here (for GitHub Pages)
 
 # Add these lines:
-execute:
-  freeze: auto  # Only re-render when source changes
-  cache: true   # Cache code outputs
+#execute:
+#  freeze: auto  # Only re-render when source changes
+#  cache: true   # Cache code outputs
 
 format:
   html:

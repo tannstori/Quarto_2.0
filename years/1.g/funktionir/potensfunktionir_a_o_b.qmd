@@ -2,9 +2,7 @@
 title: "Innleiðing"
 ---
 
-### Innleiðing
 **Potensfunktiónir** avmynda prosentvøkstur.
-
 Hetta gera tær soleiðis, at ein fastur prosentvøkstur eftir x-ásanum  elvir til ein fastan prosentvøkstur eftir y-ásanum.
 
 
@@ -12,21 +10,21 @@ Hetta gera tær soleiðis, at ein fastur prosentvøkstur eftir x-ásanum  elvir 
 Potensfunktiónir hava forskriftina:
 
 $$
-f(x) = a \cdot x^b
+f(x) = b \cdot x^a
 $$
 
 ### Prosentvøkstur
-Um vit hava $f(x) = a \cdot x^b$ og $x$ økist við einum faktor $k$ (t.e. $k = 1 + p$, har ið $p$ er prosentøkið í decimalform), so:
+Um vit hava $f(x) = b \cdot x^a$ og $x$ økist við einum faktor $k$ (t.e. $k = 1 + p$, har ið $p$ er prosentøkingin), so:
 $$
-f(kx) = a\,(kx)^b = k^b\,f(x).
+f(kx) = b\,(kx)^a= k^a\,f(x).
 $$
-Tí er relativa broytingin í f: k^b − 1. Fyribils fyri lítlar broytingar (p lítinn) gevur Taylorsnýsingin:
+Tí er lutfalsliga broytingin í f $k^a − 1$ %. Fyri smáar broytingar vita vit at:
 $$
-(1+p)^b \approx 1 + b\,p,
+(1+p)^b \approx 1 + a\,p,
 $$
-so prosentbroytingin í f er tilnæriliga b ferðir prosentbroytingina í x.
+so %-vísa broytingin í $f$ er tætt við $a$ ferðir prosentbroytingina í x.
 
-Dømi: um b = 3 og x økist 10% (p = 0.10), so vøkstur í f er (1.1)^3 − 1 ≈ 0.331 = 33.1% (tilnæriga 3·10% = 30%).
+Dømi: Um $a = 3$ og $x$ økist 10% ($p = 0.10$), so vøkstur í $f$ er $(1.1)^3 − 1 \approx 0.331 = 33.1$% (sum er tætt við $3 \cdot 10\% = 30\%$).
 
 
 ### Eginleikar
@@ -38,33 +36,32 @@ Dømi: um b = 3 og x økist 10% (p = 0.10), so vøkstur í f er (1.1)^3 − 1 �
 - Funktiónin er altíð negativ
 
 **Tá $b > 0$:**
-- Funktiónin veksur
+- Funktiónin er vaksandi 
 
 **Tá $b < 0$:**
-- Funktiónin minkir
-
-### Dømi
-
-$$
-f(x) = 2x^3
-$$
-
-Her er $a = 2$ og $b = 3$.
-
-$$
-f(x) = -\frac{1}{2}x^{-2} = -\frac{1}{2x^2}
-$$
-
-Her er $a = -\frac{1}{2}$ og $b = -2$.
+- Funktiónin er fallandi
 
 ### Serligi føri
 
-- $b = 1$: Linjurættur
-- $b = 2$: Kvadratisk
-- $b = \frac{1}{2}$: Kvadratrót
-- $b = -1$: Reciprokur
+- $a = 1$: Linjurøtt funktión
+- $a = 2$: Kvadratisk funktioón
+- $a = \frac{1}{2}$: Kvadratrót
+- $a = -1$: Resiprokk 
+
+
+### Finn a og b, dømi
+$$
+f(x) = 2x^3
+$$
+Her er $b = 2$ og $a = 3$.
+$$
+f(x) = -\frac{1}{2}x^{-2} = -\frac{1}{2x^2}
+$$
+Her er $b = -\frac{1}{2}$ og $a = -2$.
+
 
 ## Filmur 
-{{< video https://youtu.be/W3J6A6v2LPM?si=6iIqrCFNRkZ0IfsP >}}
+{{< video https://www.youtube.com/watch?v=W3J6A6v2LPM >}}
+
 
 

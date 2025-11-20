@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/rotroknireglur.html</loc>
-    <lastmod>2025-11-17T20:04:55.996Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.231Z</lastmod>
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/progv-3kvadratsetningur-algebraiskt.html</loc>
@@ -66,19 +66,44 @@
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/primtol.html</loc>
-    <lastmod>2025-11-17T19:54:22.489Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.225Z</lastmod>
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/potensroknireglur-03.html</loc>
-    <lastmod>2025-11-17T19:46:43.062Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.218Z</lastmod>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/potensar.html</loc>
     <lastmod>2025-11-17T19:29:23.821Z</lastmod>
+=======
+    <loc>https://tannstori.github.io/Quarto_2.0/index.html</loc>
+    <lastmod>2025-11-14T23:12:13.529Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/about.html</loc>
+    <lastmod>2025-11-17T19:30:19.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/index.html</loc>
+    <lastmod>2025-11-14T23:01:11.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/potensroknireglur.html</loc>
+    <lastmod>2025-11-20T18:51:05.222Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/potensroknireglur-02.html</loc>
+    <lastmod>2025-11-20T18:51:05.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html</loc>
+    <lastmod>2025-11-20T18:51:05.212Z</lastmod>
+>>>>>>> a1259e5eebfaf3f3776e6345f253cc4aaefb2401
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.html</loc>
-    <lastmod>2025-11-17T20:00:40.133Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.208Z</lastmod>
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/kvadratsetningar-introduktion.html</loc>
@@ -526,7 +551,7 @@
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.html</loc>
-    <lastmod>2025-11-17T20:02:01.925Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.204Z</lastmod>
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.html</loc>
@@ -554,15 +579,20 @@
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/rotroknireglur-02.html</loc>
-    <lastmod>2025-11-17T20:05:50.410Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.229Z</lastmod>
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/rotur_og_rotroknireglur.html</loc>
-    <lastmod>2025-11-17T20:06:07.031Z</lastmod>
+    <lastmod>2025-11-20T18:51:05.233Z</lastmod>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/tol-makad_og_stok.html</loc>
     <lastmod>2025-11-13T10:36:06.173Z</lastmod>
+=======
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/hagfrodi/index.html</loc>
+    <lastmod>2025-11-10T19:20:40.304Z</lastmod>
+>>>>>>> a1259e5eebfaf3f3776e6345f253cc4aaefb2401
   </url>
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/tol-rationel_og_irrationel.html</loc>
@@ -577,6 +607,7 @@
     <lastmod>2025-11-13T09:33:50.564Z</lastmod>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://tannstori.github.io/Quarto_2.0/years/2.g/funktionir/lesson-01-functions.html</loc>
     <lastmod>2025-11-13T09:33:50.565Z</lastmod>
   </url>
@@ -603,5 +634,97 @@
   <url>
     <loc>https://tannstori.github.io/Quarto_2.0/years/2.g/vektorar_2d/index.html</loc>
     <lastmod>2025-11-13T09:33:50.572Z</lastmod>
+=======
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/index.html</loc>
+    <lastmod>2025-11-13T10:40:34.174Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/potensfunktionir_1.html</loc>
+    <lastmod>2025-11-20T21:27:57.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/potensfunktionir_a_o_b.html</loc>
+    <lastmod>2025-11-20T21:18:44.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/linjurattar_funktionir_1.html</loc>
+    <lastmod>2025-11-20T18:51:05.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/linjurattar_funktionir_2.html</loc>
+    <lastmod>2025-11-20T18:51:05.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/linjurattar_funktionir_a_og_b.html</loc>
+    <lastmod>2025-11-20T18:51:05.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html</loc>
+    <lastmod>2025-11-20T18:51:05.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/linjurattar_funktionir_domi.html</loc>
+    <lastmod>2025-11-20T18:51:05.202Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/funktions_kanning.html</loc>
+    <lastmod>2025-11-20T18:51:05.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/funktions_kanning_2.html</loc>
+    <lastmod>2025-11-20T18:51:05.188Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/eksponentiellar_funktion_helvt.html</loc>
+    <lastmod>2025-11-20T22:09:19.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/tol_og_algebra/potensar.html</loc>
+    <lastmod>2025-11-20T18:51:05.214Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/potensfunktionir_2.html</loc>
+    <lastmod>2025-11-20T21:27:47.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/logaritmur_1.html</loc>
+    <lastmod>2025-11-20T21:36:12.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/logaritmur_2.html</loc>
+    <lastmod>2025-11-20T21:35:40.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/logaritmur_roknireglur.html</loc>
+    <lastmod>2025-11-20T21:40:47.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/population_og_stakroynd.html</loc>
+    <lastmod>2025-11-10T19:25:58.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/mangli_at_uploada_eksponentiellar_funktionir.html</loc>
+    <lastmod>2025-11-20T22:22:13.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/eksponentiellar_funktion_tvi_helt.html</loc>
+    <lastmod>2025-11-20T22:23:15.454Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/eksponentiellar_funktion_tvi_progv.html</loc>
+    <lastmod>2025-11-20T22:18:52.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/eksponentiellar_funktion_finn_ab.html</loc>
+    <lastmod>2025-11-20T22:26:46.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/funktionir/eksponentiellar_funktion_finn_ab_domi.html</loc>
+    <lastmod>2025-11-20T22:30:33.453Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tannstori.github.io/Quarto_2.0/years/1.g/hagfrodi/population_og_stakroynd.html</loc>
+    <lastmod>2025-11-10T19:25:58.283Z</lastmod>
+>>>>>>> a1259e5eebfaf3f3776e6345f253cc4aaefb2401
   </url>
 </urlset>

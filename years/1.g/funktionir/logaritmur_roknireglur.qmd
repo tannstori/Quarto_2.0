@@ -2,13 +2,12 @@
 title: "Logaritmur roknireglur"
 ---
 
-## Innleiðing
-
-Henda undirvísing fevnir um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Grundleggjandi
+Logaritmfunktiónin $f(x) = \log(x)$:
+- Einans definera fyri $x > 0$
+- Fer ígjøgnum (1, 0)
+- Vaksandi funktión
+- Asymptota við $x = 0$
 
 ### Høvuðsreglur
 
@@ -27,23 +26,23 @@ $$
 \log(a^n) = n \cdot \log(a)
 $$
 
-**4. Grunnbroytingarregla:**
+**4. Grundbroytingarregla:**
 $$
 \log_a(b) = \frac{\log_c(b)}{\log_c(a)}
 $$
 
-### Serligi virði
+### Serlig virði
 
 $$
 \log(1) = 0
 $$
 
 $$
-\log(10) = 1 \quad \text{(um grunnurin er 10)}
+\log(10) = 1 \quad \text{(um grundtalið er 10)}
 $$
 
 $$
-\ln(e) = 1 \quad \text{(um grunnurin er } e \text{)}
+\ln(e) = 1 \quad \text{(um grundtalið er } e \text{)}
 $$
 
 $$
@@ -67,5 +66,60 @@ $$
 \log(0.1) = \log\left(\frac{1}{10}\right) = \log(1) - \log(10) = 0 - 1 = -1
 $$
 
+### Logaritmiskir líkningar
+
+Loysa líkningar við logaritmum.
+
+### Dømi 1: Einfalt
+
+$$
+\log(x) = 2
+$$
+
+$$
+x = 10^2 = 100
+$$
+
+### Dømi 2: Við roknireglum
+
+$$
+\log(x) + \log(3) = 2
+$$
+
+$$
+\log(3x) = 2
+$$
+
+$$
+3x = 10^2 = 100
+$$
+
+$$
+x = \frac{100}{3} \approx 33.33
+$$
+
+### Dømi 3: Eksponentlík líkning
+
+$$
+2^x = 16
+$$
+
+Tak logaritmuna:
+$$
+\log(2^x) = \log(16)
+$$
+
+$$
+x \log(2) = \log(16)
+$$
+
+$$
+x = \frac{\log(16)}{\log(2)} = \frac{\log(2^4)}{\log(2)} = \frac{4\log(2)}{\log(2)} = 4
+$$
+
+
+
+
+
 ## Filmur 
-{{< video https://youtu.be/cr-PECPblVs?si=27AIKcMrvhxd-Ani >}}
+{{< video https://www.youtube.com/watch?v=6h6VmoMa1Ww >}}
